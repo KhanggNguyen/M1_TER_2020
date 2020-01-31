@@ -1,706 +1,706 @@
-astronomie;science;-170;
-botanique;science;-53;
-biologie;science;-60;
-éléphant;science;-53;
-mathématiser;science;-58;
-archéologie;science;-80;
-calcaire;science;-55;
-psychologie;science;-70;
-Entomologie;science;-60;
-révolution;science;-56;
-lumière;science;-60;
-téléphone;science;-54;
-Archimède;science;-150;
-Mathématique;science;-57;
-Océanographie;science;-120;
-technologique;science;-57;
-méthylique;science;-80;
-transcriptase;science;-55;
-astrobiologie;science;-80;
-ectoplasme;science;-57;
-recherche;science;-53;
-étudier;science;-70;
-tire-sève;science;-60;
-espace;science;-53;
-sida;science;-52;
-Antoine Bussy;science;-100;
-Traité de dynamique;science;-60;
-Aéronautique;science;-53;
-terminologie;science;-60;
-vivant;science;-52;
-hétérozygote;science;-53;
-scientifique;science;-60;
-incorrigible;science;-55;
-anthropologue;science;-29;
-archéologue;science;-31;
-astronome;science;-31;
-botaniste;science;-33;
-biologiste;science;-25;
-biochimiste;science;-33;
-biomathématicien;science;-32;
-chercheur;science;-33;
-chimiste;science;-25;
-cryptologue;science;-30;
-exobiologiste;science;-28;
-explorateur;science;-29;
-économiste;science;-27;
-éthologue;science;-25;
-ethnologue;science;-33;
-géologue;science;-34;
-glaciologue;science;-33;
-mathématicien;science;-35;
-météorologue;science;-25;
-paléontologue;science;-35;
-physicien;science;-32;
-raffineur;science;-31;
-sismologue;science;-27;
-sociologue;science;-28;
-statisticien;science;-35;
-aéraulique;science;-35;
-aéropalynologie;science;-31;
-arithmétique;science;-30;
-astrométrie;science;-28;
-biochimie;science;-28;
-biophysique;science;-31;
-chimie;science;-35;
-chimie organique;science;-31;
-cosmologie;science;-28;
-criminologie;science;-34;
-cryptozoologie;science;-34;
-électricité;science;-45;
-électronique;science;-35;
-entomologie;science;-32;
-éthologie;science;-28;
-génétique;science;-28;
-géodésie;science;-30;
-géographie;science;-28;
-géophysique;science;-25;
-gnoséologie;science;-33;
-granulométrie;science;-28;
-informatique;science;-34;
-logique;science;-27;
-mathématique;science;-27;
-mathématiques;science;-29;
-maths;science;-32;
-mémétique;science;-32;
-odontologie;science;-32;
-ophtalmologie;science;-32;
-paléographie;science;-28;
-paléontologie;science;-27;
-pataphysique;science;-26;
-pétrologie;science;-28;
-pétrologie cristalline;science;-27;
-pétrologie magmatique;science;-33;
-pétrologie métamorphique;science;-33;
-pétrologie sédimentaire;science;-31;
-physique;science;-25;
-science des médias;science;-29;
-science politique;science;-31;
-sédimentologie;science;-31;
-séismologie;science;-32;
-sismologie;science;-29;
-symbolique;science;-30;
-technologie;science;-31;
-thématologie;science;-26;
-topographie;science;-33;
-toxicologie;science;-35;
-zootechnie;science;-32;
-Paul del Abbaco;science;-35;
-Liliane Ackermann;science;-31;
-Al Kwarizmi;science;-32;
-Guillaume Amontons;science;-26;
-André-Marie Ampère;science;-32;
-Anaximandre;science;-33;
-André Vésale;science;-31;
-Svante August Arrhenius;science;-27;
-Pierre Victor Auger;science;-28;
-Averroès;science;-25;
-Avicenne;science;-32;
-Amedeo Avogadro;science;-25;
-Charles Babbage;science;-34;
-Leo Hendrick Baekeland;science;-33;
-Adolf von Baeyer;science;-33;
-John Logie Baird;science;-35;
-Christiaan Barnard;science;-33;
-Karl Josef Bayer;science;-31;
-Henri Becquerel;science;-31;
-Alexander Graham Bell;science;-31;
-Carl Benz;science;-31;
-Jacques Bernoulli;science;-28;
-Jean Bernoulli;science;-29;
-Daniel Bernoulli;science;-31;
-Marcellin Berthelot;science;-31;
-Alphonse Bertillon;science;-32;
-Henry Bessemer;science;-27;
-Wilhelm Bjerknes;science;-27;
-Joseph Black;science;-30;
-Niels Bohr;science;-30;
-Ludwig Boltzmann;science;-33;
-Jean-Charles de Borda;science;-30;
-Robert Boyle;science;-29;
-Tycho Brahe;science;-29;
-Louis Braille;science;-27;
-Édouard Branly;science;-30;
-Wernher von Braun;science;-26;
-Auguste Bravais;science;-35;
-Louis de Broglie;science;-26;
-Isambard Kingdom Brunel;science;-28;
-Robert Wilhelm Bunsen;science;-28;
-Chester F. Carlson;science;-27;
-Wallace Hume Carothers;science;-35;
-Augustin Louis Cauchy;science;-28;
-Henry Cavendish;science;-25;
-James Chadwick;science;-33;
-Georges Charpak;science;-25;
-Erwin Chargaff;science;-25;
-Yves Chauvin;science;-31;
-Eugène Chevreul;science;-31;
-Alonzo Church;science;-31;
-Rudolf Julius Emanuel Clausius;science;-26;
-Christopher Cockerell;science;-35;
-Nicolas Copernic;science;-30;
-Charles de Coulomb;science;-30;
-Jacques-Yves Cousteau;science;-33;
-Francis Crick;science;-30;
-John Douglas Cockcroft;science;-27;
-William Crookes;science;-25;
-Nicolas-Joseph Cugnot;science;-33;
-Marie Curie;science;-32;
-Louis Jacques Mandé Daguerre;science;-33;
-Gottlieb Daimler;science;-28;
-John Dalton;science;-26;
-Charles Robert Darwin;science;-27;
-Humphry Davy;science;-30;
-Rudolf Diesel;science;-31;
-Paul Dirac;science;-28;
-Theodosius Dobzhansky;science;-30;
-Christian Doppler;science;-33;
-Jean-Baptiste André Dumas;science;-31;
-John Boyd Dunlop;science;-33;
-George Eastman;science;-35;
-Thomas Alva Edison;science;-31;
-Paul Ehrlich;science;-25;
-Albert Einstein;science;-25;
-Willem Einthoven;science;-28;
-Euclide;science;-26;
-Leonhard Euler;science;-30;
-Oronce Fine;science;-25;
-Michael Faraday;science;-34;
-Enrico Fermi;science;-32;
-Richard Feynman;science;-32;
-Alexander Fleming;science;-25;
-Jean Bernard Léon Foucault;science;-34;
-Joseph Fourier;science;-31;
-Benjamin Franklin;science;-31;
-Joseph von Fraunhofer;science;-32;
-Augustin Fresnel;science;-26;
-Claude Galien;science;-33;
-Galilée;science;-32;
-Évariste Galois;science;-35;
-Luigi Galvani;science;-29;
-Louis Joseph Gay-Lussac;science;-30;
-Robert Hutchings Goddard;science;-28;
-Kurt Gödel;science;-31;
-Stephen Jay Gould;science;-32;
-Fritz Haber;science;-33;
-Otto Hahn;science;-26;
-Charles Martin Hall;science;-35;
-Edmond Halley;science;-28;
-abbé René Just Haüy;science;-35;
-Joseph Henry;science;-31;
-William Herschel;science;-25;
-Heinrich Rudolf Hertz;science;-35;
-Gustav Hertz;science;-27;
-David Hilbert;science;-26;
-Hippocrate;science;-35;
-Frederick Gowland Hopkins;science;-30;
-Elias Howe;science;-27;
-Edwin Hubble;science;-35;
-Christiaan Huygens;science;-29;
-Theodor Ionescu;science;-35;
-Albert Jacquard;science;-31;
-Irène Joliot-Curie;science;-30;
-Frédéric Joliot-Curie;science;-34;
-James Prescott Joule;science;-27;
-William Thomson;science;-25;
-Lord Kelvin;science;-30;
-Johannes Kepler;science;-29;
-Gustav Kirchhoff;science;-33;
-Stephen Cole Kleene;science;-26;
-Robert Koch;science;-28;
-Edwin H. Land;science;-27;
-Karl Landsteiner;science;-31;
-César Lattes;science;-32;
-Max von Laue;science;-33;
-Antoine de Lavoisier;science;-28;
-Henry Le Chatelier;science;-30;
-Adrien-Marie Legendre;science;-35;
-Gottfried Leibniz;science;-28;
-François Le Lionnais;science;-33;
-Etienne Lenoir;science;-35;
-Carl von Linné;science;-34;
-Joseph Lister;science;-33;
-Hendrik Lorentz;science;-34;
-Auguste Lumière;science;-25;
-Louis Lumière;science;-35;
-Pierre-Simon Laplace;science;-33;
-Ernst Mach;science;-31;
-Marcello Malpighi;science;-26;
-Guglielmo Marconi;science;-33;
-abbé Edme Mariotte;science;-25;
-James Clerk Maxwell;science;-25;
-Ernst Mayr;science;-29;
-Cyrus Hall McCormick;science;-30;
-Gregor Johann Mendel;science;-35;
-Dmitri Mendeleïev;science;-32;
-Ottmar Mergenthaler;science;-31;
-Marin Mersenne;science;-29;
-Albert Abraham Michelson;science;-25;
-Hermann Minkowski;science;-28;
-Henri Moissan;science;-30;
-Théodore Monod;science;-29;
-Samuel Morse;science;-31;
-James Nasmyth;science;-26;
-Isaac Newton;science;-25;
-Paul Gottlieb Nipkow;science;-29;
-Georg Simon Ohm;science;-29;
-Robert Oppenheimer;science;-30;
-Wilhelm Ostwald;science;-29;
-Nikolaus Otto;science;-32;
-George Emil Palade;science;-27;
-Charles Algernon Parsons;science;-28;
-Blaise Pascal;science;-31;
-Louis Pasteur;science;-25;
-Ivan Petrovitch Pavlov;science;-26;
-William Henry Perkin;science;-31;
-abbé Jean Picard;science;-35;
-Isaac Pitman;science;-35;
-Max Planck;science;-27;
-Julius Plücker;science;-26;
-Henri Poincaré;science;-32;
-George Dawson Preston;science;-27;
-Joseph Priestley;science;-27;
-Ptolémée;science;-25;
-Pythagore;science;-33;
-Hubert Reeves;science;-30;
-Bernhard Riemann;science;-26;
-Gilles Personne de Roberval;science;-32;
-Jean-Baptiste Romé de L'Isle;science;-28;
-Wilhelm Röntgen;science;-30;
-Ernest Rutherford;science;-33;
-Bertrand Russell;science;-32;
-Edward Sabine;science;-25;
-Wallace Clement Sabine;science;-26;
-Peter Safar;science;-28;
-Henri Sainte-Claire Deville;science;-27;
-Jonas Salk;science;-27;
-Erwin Schrödinger;science;-32;
-Paul Schützenberger;science;-32;
-Laurent Schwartz;science;-33;
-Christopher Latham Sholes;science;-25;
-Carl Wilhelm Siemens;science;-28;
-Igor Ivanovich Sikorsky;science;-25;
-Georg Stahl;science;-28;
-Josef Stefan;science;-35;
-George Stephenson;science;-25;
-Friedrich Kekulé von Stradonitz;science;-30;
-Joseph Wilson Swan;science;-31;
-William Henry Fox Talbot;science;-25;
-Nikola Tesla;science;-29;
-Thalès de Milet;science;-33;
-Joseph John Thomson;science;-26;
-Evangelista Torricelli;science;-25;
-Charles Townes;science;-25;
-Alan Mathison Turing;science;-32;
-Johannes Diderik Van der Waals;science;-28;
-Nicolas Louis Vauquelin;science;-26;
-Paul-Émile Victor;science;-34;
-Alessandro Volta;science;-30;
-Felix Wankel;science;-34;
-James Watson;science;-27;
-Robert Watson-Watt;science;-35;
-James Watt;science;-31;
-Karl Weierstrass;science;-34;
-Franck Whittle;science;-25;
-Joseph Whitworth;science;-33;
-Wilhelm Wien;science;-26;
-Edward Witten;science;-27;
-Friedrich Wöhler;science;-25;
-Wilbur Wright;science;-34;
-Orville Wright;science;-34;
-Charles Adolphe Wurtz;science;-33;
-accélérateur de particules;science;-33;
-accélérateur électrostatique;science;-31;
-accéléromètre;science;-30;
-alternateur;science;-25;
-ampèremètre;science;-29;
-amplificateur électronique;science;-28;
-amplificateur opérationnel;science;-33;
-analyseur à pénombre;science;-26;
-analyseur de spectre;science;-31;
-analyseur mécanique dynamique;science;-32;
-anémo-cinémographe;science;-31;
-anémomètre;science;-32;
-anneau de collision;science;-30;
-antenne;science;-34;
-appareil à force constante;science;-33;
-appareil de Cailletet;science;-28;
-appareil de mesure d'épaisseur de revêtement;science;-25;
-aréomètre;science;-20;
-audiomètre;science;-29;
-balance de Cotton;science;-26;
-balance de Coulomb;science;-26;
-balance de Curie;science;-30;
-balance d'Eötvös;science;-26;
-balance de torsion;science;-35;
-banc d'optique;science;-33;
-banc Kofler;science;-26;
-baromètre de Huyghens;science;-27;
-becher;science;-26;
-bétatron;science;-30;
-bévatron;science;-32;
-bille de Brinell;science;-27;
-bobine d'induction;science;-26;
-bobine de Ruhmkorff;science;-29;
-boîte à résistance;science;-34;
-bolomètre;science;-32;
-bombe calorimétrique;science;-30;
-boussole;science;-28;
-bouteille de Leyde;science;-25;
-bombe électromagnétique;science;-27;
-cable coaxial;science;-29;
-cage de Faraday;science;-31;
-calculateur quantique;science;-35;
-cale Johansson;science;-35;
-calorimètre;science;-28;
-calorimètre de Berthelot;science;-30;
-calorimètre de Bunsen;science;-34;
-calorimètre isopéribolique;science;-26;
-calutron;science;-34;
-canon à électron;science;-35;
-capacimètre;science;-30;
-capsule manométrique;science;-35;
-cathétomètre;science;-25;
-cavité résonnante;science;-35;
-chambre à bulles;science;-26;
-chambre claire;science;-25;
-chambre à brouillard;science;-33;
-chambre à condensation de Wilson;science;-27;
-chambre à étincelles;science;-28;
-chambre à fils;science;-34;
-chambre d'ionisation;science;-33;
-chambre sourde;science;-35;
-circuit bouchon;science;-26;
-circuit logique;science;-35;
-coelestat;science;-29;
-coelostat;science;-35;
-coin d'air;science;-31;
-collimateur;science;-34;
-colonne à distiller;science;-27;
-colonne de Vigreux;science;-31;
-commutateur;science;-26;
-commutatrice;science;-32;
-compresseur;science;-27;
-condensateur;science;-26;
-condensateur d'Aepinus;science;-31;
-condensateur de Lampar et Thompson;science;-30;
-condenseur;science;-32;
-condenseur optique;science;-30;
-condenseur thermodynamique;science;-32;
-convertisseur;science;-30;
-cosinusphimetre;science;-29;
-phasemetre;science;-26;
-cristaux liquides;science;-30;
-cryostat;science;-30;
-cuve rhéographique;science;-26;
-cyclotron;science;-31;
-densimètre;science;-30;
-détecteur de particules;science;-34;
-détendeur;science;-34;
-diac;science;-33;
-diapason;science;-33;
-diaphragme;science;-31;
-diascope;science;-33;
-dilatomètre;science;-35;
-dilatomètre de Chevenard;science;-30;
-diode;science;-26;
-dipôle électrique;science;-34;
-disjoncteur;science;-26;
-disque de Nipkov;science;-25;
-doubleur de Latour;science;-26;
-doubleur de Schenkel;science;-33;
-duromètre Shore;science;-26;
-dynamo;science;-33;
-dynamomètre;science;-35;
-électro-aimant;science;-31;
-électrocardiographe;science;-29;
-électrode;science;-30;
-électropompe;science;-35;
-électromètre;science;-35;
-électroscope;science;-26;
-électrovanne;science;-29;
-émetteur radio;science;-29;
-émetteur de télévision;science;-28;
-émetteur et récepteur infra-rouge;science;-34;
-émetteur-récepteur;science;-34;
-émetteur-récepteur radio;science;-30;
-enregistreur de données;science;-30;
-étuve;science;-29;
-évaporateur;science;-29;
-fente d'Young;science;-28;
-fibre optique;science;-26;
-fil électrique;science;-26;
-four solaire d'Odeillo;science;-35;
-frontophocomètre;science;-35;
-galvanomètre;science;-25;
-générateur;science;-29;
-générateur basse fréquence;science;-25;
-générateur électrique;science;-35;
-goniographe;science;-30;
-goniomètre;science;-26;
-gravimètre;science;-26;
-guide d'onde;science;-28;
-gyroscope;science;-27;
-hacheur;science;-35;
-héliographe de Campbell;science;-27;
-héliostat;science;-30;
-hygromètre;science;-29;
-iconoscope;science;-33;
-indicateur coloré;science;-29;
-indicateur de Watt;science;-28;
-inductancemètre;science;-34;
-interféromètre;science;-34;
-interféromètre de Fabry et Perot;science;-33;
-interféromètre de Michelson;science;-27;
-interrupteur;science;-33;
-interrupteur de Foucault;science;-31;
-jauge de contrainte;science;-32;
-jauge de déformation;science;-27;
-extensomètre à fils résistants;science;-25;
-jauge électromagnétique;science;-25;
-jauge Hibernia;science;-31;
-jauge d'ionisation;science;-27;
-jauge de Mac Leod;science;-26;
-jauge Owen;science;-30;
-jauge Saugnac;science;-26;
-klystron;science;-27;
-lame de Schmidt;science;-35;
-lampe;science;-27;
-laser;science;-27;
-lentille de Fresnel;science;-29;
-ligne à retard;science;-28;
-liquéfacteur Philips;science;-29;
-ludion;science;-33;
-lunette astronomique;science;-31;
-machine d'Atwood;science;-28;
-machine ditherme;science;-35;
-machine frigorifique;science;-25;
-machine de Wimshurst;science;-32;
-magnétron;science;-32;
-maser;science;-30;
-microbalance à quartz;science;-25;
-microbalance piézoélectrique;science;-31;
-microcalorimètre;science;-29;
-microscope à effet tunnel;science;-33;
-microscope électronique;science;-33;
-microscope à force atomique;science;-26;
-microscope ionique;science;-29;
-microsonde de Castaing;science;-29;
-miroir;science;-29;
-miroir de Jasmin;science;-29;
-moteur;science;-29;
-multimètre;science;-35;
-nanocapteur;science;-32;
-ohmmètre;science;-31;
-ordinateur;science;-30;
-oscilloscope;science;-33;
-oscilloscope de Blondel;science;-34;
-paroi diatherme;science;-29;
-pendule de Borda;science;-35;
-pendule de Foucault;science;-26;
-pendule balistique;science;-34;
-pentode;science;-28;
-phanotron;science;-30;
-photomultiplicateur;science;-31;
-pile électrique;science;-34;
-pile atomique;science;-34;
-pile à combustible;science;-31;
-pile leclanché;science;-34;
-pile photoélectrique;science;-30;
-pile de Volta;science;-27;
-pile de Weston;science;-29;
-polariseur;science;-31;
-pompe à chaleur;science;-34;
-pompe de Gaede;science;-33;
-pompe de Langmair;science;-29;
-pompe à vide;science;-31;
-pont de Wheatstone;science;-35;
-posemètre;science;-34;
-potentiomètre;science;-25;
-précipitateur électrostatique;science;-29;
-prisme de Nicol;science;-28;
-prisme de Wollaston;science;-30;
-puissancemètre;science;-29;
-pulsomètre;science;-35;
-pyrhéliomètre;science;-26;
-pyromètre;science;-34;
-quadripôle;science;-32;
-radar;science;-35;
-radiamètre;science;-27;
-radiomètre;science;-32;
-radiomètre de Crookes;science;-26;
-radiotélescope;science;-25;
-réacteur nucléaire;science;-35;
-réflectomètre;science;-31;
-réfractomètre d'Abbe;science;-32;
-réfractomètre hyperfréquence;science;-34;
-réfrigérateur;science;-29;
-résistor;science;-27;
-résonateur de Helmholtz;science;-32;
-rhéostat;science;-35;
-roue de Barlow;science;-30;
-scanner;science;-26;
-scintillateur;science;-31;
-séquenceur de gènes;science;-28;
-sifflet de Galton;science;-35;
-sismomètre;science;-35;
-solénoïde;science;-34;
-sonar;science;-34;
-spectrographe;science;-33;
-spectrographe de masse;science;-35;
-spectromètre;science;-27;
-sphère intégrante;science;-26;
-spiromètre;science;-29;
-statoréacteur;science;-31;
-stroboscope;science;-25;
-synchrotron;science;-30;
-tachymètre;science;-30;
-télescope;science;-32;
-télévision;science;-30;
-thermistance;science;-32;
-thermo-hygrographe;science;-29;
-thermo-hygromètre;science;-31;
-thermomètre;science;-33;
-thermomètre à résistance de platine;science;-29;
-thermocouple;science;-27;
-thermocycleur;science;-29;
-thermopile;science;-27;
-thermostat;science;-32;
-thyratron;science;-32;
-thyristor;science;-35;
-transformateur;science;-31;
-transistor;science;-26;
-transistor à effet de champ;science;-25;
-transistor unijonction;science;-27;
-triode;science;-29;
-trombone de Koenig;science;-35;
-tube cathodique;science;-26;
-tube de Coolidge;science;-28;
-tube de Crookes;science;-34;
-tube de Kundt;science;-35;
-tube de Natterer;science;-27;
-tube de Newton;science;-26;
-tube à ondes progressives;science;-25;
-tube phare;science;-32;
-tube de Zworykin;science;-33;
-turbine;science;-25;
-turbopropulseur;science;-26;
-tuyère;science;-27;
-variateur de vitesse;science;-33;
-vase de Dewar;science;-32;
-verre de Wood;science;-35;
-vibromètre laser;science;-27;
-viscoanalyseur;science;-28;
-visiomètre;science;-33;
-voltmètre;science;-31;
-inventeur;science;-100;
-intelligence;science;-54;
-fête;science;-54;
-gynécologie;science;-60;
-binon;science;-31;
-Haemophilus influenzae;science;-54;
-médecine;science;-100;
-alchimie;science;-110;
-bryologie;science;-52;
-oncogénèse;science;-30;
-recherche>80973;science;-30;
-physique des plasmas;science;-30;
-Boris Cyrulnik;science;-27;
-vaccin;science;-90;
-économie;science;-51;
-espace>23255;science;-26;
-nom vernaculaire;science;-5;
-hygromètre à condensation;science;-30;
-hygromètre à cheveu;science;-34;
-bacille;science;-28;
-Géologie;science;-51;
-protocole de recherche;science;-27;
-anatomie;science;-27;
-modèles animaux;science;-31;
-spitant;science;-10;
-Criminologie;science;-81;
-frigo;science;-32;
-frigidaire;science;-29;
-SIDA;science;-52;
-syndrome d'immunodéficience acquise;science;-52;
-Alan Turing;science;-32;
-'pataphysique;science;-26;
-maladie;science;-51;
-science citoyenne;science;-34;
-sciences citoyennes;science;-29;
-lune;science;-51;
-séismomètre;science;-35;
-électroaimant;science;-31;
-Astronomie;science;-170;
-Médecine;science;-20;
-Chimie;science;-35;
-Mathématiques;science;-29;
-Archéologie;science;-80;
-Géographie;science;-28;
-géologie;science;-51;
-médecine>80973;science;-20;
-Linguistique;science;-20;
-Optique;science;-20;
-Pasteur;science;-20;
-Philosophie;science;-20;
-Génétique;science;-20;
-linguistique;science;-20;
-momie d'Hatchepsout;science;-20;
-Mathieu Lafourcade;science;-20;
-heuristique;science;-29;
-euristique;science;-29;
-progrès scientifique;science;-30;
-publication>26038>115763;science;-31;
-expérimenté>80973;science;-25;
-automatique>80973;science;-25;
-physique>80973;science;-25;
-anatomie>80973;science;-25;
-logique>80973;science;-25;
-économie>80973;science;-25;
-pharmacie>80973;science;-25;
-Economie;science;-1;
-Physique;science;-1;
-particule virale;science;117;
-organicisme;science;34;
-virion;science;139;
-sérendipité;science;27;
-IA;science;75;
-physique des particules;science;38;
-esthétique>80973;science;27;
-pathologie>80973;science;28;
-acoustique>80973;science;30;
-esthétique;science;15;
-acoustique>171869;science;15;
-pathologie;science;15;
-préhistoire>80973;science;42;
-préhistoire;science;35;
-acoustique;science;15;
-prix Abel;science;35;
-physiologie>80973;science;28;
-physiologie;science;15;
-=virion=;science;143;
-bonnes pratiques;science;61;
-météo>80973;science;25;
-météo;science;15;
-hydrologie>80973;science;25;
-hydrologie;science;15;
+astronomie
+botanique
+biologie
+éléphant
+mathématiser
+archéologie
+calcaire
+psychologie
+Entomologie
+révolution
+lumière
+téléphone
+Archimède
+Mathématique
+Océanographie
+technologique
+méthylique
+transcriptase
+astrobiologie
+ectoplasme
+recherche
+étudier
+tire-sève
+espace
+sida
+Antoine Bussy
+Traité de dynamique
+Aéronautique
+terminologie
+vivant
+hétérozygote
+scientifique
+incorrigible
+anthropologue
+archéologue
+astronome
+botaniste
+biologiste
+biochimiste
+biomathématicien
+chercheur
+chimiste
+cryptologue
+exobiologiste
+explorateur
+économiste
+éthologue
+ethnologue
+géologue
+glaciologue
+mathématicien
+météorologue
+paléontologue
+physicien
+raffineur
+sismologue
+sociologue
+statisticien
+aéraulique
+aéropalynologie
+arithmétique
+astrométrie
+biochimie
+biophysique
+chimie
+chimie organique
+cosmologie
+criminologie
+cryptozoologie
+électricité
+électronique
+entomologie
+éthologie
+génétique
+géodésie
+géographie
+géophysique
+gnoséologie
+granulométrie
+informatique
+logique
+mathématique
+mathématiques
+maths
+mémétique
+odontologie
+ophtalmologie
+paléographie
+paléontologie
+pataphysique
+pétrologie
+pétrologie cristalline
+pétrologie magmatique
+pétrologie métamorphique
+pétrologie sédimentaire
+physique
+science des médias
+science politique
+sédimentologie
+séismologie
+sismologie
+symbolique
+technologie
+thématologie
+topographie
+toxicologie
+zootechnie
+Paul del Abbaco
+Liliane Ackermann
+Al Kwarizmi
+Guillaume Amontons
+André-Marie Ampère
+Anaximandre
+André Vésale
+Svante August Arrhenius
+Pierre Victor Auger
+Averroès
+Avicenne
+Amedeo Avogadro
+Charles Babbage
+Leo Hendrick Baekeland
+Adolf von Baeyer
+John Logie Baird
+Christiaan Barnard
+Karl Josef Bayer
+Henri Becquerel
+Alexander Graham Bell
+Carl Benz
+Jacques Bernoulli
+Jean Bernoulli
+Daniel Bernoulli
+Marcellin Berthelot
+Alphonse Bertillon
+Henry Bessemer
+Wilhelm Bjerknes
+Joseph Black
+Niels Bohr
+Ludwig Boltzmann
+Jean-Charles de Borda
+Robert Boyle
+Tycho Brahe
+Louis Braille
+Édouard Branly
+Wernher von Braun
+Auguste Bravais
+Louis de Broglie
+Isambard Kingdom Brunel
+Robert Wilhelm Bunsen
+Chester F. Carlson
+Wallace Hume Carothers
+Augustin Louis Cauchy
+Henry Cavendish
+James Chadwick
+Georges Charpak
+Erwin Chargaff
+Yves Chauvin
+Eugène Chevreul
+Alonzo Church
+Rudolf Julius Emanuel Clausius
+Christopher Cockerell
+Nicolas Copernic
+Charles de Coulomb
+Jacques-Yves Cousteau
+Francis Crick
+John Douglas Cockcroft
+William Crookes
+Nicolas-Joseph Cugnot
+Marie Curie
+Louis Jacques Mandé Daguerre
+Gottlieb Daimler
+John Dalton
+Charles Robert Darwin
+Humphry Davy
+Rudolf Diesel
+Paul Dirac
+Theodosius Dobzhansky
+Christian Doppler
+Jean-Baptiste André Dumas
+John Boyd Dunlop
+George Eastman
+Thomas Alva Edison
+Paul Ehrlich
+Albert Einstein
+Willem Einthoven
+Euclide
+Leonhard Euler
+Oronce Fine
+Michael Faraday
+Enrico Fermi
+Richard Feynman
+Alexander Fleming
+Jean Bernard Léon Foucault
+Joseph Fourier
+Benjamin Franklin
+Joseph von Fraunhofer
+Augustin Fresnel
+Claude Galien
+Galilée
+Évariste Galois
+Luigi Galvani
+Louis Joseph Gay-Lussac
+Robert Hutchings Goddard
+Kurt Gödel
+Stephen Jay Gould
+Fritz Haber
+Otto Hahn
+Charles Martin Hall
+Edmond Halley
+abbé René Just Haüy
+Joseph Henry
+William Herschel
+Heinrich Rudolf Hertz
+Gustav Hertz
+David Hilbert
+Hippocrate
+Frederick Gowland Hopkins
+Elias Howe
+Edwin Hubble
+Christiaan Huygens
+Theodor Ionescu
+Albert Jacquard
+Irène Joliot-Curie
+Frédéric Joliot-Curie
+James Prescott Joule
+William Thomson
+Lord Kelvin
+Johannes Kepler
+Gustav Kirchhoff
+Stephen Cole Kleene
+Robert Koch
+Edwin H. Land
+Karl Landsteiner
+César Lattes
+Max von Laue
+Antoine de Lavoisier
+Henry Le Chatelier
+Adrien-Marie Legendre
+Gottfried Leibniz
+François Le Lionnais
+Etienne Lenoir
+Carl von Linné
+Joseph Lister
+Hendrik Lorentz
+Auguste Lumière
+Louis Lumière
+Pierre-Simon Laplace
+Ernst Mach
+Marcello Malpighi
+Guglielmo Marconi
+abbé Edme Mariotte
+James Clerk Maxwell
+Ernst Mayr
+Cyrus Hall McCormick
+Gregor Johann Mendel
+Dmitri Mendeleïev
+Ottmar Mergenthaler
+Marin Mersenne
+Albert Abraham Michelson
+Hermann Minkowski
+Henri Moissan
+Théodore Monod
+Samuel Morse
+James Nasmyth
+Isaac Newton
+Paul Gottlieb Nipkow
+Georg Simon Ohm
+Robert Oppenheimer
+Wilhelm Ostwald
+Nikolaus Otto
+George Emil Palade
+Charles Algernon Parsons
+Blaise Pascal
+Louis Pasteur
+Ivan Petrovitch Pavlov
+William Henry Perkin
+abbé Jean Picard
+Isaac Pitman
+Max Planck
+Julius Plücker
+Henri Poincaré
+George Dawson Preston
+Joseph Priestley
+Ptolémée
+Pythagore
+Hubert Reeves
+Bernhard Riemann
+Gilles Personne de Roberval
+Jean-Baptiste Romé de L'Isle
+Wilhelm Röntgen
+Ernest Rutherford
+Bertrand Russell
+Edward Sabine
+Wallace Clement Sabine
+Peter Safar
+Henri Sainte-Claire Deville
+Jonas Salk
+Erwin Schrödinger
+Paul Schützenberger
+Laurent Schwartz
+Christopher Latham Sholes
+Carl Wilhelm Siemens
+Igor Ivanovich Sikorsky
+Georg Stahl
+Josef Stefan
+George Stephenson
+Friedrich Kekulé von Stradonitz
+Joseph Wilson Swan
+William Henry Fox Talbot
+Nikola Tesla
+Thalès de Milet
+Joseph John Thomson
+Evangelista Torricelli
+Charles Townes
+Alan Mathison Turing
+Johannes Diderik Van der Waals
+Nicolas Louis Vauquelin
+Paul-Émile Victor
+Alessandro Volta
+Felix Wankel
+James Watson
+Robert Watson-Watt
+James Watt
+Karl Weierstrass
+Franck Whittle
+Joseph Whitworth
+Wilhelm Wien
+Edward Witten
+Friedrich Wöhler
+Wilbur Wright
+Orville Wright
+Charles Adolphe Wurtz
+accélérateur de particules
+accélérateur électrostatique
+accéléromètre
+alternateur
+ampèremètre
+amplificateur électronique
+amplificateur opérationnel
+analyseur à pénombre
+analyseur de spectre
+analyseur mécanique dynamique
+anémo-cinémographe
+anémomètre
+anneau de collision
+antenne
+appareil à force constante
+appareil de Cailletet
+appareil de mesure d'épaisseur de revêtement
+aréomètre
+audiomètre
+balance de Cotton
+balance de Coulomb
+balance de Curie
+balance d'Eötvös
+balance de torsion
+banc d'optique
+banc Kofler
+baromètre de Huyghens
+becher
+bétatron
+bévatron
+bille de Brinell
+bobine d'induction
+bobine de Ruhmkorff
+boîte à résistance
+bolomètre
+bombe calorimétrique
+boussole
+bouteille de Leyde
+bombe électromagnétique
+cable coaxial
+cage de Faraday
+calculateur quantique
+cale Johansson
+calorimètre
+calorimètre de Berthelot
+calorimètre de Bunsen
+calorimètre isopéribolique
+calutron
+canon à électron
+capacimètre
+capsule manométrique
+cathétomètre
+cavité résonnante
+chambre à bulles
+chambre claire
+chambre à brouillard
+chambre à condensation de Wilson
+chambre à étincelles
+chambre à fils
+chambre d'ionisation
+chambre sourde
+circuit bouchon
+circuit logique
+coelestat
+coelostat
+coin d'air
+collimateur
+colonne à distiller
+colonne de Vigreux
+commutateur
+commutatrice
+compresseur
+condensateur
+condensateur d'Aepinus
+condensateur de Lampar et Thompson
+condenseur
+condenseur optique
+condenseur thermodynamique
+convertisseur
+cosinusphimetre
+phasemetre
+cristaux liquides
+cryostat
+cuve rhéographique
+cyclotron
+densimètre
+détecteur de particules
+détendeur
+diac
+diapason
+diaphragme
+diascope
+dilatomètre
+dilatomètre de Chevenard
+diode
+dipôle électrique
+disjoncteur
+disque de Nipkov
+doubleur de Latour
+doubleur de Schenkel
+duromètre Shore
+dynamo
+dynamomètre
+électro-aimant
+électrocardiographe
+électrode
+électropompe
+électromètre
+électroscope
+électrovanne
+émetteur radio
+émetteur de télévision
+émetteur et récepteur infra-rouge
+émetteur-récepteur
+émetteur-récepteur radio
+enregistreur de données
+étuve
+évaporateur
+fente d'Young
+fibre optique
+fil électrique
+four solaire d'Odeillo
+frontophocomètre
+galvanomètre
+générateur
+générateur basse fréquence
+générateur électrique
+goniographe
+goniomètre
+gravimètre
+guide d'onde
+gyroscope
+hacheur
+héliographe de Campbell
+héliostat
+hygromètre
+iconoscope
+indicateur coloré
+indicateur de Watt
+inductancemètre
+interféromètre
+interféromètre de Fabry et Perot
+interféromètre de Michelson
+interrupteur
+interrupteur de Foucault
+jauge de contrainte
+jauge de déformation
+extensomètre à fils résistants
+jauge électromagnétique
+jauge Hibernia
+jauge d'ionisation
+jauge de Mac Leod
+jauge Owen
+jauge Saugnac
+klystron
+lame de Schmidt
+lampe
+laser
+lentille de Fresnel
+ligne à retard
+liquéfacteur Philips
+ludion
+lunette astronomique
+machine d'Atwood
+machine ditherme
+machine frigorifique
+machine de Wimshurst
+magnétron
+maser
+microbalance à quartz
+microbalance piézoélectrique
+microcalorimètre
+microscope à effet tunnel
+microscope électronique
+microscope à force atomique
+microscope ionique
+microsonde de Castaing
+miroir
+miroir de Jasmin
+moteur
+multimètre
+nanocapteur
+ohmmètre
+ordinateur
+oscilloscope
+oscilloscope de Blondel
+paroi diatherme
+pendule de Borda
+pendule de Foucault
+pendule balistique
+pentode
+phanotron
+photomultiplicateur
+pile électrique
+pile atomique
+pile à combustible
+pile leclanché
+pile photoélectrique
+pile de Volta
+pile de Weston
+polariseur
+pompe à chaleur
+pompe de Gaede
+pompe de Langmair
+pompe à vide
+pont de Wheatstone
+posemètre
+potentiomètre
+précipitateur électrostatique
+prisme de Nicol
+prisme de Wollaston
+puissancemètre
+pulsomètre
+pyrhéliomètre
+pyromètre
+quadripôle
+radar
+radiamètre
+radiomètre
+radiomètre de Crookes
+radiotélescope
+réacteur nucléaire
+réflectomètre
+réfractomètre d'Abbe
+réfractomètre hyperfréquence
+réfrigérateur
+résistor
+résonateur de Helmholtz
+rhéostat
+roue de Barlow
+scanner
+scintillateur
+séquenceur de gènes
+sifflet de Galton
+sismomètre
+solénoïde
+sonar
+spectrographe
+spectrographe de masse
+spectromètre
+sphère intégrante
+spiromètre
+statoréacteur
+stroboscope
+synchrotron
+tachymètre
+télescope
+télévision
+thermistance
+thermo-hygrographe
+thermo-hygromètre
+thermomètre
+thermomètre à résistance de platine
+thermocouple
+thermocycleur
+thermopile
+thermostat
+thyratron
+thyristor
+transformateur
+transistor
+transistor à effet de champ
+transistor unijonction
+triode
+trombone de Koenig
+tube cathodique
+tube de Coolidge
+tube de Crookes
+tube de Kundt
+tube de Natterer
+tube de Newton
+tube à ondes progressives
+tube phare
+tube de Zworykin
+turbine
+turbopropulseur
+tuyère
+variateur de vitesse
+vase de Dewar
+verre de Wood
+vibromètre laser
+viscoanalyseur
+visiomètre
+voltmètre
+inventeur
+intelligence
+fête
+gynécologie
+binon
+Haemophilus influenzae
+médecine
+alchimie
+bryologie
+oncogénèse
+recherche>80973
+physique des plasmas
+Boris Cyrulnik
+vaccin
+économie
+espace>23255
+nom vernaculaire
+hygromètre à condensation
+hygromètre à cheveu
+bacille
+Géologie
+protocole de recherche
+anatomie
+modèles animaux
+spitant
+Criminologie
+frigo
+frigidaire
+SIDA
+syndrome d'immunodéficience acquise
+Alan Turing
+'pataphysique
+maladie
+science citoyenne
+sciences citoyennes
+lune
+séismomètre
+électroaimant
+Astronomie
+Médecine
+Chimie
+Mathématiques
+Archéologie
+Géographie
+géologie
+médecine>80973
+Linguistique
+Optique
+Pasteur
+Philosophie
+Génétique
+linguistique
+momie d'Hatchepsout
+Mathieu Lafourcade
+heuristique
+euristique
+progrès scientifique
+publication>26038>115763
+expérimenté>80973
+automatique>80973
+physique>80973
+anatomie>80973
+logique>80973
+économie>80973
+pharmacie>80973
+Economie
+Physique
+particule virale
+organicisme
+virion
+sérendipité
+IA
+physique des particules
+esthétique>80973
+pathologie>80973
+acoustique>80973
+esthétique
+acoustique>171869
+pathologie
+préhistoire>80973
+préhistoire
+acoustique
+prix Abel
+physiologie>80973
+physiologie
+=virion=
+bonnes pratiques
+météo>80973
+météo
+hydrologie>80973
+hydrologie

@@ -12,7 +12,7 @@ while line:
 	array_of_line = line.split(";")
 	if len(array_of_line) > 1 and array_of_line[1] == str(sys.argv[1]) :
 		print("Line {}: {}".format(count, line))
-		new_f.write(line) 
+		new_f.write(array_of_line[0] + '\n') 
 	line = f.readline()
 	count += 1
 
