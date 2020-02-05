@@ -11,13 +11,14 @@ for file in os.listdir('Data') :
 
 for f in fichiers :
     line = f.readline()
-    mot = f_mots.readline().rstrip('\n')#eviter charactere 'saut de ligne' ou 'fin fichier'
+    mot = f_mots.readline().strip('\n')#eviter charactere 'saut de ligne' ou 'fin fichier'
     while mot :
         while line :  
             array_of_line = line.split(';')
-            if len(array_of_line) > 1 and ( (mot.rstrip('\n') == array_of_line[0]) or (mot == array_of_line[1]) ) : 
-                print("{}".format(line))
-                f_relations.write(line)
+            if (len(array_of_line) > 1) :
+                if( ( (mot == array_of_line[0]) or (mot == array_of_line[1]) ) ): 
+                    print("{}".format(line))
+                    f_relations.write(line)
             line = f.readline()
         mot = f_mots.readline()
 
