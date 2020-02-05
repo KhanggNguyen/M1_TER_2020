@@ -4,8 +4,8 @@ if(len(sys.argv) != 2) :
 	print("Usage : <python script.py domaine_a_extraire> \n")
 	exit()
 
-f = open('Data/R_domain.txt', 'r')
-new_f = open('Data/NEW_terme_by_domain.txt', 'w')
+f = open('NewData/r_domain.txt', 'r')
+new_f = open('NewData/NEW_terme_by_domain.txt', 'w')
 
 line = f.readline()
 count = 1
