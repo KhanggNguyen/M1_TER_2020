@@ -1,6 +1,6 @@
 Pour récuperer les mots lié à la domaine : 
 
-- Télécharger le fichier à partir du lien suivant : http://www.jeuxdemots.org/JDM-LEXICALNET-FR/01212020-LEXICALNET-JEUXDEMOTS-R3.txt
+- Télécharger le fichier à partir du lien suivant : [FichierDomaine](http://www.jeuxdemots.org/JDM-LEXICALNET-FR/01212020-LEXICALNET-JEUXDEMOTS-R3.txt)
 
 - Ensuite, modifier le nom du fichier à "r_domain.txt" et mettre dans le dossier "NewData"
 
