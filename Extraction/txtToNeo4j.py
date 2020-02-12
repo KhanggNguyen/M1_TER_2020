@@ -1,16 +1,18 @@
-from neo4j import GraphDatabase
+from py2neo import Database
+from py2neo import Graph
+from py2neo import Node, Relationship
 
+#donnees admin
 user = "neo4j"
 password = "1234567"
-uri = "http://localhost:7474/"
+uri = "bolt://localhost:7687"
 
 mots = open("NewData/NEW_terme_by_domain.txt", "r")
 
-_driver = GraphDatabase.driver(uri, auth=(user, password))
+#se connecter sur le serveur bdd
+graph = Graph(uri, auth=(user, password)) 
+
 
 for mot in mots :
-    _driver.session().write_transaction().run("CREATE (" + mot ")")
-    
-
-
-_driver.close()
+    myNode = Node(mot.strip("\n"))
+    graph.create(myNode)
