@@ -16,4 +16,6 @@ Pour récuperer les relations liés aux mots :
 
 - Exécuter la commande suivant dans le terminal "python append_relation.py". Le processus pourrait prendre quelques minutes. Cela dépend de nombre et de taille des fichiers de données. 
 
+- Pour récupérer un seul fichier de relation : python extrait_relations_par_fichiers.py "r_agent.txt" 
+
 - Le resultat sera enregistré dans le fichier "NewData/New_relations.txt"
