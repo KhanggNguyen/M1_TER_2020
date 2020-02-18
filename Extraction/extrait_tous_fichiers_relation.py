@@ -6,7 +6,7 @@ fichiers = []
 f_relations = []
 for file in os.listdir('Data') :
     f_relations.append(open('NewData/' + file, 'w'))
-    fichiers.append(open('Data/' + file, 'r'))
+    fichiers.append(open('Data/' + file, encoding="latin1"))
 
 
 for i in range (len(fichiers)) :
