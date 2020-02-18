@@ -1,3 +1,10 @@
+Avant de commencer : 
+Il est nécessaire que 
+- Le python est installé (pref version 3.7)
+- Py2neo doit être aussi installé (pref version 4.3)
+- Neo4j installé et mise en marche
+
+
 Pour récuperer les mots liés à la domaine : 
 
 - Télécharger le fichier à partir du lien suivant : [FichierDomaine](http://www.jeuxdemots.org/JDM-LEXICALNET-FR/01212020-LEXICALNET-JEUXDEMOTS-R3.txt)
