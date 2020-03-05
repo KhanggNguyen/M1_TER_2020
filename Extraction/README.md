@@ -26,3 +26,16 @@ Pour récuperer les relations liés aux mots :
 - Pour récupérer un seul fichier de relation : python extrait_relations_par_fichiers.py "r_agent.txt" 
 
 - Le resultat sera enregistré dans le fichier "NewData/New_relations.txt"
+
+Pour créer les triangles, on utilise le script "make_triangle.py" + id de la relation voulu comme indique ci-dessous : 
+
+Liste ID des relations 
+
+15 = lieu 1 (done)
+17 = caracteristique (adding to neo4j)
+9 = has_part (extracting)
+6 = isA (done)
+13 = agent (done)
+42 = causatif (done)
+41 = conseq (done)
+14 = appartient (done)

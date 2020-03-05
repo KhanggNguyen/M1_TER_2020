@@ -1,0 +1,1418 @@
+logique -[6]-> linguistique -[6]-> étude
+logique -[6]-> Linguistique -[6]-> étude
+géologie -[6]-> Astronomie -[6]-> étude
+Géologie -[6]-> Astronomie -[6]-> étude
+cosmologie -[6]-> Astronomie -[6]-> étude
+géologie -[6]-> physique -[6]-> étude
+Chimie -[6]-> physique -[6]-> étude
+Géologie -[6]-> physique -[6]-> étude
+chimie -[6]-> physique -[6]-> étude
+géologie -[6]-> biologie -[6]-> étude
+anatomie -[6]-> biologie -[6]-> étude
+Géologie -[6]-> biologie -[6]-> étude
+mémétique -[6]-> biologie -[6]-> étude
+géologie -[6]-> Géographie -[6]-> matière
+Géologie -[6]-> Géographie -[6]-> matière
+économie -[6]-> Géographie -[6]-> matière
+géologie -[6]-> Astronomie -[6]-> matière
+Géologie -[6]-> Astronomie -[6]-> matière
+géologie -[6]-> physique -[6]-> matière
+Mathématiques -[6]-> physique -[6]-> matière
+Chimie -[6]-> physique -[6]-> matière
+Géologie -[6]-> physique -[6]-> matière
+chimie -[6]-> physique -[6]-> matière
+Mathématiques -[6]-> informatique -[6]-> matière
+géologie -[6]-> géographie -[6]-> matière
+Géologie -[6]-> géographie -[6]-> matière
+économie -[6]-> géographie -[6]-> matière
+géologie -[6]-> biologie -[6]-> matière
+anatomie -[6]-> biologie -[6]-> matière
+Géologie -[6]-> biologie -[6]-> matière
+Astronomie -[6]-> recherche -[6]-> activité
+génétique -[6]-> physiologie -[6]-> discipline
+technologie -[6]-> linguistique -[6]-> discipline
+technologie -[6]-> Linguistique -[6]-> discipline
+économie -[6]-> Géographie -[6]-> discipline
+Mathématiques -[6]-> physique -[6]-> discipline
+Chimie -[6]-> physique -[6]-> discipline
+chimie -[6]-> physique -[6]-> discipline
+économie -[6]-> géographie -[6]-> discipline
+physiologie -[6]-> biologie -[6]-> discipline
+génétique -[6]-> biologie -[6]-> discipline
+entomologie -[6]-> biologie -[6]-> discipline
+biophysique -[6]-> biologie -[6]-> discipline
+physiologie -[6]-> botanique -[6]-> discipline
+génétique -[6]-> botanique -[6]-> discipline
+chimie -[6]-> étude -[6]-> recherche
+Astronomie -[6]-> étude -[6]-> recherche
+Chimie -[6]-> étude -[6]-> recherche
+atomique -[6]-> chimie -[6]-> recherche
+atomique -[6]-> Chimie -[6]-> recherche
+anatomie -[6]-> Médecine -[6]-> domaine
+génétique -[6]-> anatomie -[6]-> domaine
+anatomie -[6]-> médecine -[6]-> domaine
+économie -[6]-> médecine -[6]-> domaine
+génétique -[6]-> médecine -[6]-> domaine
+géologie -[6]-> Astronomie -[6]-> histoire naturelle
+Géologie -[6]-> Astronomie -[6]-> histoire naturelle
+génétique -[6]-> physiologie -[6]-> Science
+physique des particules -[6]-> Physique -[6]-> Science
+géologie -[6]-> Physique -[6]-> Science
+Mathématiques -[6]-> Physique -[6]-> Science
+Géologie -[6]-> Physique -[6]-> Science
+vaccin -[6]-> Physique -[6]-> Science
+physique des plasmas -[6]-> Physique -[6]-> Science
+technologie -[6]-> linguistique -[6]-> Science
+logique -[6]-> linguistique -[6]-> Science
+technologie -[6]-> Linguistique -[6]-> Science
+logique -[6]-> Linguistique -[6]-> Science
+archéologie -[6]-> géologie -[6]-> Science
+pétrologie -[6]-> géologie -[6]-> Science
+pétrologie cristalline -[6]-> géologie -[6]-> Science
+pétrologie magmatique -[6]-> géologie -[6]-> Science
+pétrologie métamorphique -[6]-> géologie -[6]-> Science
+pétrologie sédimentaire -[6]-> géologie -[6]-> Science
+géologie -[6]-> Géographie -[6]-> Science
+Archéologie -[6]-> Géographie -[6]-> Science
+Géologie -[6]-> Géographie -[6]-> Science
+économie -[6]-> Géographie -[6]-> Science
+topographie -[6]-> Géographie -[6]-> Science
+archéologie -[6]-> Géographie -[6]-> Science
+arithmétique -[6]-> Mathématiques -[6]-> Science
+logique -[6]-> Mathématiques -[6]-> Science
+vaccin -[6]-> Chimie -[6]-> Science
+chimie organique -[6]-> Chimie -[6]-> Science
+électronique -[6]-> Chimie -[6]-> Science
+anatomie -[6]-> Médecine -[6]-> Science
+vaccin -[6]-> Médecine -[6]-> Science
+ophtalmologie -[6]-> Médecine -[6]-> Science
+géologie -[6]-> Astronomie -[6]-> Science
+Géologie -[6]-> Astronomie -[6]-> Science
+astrométrie -[6]-> Astronomie -[6]-> Science
+cosmologie -[6]-> Astronomie -[6]-> Science
+génétique -[6]-> anatomie -[6]-> Science
+Archéologie -[6]-> Géologie -[6]-> Science
+archéologie -[6]-> Géologie -[6]-> Science
+pétrologie -[6]-> Géologie -[6]-> Science
+pétrologie cristalline -[6]-> Géologie -[6]-> Science
+pétrologie magmatique -[6]-> Géologie -[6]-> Science
+pétrologie métamorphique -[6]-> Géologie -[6]-> Science
+pétrologie sédimentaire -[6]-> Géologie -[6]-> Science
+Economie -[6]-> économie -[6]-> Science
+physiologie -[6]-> médecine -[6]-> Science
+Economie -[6]-> médecine -[6]-> Science
+anatomie -[6]-> médecine -[6]-> Science
+économie -[6]-> médecine -[6]-> Science
+vaccin -[6]-> médecine -[6]-> Science
+toxicologie -[6]-> médecine -[6]-> Science
+topographie -[6]-> médecine -[6]-> Science
+psychologie -[6]-> médecine -[6]-> Science
+génétique -[6]-> médecine -[6]-> Science
+odontologie -[6]-> médecine -[6]-> Science
+ophtalmologie -[6]-> médecine -[6]-> Science
+électronique -[6]-> technologie -[6]-> Science
+physiologie -[6]-> botanique -[6]-> Science
+bryologie -[6]-> botanique -[6]-> Science
+génétique -[6]-> botanique -[6]-> Science
+physiologie -[6]-> biologie -[6]-> Science
+géologie -[6]-> biologie -[6]-> Science
+Médecine -[6]-> biologie -[6]-> Science
+anatomie -[6]-> biologie -[6]-> Science
+Géologie -[6]-> biologie -[6]-> Science
+médecine -[6]-> biologie -[6]-> Science
+zootechnie -[6]-> biologie -[6]-> Science
+toxicologie -[6]-> biologie -[6]-> Science
+biochimie -[6]-> biologie -[6]-> Science
+biophysique -[6]-> biologie -[6]-> Science
+entomologie -[6]-> biologie -[6]-> Science
+éthologie -[6]-> biologie -[6]-> Science
+génétique -[6]-> biologie -[6]-> Science
+mémétique -[6]-> biologie -[6]-> Science
+paléontologie -[6]-> biologie -[6]-> Science
+mathématique -[6]-> arithmétique -[6]-> Science
+vaccin -[6]-> chimie -[6]-> Science
+biochimie -[6]-> chimie -[6]-> Science
+chimie organique -[6]-> chimie -[6]-> Science
+électronique -[6]-> chimie -[6]-> Science
+électronique -[6]-> électricité -[6]-> Science
+géologie -[6]-> géographie -[6]-> Science
+Archéologie -[6]-> géographie -[6]-> Science
+Géologie -[6]-> géographie -[6]-> Science
+économie -[6]-> géographie -[6]-> Science
+topographie -[6]-> géographie -[6]-> Science
+archéologie -[6]-> géographie -[6]-> Science
+sismologie -[6]-> géophysique -[6]-> Science
+Mathématiques -[6]-> informatique -[6]-> Science
+électronique -[6]-> informatique -[6]-> Science
+arithmétique -[6]-> mathématique -[6]-> Science
+logique -[6]-> mathématique -[6]-> Science
+pétrologie cristalline -[6]-> pétrologie -[6]-> Science
+pétrologie magmatique -[6]-> pétrologie -[6]-> Science
+pétrologie métamorphique -[6]-> pétrologie -[6]-> Science
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> Science
+physique des particules -[6]-> physique -[6]-> Science
+géologie -[6]-> physique -[6]-> Science
+Mathématiques -[6]-> physique -[6]-> Science
+Chimie -[6]-> physique -[6]-> Science
+Géologie -[6]-> physique -[6]-> Science
+vaccin -[6]-> physique -[6]-> Science
+physique des plasmas -[6]-> physique -[6]-> Science
+sismologie -[6]-> physique -[6]-> Science
+chimie -[6]-> physique -[6]-> Science
+électronique -[6]-> physique -[6]-> Science
+pétrologie cristalline -[6]-> pétrologie -[6]-> Géologie
+pétrologie magmatique -[6]-> pétrologie -[6]-> Géologie
+pétrologie métamorphique -[6]-> pétrologie -[6]-> Géologie
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> Géologie
+archéologie -[6]-> minéralogie -[6]-> Géologie
+Archéologie -[6]-> minéralogie -[6]-> Géologie
+pétrologie cristalline -[6]-> pétrologie -[6]-> géologie
+pétrologie magmatique -[6]-> pétrologie -[6]-> géologie
+pétrologie métamorphique -[6]-> pétrologie -[6]-> géologie
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> géologie
+archéologie -[6]-> minéralogie -[6]-> géologie
+géologie -[6]-> Astronomie -[6]-> Histoire naturelle
+Géologie -[6]-> Astronomie -[6]-> Histoire naturelle
+physique des particules -[6]-> Physique -[6]-> =science=
+géologie -[6]-> Physique -[6]-> =science=
+Mathématiques -[6]-> Physique -[6]-> =science=
+physique des plasmas -[6]-> Physique -[6]-> =science=
+vaccin -[6]-> Physique -[6]-> =science=
+logique -[6]-> linguistique -[6]-> =science=
+technologie -[6]-> linguistique -[6]-> =science=
+archéologie -[6]-> géologie -[6]-> =science=
+pétrologie -[6]-> géologie -[6]-> =science=
+pétrologie cristalline -[6]-> géologie -[6]-> =science=
+pétrologie magmatique -[6]-> géologie -[6]-> =science=
+géologie -[6]-> Géographie -[6]-> =science=
+Archéologie -[6]-> Géographie -[6]-> =science=
+archéologie -[6]-> Géographie -[6]-> =science=
+topographie -[6]-> Géographie -[6]-> =science=
+économie -[6]-> Géographie -[6]-> =science=
+arithmétique -[6]-> Mathématiques -[6]-> =science=
+logique -[6]-> Mathématiques -[6]-> =science=
+géologie -[6]-> Astronomie -[6]-> =science=
+cosmologie -[6]-> Astronomie -[6]-> =science=
+génétique -[6]-> botanique -[6]-> =science=
+bryologie -[6]-> botanique -[6]-> =science=
+géologie -[6]-> biologie -[6]-> =science=
+biochimie -[6]-> biologie -[6]-> =science=
+biophysique -[6]-> biologie -[6]-> =science=
+entomologie -[6]-> biologie -[6]-> =science=
+éthologie -[6]-> biologie -[6]-> =science=
+génétique -[6]-> biologie -[6]-> =science=
+mémétique -[6]-> biologie -[6]-> =science=
+paléontologie -[6]-> biologie -[6]-> =science=
+toxicologie -[6]-> biologie -[6]-> =science=
+zootechnie -[6]-> biologie -[6]-> =science=
+médecine -[6]-> biologie -[6]-> =science=
+anatomie -[6]-> biologie -[6]-> =science=
+mathématique -[6]-> arithmétique -[6]-> =science=
+biochimie -[6]-> chimie -[6]-> =science=
+chimie organique -[6]-> chimie -[6]-> =science=
+électronique -[6]-> chimie -[6]-> =science=
+vaccin -[6]-> chimie -[6]-> =science=
+géologie -[6]-> géographie -[6]-> =science=
+Archéologie -[6]-> géographie -[6]-> =science=
+archéologie -[6]-> géographie -[6]-> =science=
+topographie -[6]-> géographie -[6]-> =science=
+économie -[6]-> géographie -[6]-> =science=
+sismologie -[6]-> géophysique -[6]-> =science=
+Mathématiques -[6]-> informatique -[6]-> =science=
+électronique -[6]-> informatique -[6]-> =science=
+arithmétique -[6]-> mathématique -[6]-> =science=
+logique -[6]-> mathématique -[6]-> =science=
+pétrologie cristalline -[6]-> pétrologie -[6]-> =science=
+pétrologie magmatique -[6]-> pétrologie -[6]-> =science=
+physique des particules -[6]-> physique -[6]-> =science=
+géologie -[6]-> physique -[6]-> =science=
+Mathématiques -[6]-> physique -[6]-> =science=
+chimie -[6]-> physique -[6]-> =science=
+électronique -[6]-> physique -[6]-> =science=
+sismologie -[6]-> physique -[6]-> =science=
+physique des plasmas -[6]-> physique -[6]-> =science=
+vaccin -[6]-> physique -[6]-> =science=
+électronique -[6]-> technologie -[6]-> =science=
+Economie -[6]-> médecine -[6]-> =science=
+psychologie -[6]-> médecine -[6]-> =science=
+génétique -[6]-> médecine -[6]-> =science=
+odontologie -[6]-> médecine -[6]-> =science=
+ophtalmologie -[6]-> médecine -[6]-> =science=
+topographie -[6]-> médecine -[6]-> =science=
+toxicologie -[6]-> médecine -[6]-> =science=
+vaccin -[6]-> médecine -[6]-> =science=
+économie -[6]-> médecine -[6]-> =science=
+anatomie -[6]-> médecine -[6]-> =science=
+Economie -[6]-> économie -[6]-> =science=
+génétique -[6]-> anatomie -[6]-> =science=
+génétique -[6]-> physiologie -[6]-> botanique
+Anthropométrie -[6]-> médecine -[6]-> biologie
+=toxicologic measurement= -[6]-> médecine -[6]-> biologie
+=anthropometry= -[6]-> médecine -[6]-> biologie
+anthropométrie -[6]-> médecine -[6]-> biologie
+carcinologie -[6]-> médecine -[6]-> biologie
+médecine vétérinaire -[6]-> médecine -[6]-> biologie
+physiologie -[6]-> médecine -[6]-> biologie
+phytopathologie -[6]-> médecine -[6]-> biologie
+médecine foetale -[6]-> médecine -[6]-> biologie
+cardialogie -[6]-> médecine -[6]-> biologie
+histiologie -[6]-> médecine -[6]-> biologie
+cardiologie -[6]-> médecine -[6]-> biologie
+histologie -[6]-> médecine -[6]-> biologie
+étude histologique -[6]-> médecine -[6]-> biologie
+oncologie -[6]-> médecine -[6]-> biologie
+cancérologie -[6]-> médecine -[6]-> biologie
+toxicologie -[6]-> médecine -[6]-> biologie
+génétique -[6]-> médecine -[6]-> biologie
+anatomie -[6]-> médecine -[6]-> biologie
+angiologie -[6]-> médecine -[6]-> biologie
+neurologie -[6]-> médecine -[6]-> biologie
+pharmacognosie -[6]-> médecine -[6]-> biologie
+Chirurgie -[6]-> médecine -[6]-> biologie
+chirurgie -[6]-> médecine -[6]-> biologie
+anatomie pathologique -[6]-> médecine -[6]-> biologie
+anapath -[6]-> médecine -[6]-> biologie
+géologie -[6]-> oecologie -[6]-> biologie
+physiologie -[6]-> médecine vétérinaire -[6]-> biologie
+génétique -[6]-> médecine vétérinaire -[6]-> biologie
+=enzymology= -[6]-> physiologie -[6]-> biologie
+enzymologie -[6]-> physiologie -[6]-> biologie
+génétique -[6]-> physiologie -[6]-> biologie
+paléoanthropologie -[6]-> paléontologie -[6]-> biologie
+médecine -[6]-> Science -[6]-> biologie
+physiologie -[6]-> Science -[6]-> biologie
+paléontologie -[6]-> Science -[6]-> biologie
+Médecine -[6]-> Science -[6]-> biologie
+entomologie -[6]-> Science -[6]-> biologie
+géologie -[6]-> Science -[6]-> biologie
+Géologie -[6]-> Science -[6]-> biologie
+mémétique -[6]-> Science -[6]-> biologie
+biochimie -[6]-> Science -[6]-> biologie
+toxicologie -[6]-> Science -[6]-> biologie
+génétique -[6]-> Science -[6]-> biologie
+anatomie -[6]-> Science -[6]-> biologie
+éthologie -[6]-> Science -[6]-> biologie
+zootechnie -[6]-> Science -[6]-> biologie
+biophysique -[6]-> Science -[6]-> biologie
+carcinologie -[6]-> Médecine -[6]-> biologie
+médecine vétérinaire -[6]-> Médecine -[6]-> biologie
+médecine foetale -[6]-> Médecine -[6]-> biologie
+cardialogie -[6]-> Médecine -[6]-> biologie
+cardiologie -[6]-> Médecine -[6]-> biologie
+oncologie -[6]-> Médecine -[6]-> biologie
+cancérologie -[6]-> Médecine -[6]-> biologie
+anatomie -[6]-> Médecine -[6]-> biologie
+Chirurgie -[6]-> Médecine -[6]-> biologie
+chirurgie -[6]-> Médecine -[6]-> biologie
+anatomie pathologique -[6]-> Médecine -[6]-> biologie
+anapath -[6]-> Médecine -[6]-> biologie
+morphologie -[6]-> géologie -[6]-> biologie
+morphologie -[6]-> Géologie -[6]-> biologie
+entomologie -[6]-> zoologie -[6]-> biologie
+acide désoxyribonucléique -[6]-> génétique -[6]-> biologie
+adn -[6]-> génétique -[6]-> biologie
+ADN -[6]-> génétique -[6]-> biologie
+biologie des populations -[6]-> génétique -[6]-> biologie
+artériographie -[6]-> anatomie -[6]-> biologie
+=arteriography= -[6]-> anatomie -[6]-> biologie
+angiographie -[6]-> anatomie -[6]-> biologie
+histiologie -[6]-> anatomie -[6]-> biologie
+zoologie -[6]-> anatomie -[6]-> biologie
+histologie -[6]-> anatomie -[6]-> biologie
+génétique -[6]-> anatomie -[6]-> biologie
+peau -[6]-> anatomie -[6]-> biologie
+angiologie -[6]-> anatomie -[6]-> biologie
+ostéologie -[6]-> anatomie -[6]-> biologie
+anatomie humaine -[6]-> anatomie -[6]-> biologie
+anatomie pathologique -[6]-> anatomie -[6]-> biologie
+anapath -[6]-> anatomie -[6]-> biologie
+géologie -[6]-> écologie -[6]-> biologie
+Géologie -[6]-> écologie -[6]-> biologie
+vaccin -[6]-> Chirurgie -[6]-> Médecine
+anat-patho -[6]-> anatomie -[6]-> Médecine
+anatomo-pathologie -[6]-> anatomie -[6]-> Médecine
+anatomopathologie -[6]-> anatomie -[6]-> Médecine
+anapath -[6]-> anatomie -[6]-> Médecine
+anatomie pathologique -[6]-> anatomie -[6]-> Médecine
+vaccin -[6]-> soin -[6]-> Médecine
+vaccin -[6]-> chirurgie -[6]-> Médecine
+génétique -[6]-> physiologie -[6]-> médecine vétérinaire
+Economie -[6]-> économie -[6]-> médecine
+psychologie -[6]-> neurologie -[6]-> médecine
+neurophysiologie -[6]-> physiologie -[6]-> médecine
+génétique -[6]-> physiologie -[6]-> médecine
+anatomie -[6]-> connaissance -[6]-> médecine
+vaccin -[6]-> Chirurgie -[6]-> médecine
+physiologie -[6]-> médecine vétérinaire -[6]-> médecine
+génétique -[6]-> médecine vétérinaire -[6]-> médecine
+vaccin -[6]-> chirurgie -[6]-> médecine
+histiologie -[6]-> anatomie -[6]-> médecine
+histologie -[6]-> anatomie -[6]-> médecine
+angiologie -[6]-> anatomie -[6]-> médecine
+anapath -[6]-> anatomie -[6]-> médecine
+anatomie pathologique -[6]-> anatomie -[6]-> médecine
+génétique -[6]-> anatomie -[6]-> médecine
+vaccin -[6]-> soin -[6]-> médecine
+toxicologie -[6]-> biologie -[6]-> analyte
+biochimie -[6]-> biologie -[6]-> analyte
+vaccin -[6]-> Chimie -[6]-> lieu
+lumière -[6]-> lampe -[6]-> lieu
+Mathématiques -[6]-> physique -[6]-> lieu
+Chimie -[6]-> physique -[6]-> lieu
+vaccin -[6]-> physique -[6]-> lieu
+chimie -[6]-> physique -[6]-> lieu
+Mathématiques -[6]-> informatique -[6]-> lieu
+vaccin -[6]-> chimie -[6]-> lieu
+lampe -[6]-> lumière -[6]-> lieu
+George Stephenson -[6]-> inventeur -[6]-> être vivant
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> être vivant
+Thomas Alva Edison -[6]-> inventeur -[6]-> être vivant
+George Eastman -[6]-> inventeur -[6]-> être vivant
+John Boyd Dunlop -[6]-> inventeur -[6]-> être vivant
+scientifique -[6]-> inventeur -[6]-> être vivant
+Carl Benz -[6]-> inventeur -[6]-> être vivant
+Louis Braille -[6]-> inventeur -[6]-> être vivant
+Karl Weierstrass -[6]-> scientifique -[6]-> être vivant
+James Watt -[6]-> scientifique -[6]-> être vivant
+Paul-Émile Victor -[6]-> scientifique -[6]-> être vivant
+William Henry Fox Talbot -[6]-> scientifique -[6]-> être vivant
+George Stephenson -[6]-> scientifique -[6]-> être vivant
+Laurent Schwartz -[6]-> scientifique -[6]-> être vivant
+Paul Schützenberger -[6]-> scientifique -[6]-> être vivant
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> être vivant
+Edward Sabine -[6]-> scientifique -[6]-> être vivant
+Bertrand Russell -[6]-> scientifique -[6]-> être vivant
+Wilhelm Röntgen -[6]-> scientifique -[6]-> être vivant
+Bernhard Riemann -[6]-> scientifique -[6]-> être vivant
+Julius Plücker -[6]-> scientifique -[6]-> être vivant
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> être vivant
+Louis Pasteur -[6]-> scientifique -[6]-> être vivant
+James Nasmyth -[6]-> scientifique -[6]-> être vivant
+Théodore Monod -[6]-> scientifique -[6]-> être vivant
+Marin Mersenne -[6]-> scientifique -[6]-> être vivant
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> être vivant
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> être vivant
+Ernst Mayr -[6]-> scientifique -[6]-> être vivant
+Marcello Malpighi -[6]-> scientifique -[6]-> être vivant
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> être vivant
+Louis Lumière -[6]-> scientifique -[6]-> être vivant
+Joseph Lister -[6]-> scientifique -[6]-> être vivant
+Carl von Linné -[6]-> scientifique -[6]-> être vivant
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> être vivant
+César Lattes -[6]-> scientifique -[6]-> être vivant
+Karl Landsteiner -[6]-> scientifique -[6]-> être vivant
+Johannes Kepler -[6]-> scientifique -[6]-> être vivant
+Irène Joliot-Curie -[6]-> scientifique -[6]-> être vivant
+Albert Jacquard -[6]-> scientifique -[6]-> être vivant
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> être vivant
+William Herschel -[6]-> scientifique -[6]-> être vivant
+Fritz Haber -[6]-> scientifique -[6]-> être vivant
+Stephen Jay Gould -[6]-> scientifique -[6]-> être vivant
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> être vivant
+Joseph Fourier -[6]-> scientifique -[6]-> être vivant
+Alexander Fleming -[6]-> scientifique -[6]-> être vivant
+Thomas Alva Edison -[6]-> scientifique -[6]-> être vivant
+George Eastman -[6]-> scientifique -[6]-> être vivant
+John Boyd Dunlop -[6]-> scientifique -[6]-> être vivant
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> être vivant
+John Dalton -[6]-> scientifique -[6]-> être vivant
+Francis Crick -[6]-> scientifique -[6]-> être vivant
+Nicolas Copernic -[6]-> scientifique -[6]-> être vivant
+Alonzo Church -[6]-> scientifique -[6]-> être vivant
+Yves Chauvin -[6]-> scientifique -[6]-> être vivant
+Erwin Chargaff -[6]-> scientifique -[6]-> être vivant
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> être vivant
+astronome -[6]-> scientifique -[6]-> être vivant
+botaniste -[6]-> scientifique -[6]-> être vivant
+météorologue -[6]-> scientifique -[6]-> être vivant
+physicien -[6]-> scientifique -[6]-> être vivant
+sociologue -[6]-> scientifique -[6]-> être vivant
+André-Marie Ampère -[6]-> scientifique -[6]-> être vivant
+Svante August Arrhenius -[6]-> scientifique -[6]-> être vivant
+John Logie Baird -[6]-> scientifique -[6]-> être vivant
+Christiaan Barnard -[6]-> scientifique -[6]-> être vivant
+Alexander Graham Bell -[6]-> scientifique -[6]-> être vivant
+Carl Benz -[6]-> scientifique -[6]-> être vivant
+Daniel Bernoulli -[6]-> scientifique -[6]-> être vivant
+Alphonse Bertillon -[6]-> scientifique -[6]-> être vivant
+Joseph Black -[6]-> scientifique -[6]-> être vivant
+Louis Braille -[6]-> scientifique -[6]-> être vivant
+Auguste Bravais -[6]-> scientifique -[6]-> être vivant
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> être vivant
+Edward Sabine -[6]-> astronome -[6]-> être vivant
+Johannes Kepler -[6]-> astronome -[6]-> être vivant
+William Herschel -[6]-> astronome -[6]-> être vivant
+Nicolas Copernic -[6]-> astronome -[6]-> être vivant
+Auguste Bravais -[6]-> astronome -[6]-> être vivant
+Louis Pasteur -[6]-> biologiste -[6]-> être vivant
+Karl Landsteiner -[6]-> biologiste -[6]-> être vivant
+Albert Jacquard -[6]-> biologiste -[6]-> être vivant
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> être vivant
+Mathieu Lafourcade -[6]-> chercheur -[6]-> être vivant
+Albert Jacquard -[6]-> chercheur -[6]-> être vivant
+archéologue -[6]-> chercheur -[6]-> être vivant
+biologiste -[6]-> chercheur -[6]-> être vivant
+ethnologue -[6]-> chercheur -[6]-> être vivant
+géologue -[6]-> chercheur -[6]-> être vivant
+physicien -[6]-> chercheur -[6]-> être vivant
+sociologue -[6]-> chercheur -[6]-> être vivant
+Paul-Émile Victor -[6]-> explorateur -[6]-> être vivant
+Théodore Monod -[6]-> explorateur -[6]-> être vivant
+Bernhard Riemann -[6]-> mathématicien -[6]-> être vivant
+Julius Plücker -[6]-> mathématicien -[6]-> être vivant
+Pierre-Simon Laplace -[6]-> mathématicien -[6]-> être vivant
+Alonzo Church -[6]-> mathématicien -[6]-> être vivant
+Augustin Louis Cauchy -[6]-> mathématicien -[6]-> être vivant
+André-Marie Ampère -[6]-> mathématicien -[6]-> être vivant
+Wilhelm Röntgen -[6]-> physicien -[6]-> être vivant
+Louis Lumière -[6]-> scientifique -[6]-> être
+physicien -[6]-> scientifique -[6]-> être
+Marin Mersenne -[6]-> scientifique -[6]-> organisme vivant
+Louis Lumière -[6]-> scientifique -[6]-> organisme vivant
+Francis Crick -[6]-> scientifique -[6]-> organisme vivant
+physicien -[6]-> scientifique -[6]-> organisme vivant
+Louis Lumière -[6]-> scientifique -[6]-> entité vivante
+physicien -[6]-> scientifique -[6]-> entité vivante
+Marin Mersenne -[6]-> scientifique -[6]-> entité biologique
+Louis Lumière -[6]-> scientifique -[6]-> entité biologique
+George Eastman -[6]-> scientifique -[6]-> entité biologique
+Francis Crick -[6]-> scientifique -[6]-> entité biologique
+Marin Mersenne -[6]-> scientifique -[6]-> entité physique
+Louis Lumière -[6]-> scientifique -[6]-> entité physique
+George Eastman -[6]-> scientifique -[6]-> entité physique
+Francis Crick -[6]-> scientifique -[6]-> entité physique
+Louis Lumière -[6]-> scientifique -[6]-> organisme
+physicien -[6]-> scientifique -[6]-> organisme
+George Stephenson -[6]-> inventeur -[6]-> être animé
+Christopher Latham Sholes -[6]-> inventeur -[6]-> être animé
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> être animé
+Thomas Alva Edison -[6]-> inventeur -[6]-> être animé
+George Eastman -[6]-> inventeur -[6]-> être animé
+John Boyd Dunlop -[6]-> inventeur -[6]-> être animé
+scientifique -[6]-> inventeur -[6]-> être animé
+Carl Benz -[6]-> inventeur -[6]-> être animé
+Louis Braille -[6]-> inventeur -[6]-> être animé
+Karl Weierstrass -[6]-> scientifique -[6]-> être animé
+James Watt -[6]-> scientifique -[6]-> être animé
+Paul-Émile Victor -[6]-> scientifique -[6]-> être animé
+William Henry Fox Talbot -[6]-> scientifique -[6]-> être animé
+George Stephenson -[6]-> scientifique -[6]-> être animé
+Christopher Latham Sholes -[6]-> scientifique -[6]-> être animé
+Laurent Schwartz -[6]-> scientifique -[6]-> être animé
+Paul Schützenberger -[6]-> scientifique -[6]-> être animé
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> être animé
+Edward Sabine -[6]-> scientifique -[6]-> être animé
+Bertrand Russell -[6]-> scientifique -[6]-> être animé
+Wilhelm Röntgen -[6]-> scientifique -[6]-> être animé
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> être animé
+Louis Pasteur -[6]-> scientifique -[6]-> être animé
+Wilhelm Ostwald -[6]-> scientifique -[6]-> être animé
+James Nasmyth -[6]-> scientifique -[6]-> être animé
+Théodore Monod -[6]-> scientifique -[6]-> être animé
+Marin Mersenne -[6]-> scientifique -[6]-> être animé
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> être animé
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> être animé
+Ernst Mayr -[6]-> scientifique -[6]-> être animé
+Marcello Malpighi -[6]-> scientifique -[6]-> être animé
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> être animé
+Louis Lumière -[6]-> scientifique -[6]-> être animé
+Joseph Lister -[6]-> scientifique -[6]-> être animé
+Carl von Linné -[6]-> scientifique -[6]-> être animé
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> être animé
+César Lattes -[6]-> scientifique -[6]-> être animé
+Karl Landsteiner -[6]-> scientifique -[6]-> être animé
+Johannes Kepler -[6]-> scientifique -[6]-> être animé
+Irène Joliot-Curie -[6]-> scientifique -[6]-> être animé
+Albert Jacquard -[6]-> scientifique -[6]-> être animé
+Hippocrate -[6]-> scientifique -[6]-> être animé
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> être animé
+William Herschel -[6]-> scientifique -[6]-> être animé
+Edmond Halley -[6]-> scientifique -[6]-> être animé
+Fritz Haber -[6]-> scientifique -[6]-> être animé
+Stephen Jay Gould -[6]-> scientifique -[6]-> être animé
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> être animé
+Joseph Fourier -[6]-> scientifique -[6]-> être animé
+Alexander Fleming -[6]-> scientifique -[6]-> être animé
+Thomas Alva Edison -[6]-> scientifique -[6]-> être animé
+George Eastman -[6]-> scientifique -[6]-> être animé
+John Boyd Dunlop -[6]-> scientifique -[6]-> être animé
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> être animé
+John Dalton -[6]-> scientifique -[6]-> être animé
+Francis Crick -[6]-> scientifique -[6]-> être animé
+Nicolas Copernic -[6]-> scientifique -[6]-> être animé
+Yves Chauvin -[6]-> scientifique -[6]-> être animé
+Erwin Chargaff -[6]-> scientifique -[6]-> être animé
+astronome -[6]-> scientifique -[6]-> être animé
+botaniste -[6]-> scientifique -[6]-> être animé
+météorologue -[6]-> scientifique -[6]-> être animé
+physicien -[6]-> scientifique -[6]-> être animé
+sociologue -[6]-> scientifique -[6]-> être animé
+Svante August Arrhenius -[6]-> scientifique -[6]-> être animé
+John Logie Baird -[6]-> scientifique -[6]-> être animé
+Christiaan Barnard -[6]-> scientifique -[6]-> être animé
+Alexander Graham Bell -[6]-> scientifique -[6]-> être animé
+Carl Benz -[6]-> scientifique -[6]-> être animé
+Daniel Bernoulli -[6]-> scientifique -[6]-> être animé
+Alphonse Bertillon -[6]-> scientifique -[6]-> être animé
+Joseph Black -[6]-> scientifique -[6]-> être animé
+Louis Braille -[6]-> scientifique -[6]-> être animé
+Wernher von Braun -[6]-> scientifique -[6]-> être animé
+Auguste Bravais -[6]-> scientifique -[6]-> être animé
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> être animé
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> être animé
+Edward Sabine -[6]-> astronome -[6]-> être animé
+Johannes Kepler -[6]-> astronome -[6]-> être animé
+William Herschel -[6]-> astronome -[6]-> être animé
+Edmond Halley -[6]-> astronome -[6]-> être animé
+Nicolas Copernic -[6]-> astronome -[6]-> être animé
+Auguste Bravais -[6]-> astronome -[6]-> être animé
+Louis Pasteur -[6]-> biologiste -[6]-> être animé
+Karl Landsteiner -[6]-> biologiste -[6]-> être animé
+Albert Jacquard -[6]-> biologiste -[6]-> être animé
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> être animé
+Mathieu Lafourcade -[6]-> chercheur -[6]-> être animé
+Albert Jacquard -[6]-> chercheur -[6]-> être animé
+archéologue -[6]-> chercheur -[6]-> être animé
+biologiste -[6]-> chercheur -[6]-> être animé
+ethnologue -[6]-> chercheur -[6]-> être animé
+géologue -[6]-> chercheur -[6]-> être animé
+physicien -[6]-> chercheur -[6]-> être animé
+sociologue -[6]-> chercheur -[6]-> être animé
+Paul-Émile Victor -[6]-> explorateur -[6]-> être animé
+Théodore Monod -[6]-> explorateur -[6]-> être animé
+Wilhelm Röntgen -[6]-> physicien -[6]-> être animé
+Géologie -[6]-> spéléologie -[6]-> géographie
+géologie -[6]-> spéléologie -[6]-> géographie
+archæologie -[6]-> Géologie -[6]-> géographie
+Archéologie -[6]-> Géologie -[6]-> géographie
+archéologie -[6]-> Géologie -[6]-> géographie
+orographie -[6]-> Géologie -[6]-> géographie
+archæologie -[6]-> géologie -[6]-> géographie
+spéléologie -[6]-> géologie -[6]-> géographie
+archéologie -[6]-> géologie -[6]-> géographie
+orographie -[6]-> géologie -[6]-> géographie
+géopolitique -[6]-> économie -[6]-> géographie
+archæologie -[6]-> géologie -[6]-> Géographie
+archéologie -[6]-> géologie -[6]-> Géographie
+orographie -[6]-> géologie -[6]-> Géographie
+géopolitique -[6]-> économie -[6]-> Géographie
+archæologie -[6]-> Géologie -[6]-> Géographie
+archéologie -[6]-> Géologie -[6]-> Géographie
+Archéologie -[6]-> Géologie -[6]-> Géographie
+orographie -[6]-> Géologie -[6]-> Géographie
+torche -[6]-> lampe -[6]-> lumière
+lampe au néon -[6]-> lampe -[6]-> lumière
+ampoule -[6]-> lampe -[6]-> lumière
+lampadaire -[6]-> lampe -[6]-> lumière
+lampe de chevet -[6]-> lampe -[6]-> lumière
+lampe torche -[6]-> lampe -[6]-> lumière
+lampe de poche -[6]-> lampe -[6]-> lumière
+lustre -[6]-> lampe -[6]-> lumière
+lampe -[6]-> éclairage -[6]-> lumière
+lumière -[6]-> lampe -[6]-> néon
+lampe -[6]-> lumière -[6]-> néon
+torche -[6]-> lumière -[6]-> lampe
+lustre -[6]-> lumière -[6]-> lampe
+lampadaire -[6]-> lumière -[6]-> lampe
+ampoule -[6]-> lumière -[6]-> lampe
+lampe de chevet -[6]-> lumière -[6]-> lampe
+lampe de poche -[6]-> lumière -[6]-> lampe
+lampe torche -[6]-> lumière -[6]-> lampe
+lampe au néon -[6]-> lumière -[6]-> lampe
+lumière -[6]-> ampoule -[6]-> lampe
+lumière -[6]-> néon -[6]-> lampe
+lumière -[6]-> lampe -[6]-> éclairage
+lampe -[6]-> lumière -[6]-> éclairage
+lumière -[6]-> lampe -[6]-> pièce de mobilier
+lampe -[6]-> lumière -[6]-> pièce de mobilier
+Karl Weierstrass -[6]-> scientifique -[6]-> homme
+James Watt -[6]-> scientifique -[6]-> homme
+Paul-Émile Victor -[6]-> scientifique -[6]-> homme
+William Henry Fox Talbot -[6]-> scientifique -[6]-> homme
+George Stephenson -[6]-> scientifique -[6]-> homme
+Christopher Latham Sholes -[6]-> scientifique -[6]-> homme
+Laurent Schwartz -[6]-> scientifique -[6]-> homme
+Paul Schützenberger -[6]-> scientifique -[6]-> homme
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> homme
+Edward Sabine -[6]-> scientifique -[6]-> homme
+Bertrand Russell -[6]-> scientifique -[6]-> homme
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> homme
+Louis Pasteur -[6]-> scientifique -[6]-> homme
+Wilhelm Ostwald -[6]-> scientifique -[6]-> homme
+James Nasmyth -[6]-> scientifique -[6]-> homme
+Marin Mersenne -[6]-> scientifique -[6]-> homme
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> homme
+Ernst Mayr -[6]-> scientifique -[6]-> homme
+Marcello Malpighi -[6]-> scientifique -[6]-> homme
+Joseph Lister -[6]-> scientifique -[6]-> homme
+Carl von Linné -[6]-> scientifique -[6]-> homme
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> homme
+César Lattes -[6]-> scientifique -[6]-> homme
+Karl Landsteiner -[6]-> scientifique -[6]-> homme
+Johannes Kepler -[6]-> scientifique -[6]-> homme
+Albert Jacquard -[6]-> scientifique -[6]-> homme
+Hippocrate -[6]-> scientifique -[6]-> homme
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> homme
+William Herschel -[6]-> scientifique -[6]-> homme
+Edmond Halley -[6]-> scientifique -[6]-> homme
+Fritz Haber -[6]-> scientifique -[6]-> homme
+Stephen Jay Gould -[6]-> scientifique -[6]-> homme
+Svante August Arrhenius -[6]-> scientifique -[6]-> homme
+John Logie Baird -[6]-> scientifique -[6]-> homme
+Christiaan Barnard -[6]-> scientifique -[6]-> homme
+Alexander Graham Bell -[6]-> scientifique -[6]-> homme
+Carl Benz -[6]-> scientifique -[6]-> homme
+Daniel Bernoulli -[6]-> scientifique -[6]-> homme
+Alphonse Bertillon -[6]-> scientifique -[6]-> homme
+Joseph Black -[6]-> scientifique -[6]-> homme
+Wernher von Braun -[6]-> scientifique -[6]-> homme
+Auguste Bravais -[6]-> scientifique -[6]-> homme
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> homme
+Erwin Chargaff -[6]-> scientifique -[6]-> homme
+Yves Chauvin -[6]-> scientifique -[6]-> homme
+Nicolas Copernic -[6]-> scientifique -[6]-> homme
+Francis Crick -[6]-> scientifique -[6]-> homme
+John Dalton -[6]-> scientifique -[6]-> homme
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> homme
+John Boyd Dunlop -[6]-> scientifique -[6]-> homme
+George Eastman -[6]-> scientifique -[6]-> homme
+Thomas Alva Edison -[6]-> scientifique -[6]-> homme
+Alexander Fleming -[6]-> scientifique -[6]-> homme
+Joseph Fourier -[6]-> scientifique -[6]-> homme
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> homme
+George Stephenson -[6]-> inventeur -[6]-> individu
+Christopher Latham Sholes -[6]-> inventeur -[6]-> individu
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> individu
+Thomas Alva Edison -[6]-> inventeur -[6]-> individu
+George Eastman -[6]-> inventeur -[6]-> individu
+John Boyd Dunlop -[6]-> inventeur -[6]-> individu
+scientifique -[6]-> inventeur -[6]-> individu
+Carl Benz -[6]-> inventeur -[6]-> individu
+Louis Braille -[6]-> inventeur -[6]-> individu
+Karl Weierstrass -[6]-> scientifique -[6]-> individu
+James Watt -[6]-> scientifique -[6]-> individu
+Paul-Émile Victor -[6]-> scientifique -[6]-> individu
+William Henry Fox Talbot -[6]-> scientifique -[6]-> individu
+George Stephenson -[6]-> scientifique -[6]-> individu
+Christopher Latham Sholes -[6]-> scientifique -[6]-> individu
+Laurent Schwartz -[6]-> scientifique -[6]-> individu
+Paul Schützenberger -[6]-> scientifique -[6]-> individu
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> individu
+Edward Sabine -[6]-> scientifique -[6]-> individu
+Bertrand Russell -[6]-> scientifique -[6]-> individu
+Wilhelm Röntgen -[6]-> scientifique -[6]-> individu
+Bernhard Riemann -[6]-> scientifique -[6]-> individu
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> individu
+Louis Pasteur -[6]-> scientifique -[6]-> individu
+Wilhelm Ostwald -[6]-> scientifique -[6]-> individu
+James Nasmyth -[6]-> scientifique -[6]-> individu
+Théodore Monod -[6]-> scientifique -[6]-> individu
+Marin Mersenne -[6]-> scientifique -[6]-> individu
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> individu
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> individu
+Ernst Mayr -[6]-> scientifique -[6]-> individu
+Marcello Malpighi -[6]-> scientifique -[6]-> individu
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> individu
+Louis Lumière -[6]-> scientifique -[6]-> individu
+Joseph Lister -[6]-> scientifique -[6]-> individu
+Carl von Linné -[6]-> scientifique -[6]-> individu
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> individu
+César Lattes -[6]-> scientifique -[6]-> individu
+Karl Landsteiner -[6]-> scientifique -[6]-> individu
+Johannes Kepler -[6]-> scientifique -[6]-> individu
+Irène Joliot-Curie -[6]-> scientifique -[6]-> individu
+Albert Jacquard -[6]-> scientifique -[6]-> individu
+Hippocrate -[6]-> scientifique -[6]-> individu
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> individu
+William Herschel -[6]-> scientifique -[6]-> individu
+Edmond Halley -[6]-> scientifique -[6]-> individu
+Fritz Haber -[6]-> scientifique -[6]-> individu
+Stephen Jay Gould -[6]-> scientifique -[6]-> individu
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> individu
+Joseph Fourier -[6]-> scientifique -[6]-> individu
+Alexander Fleming -[6]-> scientifique -[6]-> individu
+Thomas Alva Edison -[6]-> scientifique -[6]-> individu
+George Eastman -[6]-> scientifique -[6]-> individu
+John Boyd Dunlop -[6]-> scientifique -[6]-> individu
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> individu
+John Dalton -[6]-> scientifique -[6]-> individu
+Francis Crick -[6]-> scientifique -[6]-> individu
+Nicolas Copernic -[6]-> scientifique -[6]-> individu
+Yves Chauvin -[6]-> scientifique -[6]-> individu
+Erwin Chargaff -[6]-> scientifique -[6]-> individu
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> individu
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> individu
+Auguste Bravais -[6]-> scientifique -[6]-> individu
+Wernher von Braun -[6]-> scientifique -[6]-> individu
+astronome -[6]-> scientifique -[6]-> individu
+botaniste -[6]-> scientifique -[6]-> individu
+chimiste -[6]-> scientifique -[6]-> individu
+météorologue -[6]-> scientifique -[6]-> individu
+paléontologue -[6]-> scientifique -[6]-> individu
+physicien -[6]-> scientifique -[6]-> individu
+sociologue -[6]-> scientifique -[6]-> individu
+Svante August Arrhenius -[6]-> scientifique -[6]-> individu
+John Logie Baird -[6]-> scientifique -[6]-> individu
+Christiaan Barnard -[6]-> scientifique -[6]-> individu
+Alexander Graham Bell -[6]-> scientifique -[6]-> individu
+Carl Benz -[6]-> scientifique -[6]-> individu
+Daniel Bernoulli -[6]-> scientifique -[6]-> individu
+Alphonse Bertillon -[6]-> scientifique -[6]-> individu
+Joseph Black -[6]-> scientifique -[6]-> individu
+Louis Braille -[6]-> scientifique -[6]-> individu
+Edward Sabine -[6]-> astronome -[6]-> individu
+Johannes Kepler -[6]-> astronome -[6]-> individu
+William Herschel -[6]-> astronome -[6]-> individu
+Edmond Halley -[6]-> astronome -[6]-> individu
+Nicolas Copernic -[6]-> astronome -[6]-> individu
+Auguste Bravais -[6]-> astronome -[6]-> individu
+Louis Pasteur -[6]-> biologiste -[6]-> individu
+Karl Landsteiner -[6]-> biologiste -[6]-> individu
+Albert Jacquard -[6]-> biologiste -[6]-> individu
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> individu
+Erwin Chargaff -[6]-> biochimiste -[6]-> individu
+Mathieu Lafourcade -[6]-> chercheur -[6]-> individu
+Albert Jacquard -[6]-> chercheur -[6]-> individu
+archéologue -[6]-> chercheur -[6]-> individu
+biologiste -[6]-> chercheur -[6]-> individu
+biomathématicien -[6]-> chercheur -[6]-> individu
+chimiste -[6]-> chercheur -[6]-> individu
+ethnologue -[6]-> chercheur -[6]-> individu
+géologue -[6]-> chercheur -[6]-> individu
+physicien -[6]-> chercheur -[6]-> individu
+sociologue -[6]-> chercheur -[6]-> individu
+Dmitri Mendeleïev -[6]-> chimiste -[6]-> individu
+Irène Joliot-Curie -[6]-> chimiste -[6]-> individu
+Fritz Haber -[6]-> chimiste -[6]-> individu
+John Dalton -[6]-> chimiste -[6]-> individu
+biochimiste -[6]-> chimiste -[6]-> individu
+Svante August Arrhenius -[6]-> chimiste -[6]-> individu
+Paul-Émile Victor -[6]-> explorateur -[6]-> individu
+Théodore Monod -[6]-> explorateur -[6]-> individu
+Bernhard Riemann -[6]-> mathématicien -[6]-> individu
+Pierre-Simon Laplace -[6]-> mathématicien -[6]-> individu
+Augustin Louis Cauchy -[6]-> mathématicien -[6]-> individu
+Stephen Jay Gould -[6]-> paléontologue -[6]-> individu
+Wilhelm Röntgen -[6]-> physicien -[6]-> individu
+Karl Weierstrass -[6]-> scientifique -[6]-> humain
+James Watt -[6]-> scientifique -[6]-> humain
+Paul-Émile Victor -[6]-> scientifique -[6]-> humain
+William Henry Fox Talbot -[6]-> scientifique -[6]-> humain
+George Stephenson -[6]-> scientifique -[6]-> humain
+Christopher Latham Sholes -[6]-> scientifique -[6]-> humain
+Laurent Schwartz -[6]-> scientifique -[6]-> humain
+Paul Schützenberger -[6]-> scientifique -[6]-> humain
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> humain
+Edward Sabine -[6]-> scientifique -[6]-> humain
+Bertrand Russell -[6]-> scientifique -[6]-> humain
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> humain
+Louis Pasteur -[6]-> scientifique -[6]-> humain
+Wilhelm Ostwald -[6]-> scientifique -[6]-> humain
+James Nasmyth -[6]-> scientifique -[6]-> humain
+Marin Mersenne -[6]-> scientifique -[6]-> humain
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> humain
+Ernst Mayr -[6]-> scientifique -[6]-> humain
+Marcello Malpighi -[6]-> scientifique -[6]-> humain
+Joseph Lister -[6]-> scientifique -[6]-> humain
+Carl von Linné -[6]-> scientifique -[6]-> humain
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> humain
+César Lattes -[6]-> scientifique -[6]-> humain
+Karl Landsteiner -[6]-> scientifique -[6]-> humain
+Johannes Kepler -[6]-> scientifique -[6]-> humain
+Albert Jacquard -[6]-> scientifique -[6]-> humain
+Hippocrate -[6]-> scientifique -[6]-> humain
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> humain
+William Herschel -[6]-> scientifique -[6]-> humain
+Edmond Halley -[6]-> scientifique -[6]-> humain
+Fritz Haber -[6]-> scientifique -[6]-> humain
+Stephen Jay Gould -[6]-> scientifique -[6]-> humain
+Svante August Arrhenius -[6]-> scientifique -[6]-> humain
+John Logie Baird -[6]-> scientifique -[6]-> humain
+Christiaan Barnard -[6]-> scientifique -[6]-> humain
+Alexander Graham Bell -[6]-> scientifique -[6]-> humain
+Carl Benz -[6]-> scientifique -[6]-> humain
+Daniel Bernoulli -[6]-> scientifique -[6]-> humain
+Alphonse Bertillon -[6]-> scientifique -[6]-> humain
+Joseph Black -[6]-> scientifique -[6]-> humain
+Wernher von Braun -[6]-> scientifique -[6]-> humain
+Auguste Bravais -[6]-> scientifique -[6]-> humain
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> humain
+Erwin Chargaff -[6]-> scientifique -[6]-> humain
+Yves Chauvin -[6]-> scientifique -[6]-> humain
+Nicolas Copernic -[6]-> scientifique -[6]-> humain
+Francis Crick -[6]-> scientifique -[6]-> humain
+John Dalton -[6]-> scientifique -[6]-> humain
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> humain
+John Boyd Dunlop -[6]-> scientifique -[6]-> humain
+George Eastman -[6]-> scientifique -[6]-> humain
+Thomas Alva Edison -[6]-> scientifique -[6]-> humain
+Alexander Fleming -[6]-> scientifique -[6]-> humain
+Joseph Fourier -[6]-> scientifique -[6]-> humain
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> humain
+George Stephenson -[6]-> inventeur -[6]-> personne
+Christopher Latham Sholes -[6]-> inventeur -[6]-> personne
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> personne
+Thomas Alva Edison -[6]-> inventeur -[6]-> personne
+George Eastman -[6]-> inventeur -[6]-> personne
+John Boyd Dunlop -[6]-> inventeur -[6]-> personne
+Louis Braille -[6]-> inventeur -[6]-> personne
+scientifique -[6]-> inventeur -[6]-> personne
+Carl Benz -[6]-> inventeur -[6]-> personne
+Edward Witten -[6]-> scientifique -[6]-> personne
+Karl Weierstrass -[6]-> scientifique -[6]-> personne
+James Watt -[6]-> scientifique -[6]-> personne
+Paul-Émile Victor -[6]-> scientifique -[6]-> personne
+Joseph John Thomson -[6]-> scientifique -[6]-> personne
+William Henry Fox Talbot -[6]-> scientifique -[6]-> personne
+George Stephenson -[6]-> scientifique -[6]-> personne
+Christopher Latham Sholes -[6]-> scientifique -[6]-> personne
+Laurent Schwartz -[6]-> scientifique -[6]-> personne
+Paul Schützenberger -[6]-> scientifique -[6]-> personne
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> personne
+Wallace Clement Sabine -[6]-> scientifique -[6]-> personne
+Edward Sabine -[6]-> scientifique -[6]-> personne
+Bertrand Russell -[6]-> scientifique -[6]-> personne
+Ernest Rutherford -[6]-> scientifique -[6]-> personne
+Wilhelm Röntgen -[6]-> scientifique -[6]-> personne
+Bernhard Riemann -[6]-> scientifique -[6]-> personne
+George Dawson Preston -[6]-> scientifique -[6]-> personne
+Julius Plücker -[6]-> scientifique -[6]-> personne
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> personne
+Louis Pasteur -[6]-> scientifique -[6]-> personne
+Wilhelm Ostwald -[6]-> scientifique -[6]-> personne
+James Nasmyth -[6]-> scientifique -[6]-> personne
+Théodore Monod -[6]-> scientifique -[6]-> personne
+Marin Mersenne -[6]-> scientifique -[6]-> personne
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> personne
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> personne
+Ernst Mayr -[6]-> scientifique -[6]-> personne
+James Clerk Maxwell -[6]-> scientifique -[6]-> personne
+abbé Edme Mariotte -[6]-> scientifique -[6]-> personne
+Marcello Malpighi -[6]-> scientifique -[6]-> personne
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> personne
+Louis Lumière -[6]-> scientifique -[6]-> personne
+Joseph Lister -[6]-> scientifique -[6]-> personne
+Carl von Linné -[6]-> scientifique -[6]-> personne
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> personne
+Max von Laue -[6]-> scientifique -[6]-> personne
+César Lattes -[6]-> scientifique -[6]-> personne
+Karl Landsteiner -[6]-> scientifique -[6]-> personne
+Edwin H. Land -[6]-> scientifique -[6]-> personne
+Gustav Kirchhoff -[6]-> scientifique -[6]-> personne
+Johannes Kepler -[6]-> scientifique -[6]-> personne
+Lord Kelvin -[6]-> scientifique -[6]-> personne
+William Thomson -[6]-> scientifique -[6]-> personne
+Irène Joliot-Curie -[6]-> scientifique -[6]-> personne
+Albert Jacquard -[6]-> scientifique -[6]-> personne
+Hippocrate -[6]-> scientifique -[6]-> personne
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> personne
+William Herschel -[6]-> scientifique -[6]-> personne
+Edmond Halley -[6]-> scientifique -[6]-> personne
+Fritz Haber -[6]-> scientifique -[6]-> personne
+Stephen Jay Gould -[6]-> scientifique -[6]-> personne
+Augustin Fresnel -[6]-> scientifique -[6]-> personne
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> personne
+Joseph Fourier -[6]-> scientifique -[6]-> personne
+Alexander Fleming -[6]-> scientifique -[6]-> personne
+Richard Feynman -[6]-> scientifique -[6]-> personne
+Thomas Alva Edison -[6]-> scientifique -[6]-> personne
+George Eastman -[6]-> scientifique -[6]-> personne
+John Boyd Dunlop -[6]-> scientifique -[6]-> personne
+Christian Doppler -[6]-> scientifique -[6]-> personne
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> personne
+Humphry Davy -[6]-> scientifique -[6]-> personne
+John Dalton -[6]-> scientifique -[6]-> personne
+Francis Crick -[6]-> scientifique -[6]-> personne
+Charles de Coulomb -[6]-> scientifique -[6]-> personne
+Nicolas Copernic -[6]-> scientifique -[6]-> personne
+Alonzo Church -[6]-> scientifique -[6]-> personne
+Yves Chauvin -[6]-> scientifique -[6]-> personne
+Erwin Chargaff -[6]-> scientifique -[6]-> personne
+James Chadwick -[6]-> scientifique -[6]-> personne
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> personne
+Robert Wilhelm Bunsen -[6]-> scientifique -[6]-> personne
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> personne
+Auguste Bravais -[6]-> scientifique -[6]-> personne
+Wernher von Braun -[6]-> scientifique -[6]-> personne
+Louis Braille -[6]-> scientifique -[6]-> personne
+Ludwig Boltzmann -[6]-> scientifique -[6]-> personne
+Joseph Black -[6]-> scientifique -[6]-> personne
+Alphonse Bertillon -[6]-> scientifique -[6]-> personne
+astronome -[6]-> scientifique -[6]-> personne
+botaniste -[6]-> scientifique -[6]-> personne
+chimiste -[6]-> scientifique -[6]-> personne
+météorologue -[6]-> scientifique -[6]-> personne
+paléontologue -[6]-> scientifique -[6]-> personne
+physicien -[6]-> scientifique -[6]-> personne
+sociologue -[6]-> scientifique -[6]-> personne
+André-Marie Ampère -[6]-> scientifique -[6]-> personne
+Svante August Arrhenius -[6]-> scientifique -[6]-> personne
+Pierre Victor Auger -[6]-> scientifique -[6]-> personne
+John Logie Baird -[6]-> scientifique -[6]-> personne
+Christiaan Barnard -[6]-> scientifique -[6]-> personne
+Alexander Graham Bell -[6]-> scientifique -[6]-> personne
+Carl Benz -[6]-> scientifique -[6]-> personne
+Daniel Bernoulli -[6]-> scientifique -[6]-> personne
+Edward Sabine -[6]-> astronome -[6]-> personne
+Johannes Kepler -[6]-> astronome -[6]-> personne
+William Herschel -[6]-> astronome -[6]-> personne
+Edmond Halley -[6]-> astronome -[6]-> personne
+Nicolas Copernic -[6]-> astronome -[6]-> personne
+Auguste Bravais -[6]-> astronome -[6]-> personne
+Louis Pasteur -[6]-> biologiste -[6]-> personne
+Karl Landsteiner -[6]-> biologiste -[6]-> personne
+Albert Jacquard -[6]-> biologiste -[6]-> personne
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> personne
+Erwin Chargaff -[6]-> biochimiste -[6]-> personne
+Mathieu Lafourcade -[6]-> chercheur -[6]-> personne
+Albert Jacquard -[6]-> chercheur -[6]-> personne
+archéologue -[6]-> chercheur -[6]-> personne
+biologiste -[6]-> chercheur -[6]-> personne
+biomathématicien -[6]-> chercheur -[6]-> personne
+chimiste -[6]-> chercheur -[6]-> personne
+ethnologue -[6]-> chercheur -[6]-> personne
+géologue -[6]-> chercheur -[6]-> personne
+physicien -[6]-> chercheur -[6]-> personne
+sociologue -[6]-> chercheur -[6]-> personne
+Dmitri Mendeleïev -[6]-> chimiste -[6]-> personne
+Irène Joliot-Curie -[6]-> chimiste -[6]-> personne
+Fritz Haber -[6]-> chimiste -[6]-> personne
+John Dalton -[6]-> chimiste -[6]-> personne
+Robert Wilhelm Bunsen -[6]-> chimiste -[6]-> personne
+biochimiste -[6]-> chimiste -[6]-> personne
+Svante August Arrhenius -[6]-> chimiste -[6]-> personne
+Paul-Émile Victor -[6]-> explorateur -[6]-> personne
+Théodore Monod -[6]-> explorateur -[6]-> personne
+Bernhard Riemann -[6]-> mathématicien -[6]-> personne
+Julius Plücker -[6]-> mathématicien -[6]-> personne
+Pierre-Simon Laplace -[6]-> mathématicien -[6]-> personne
+Alonzo Church -[6]-> mathématicien -[6]-> personne
+Augustin Louis Cauchy -[6]-> mathématicien -[6]-> personne
+André-Marie Ampère -[6]-> mathématicien -[6]-> personne
+Stephen Jay Gould -[6]-> paléontologue -[6]-> personne
+Edward Witten -[6]-> physicien -[6]-> personne
+Joseph John Thomson -[6]-> physicien -[6]-> personne
+Wallace Clement Sabine -[6]-> physicien -[6]-> personne
+Ernest Rutherford -[6]-> physicien -[6]-> personne
+Wilhelm Röntgen -[6]-> physicien -[6]-> personne
+George Dawson Preston -[6]-> physicien -[6]-> personne
+James Clerk Maxwell -[6]-> physicien -[6]-> personne
+abbé Edme Mariotte -[6]-> physicien -[6]-> personne
+Max von Laue -[6]-> physicien -[6]-> personne
+Gustav Kirchhoff -[6]-> physicien -[6]-> personne
+Lord Kelvin -[6]-> physicien -[6]-> personne
+William Thomson -[6]-> physicien -[6]-> personne
+Augustin Fresnel -[6]-> physicien -[6]-> personne
+Richard Feynman -[6]-> physicien -[6]-> personne
+Christian Doppler -[6]-> physicien -[6]-> personne
+Humphry Davy -[6]-> physicien -[6]-> personne
+Charles de Coulomb -[6]-> physicien -[6]-> personne
+James Chadwick -[6]-> physicien -[6]-> personne
+Robert Wilhelm Bunsen -[6]-> physicien -[6]-> personne
+Ludwig Boltzmann -[6]-> physicien -[6]-> personne
+Pierre Victor Auger -[6]-> physicien -[6]-> personne
+George Stephenson -[6]-> inventeur -[6]-> être humain
+Christopher Latham Sholes -[6]-> inventeur -[6]-> être humain
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> être humain
+Thomas Alva Edison -[6]-> inventeur -[6]-> être humain
+George Eastman -[6]-> inventeur -[6]-> être humain
+John Boyd Dunlop -[6]-> inventeur -[6]-> être humain
+Louis Braille -[6]-> inventeur -[6]-> être humain
+scientifique -[6]-> inventeur -[6]-> être humain
+Carl Benz -[6]-> inventeur -[6]-> être humain
+Karl Weierstrass -[6]-> scientifique -[6]-> être humain
+James Watt -[6]-> scientifique -[6]-> être humain
+Paul-Émile Victor -[6]-> scientifique -[6]-> être humain
+William Henry Fox Talbot -[6]-> scientifique -[6]-> être humain
+George Stephenson -[6]-> scientifique -[6]-> être humain
+Christopher Latham Sholes -[6]-> scientifique -[6]-> être humain
+Laurent Schwartz -[6]-> scientifique -[6]-> être humain
+Paul Schützenberger -[6]-> scientifique -[6]-> être humain
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> être humain
+Edward Sabine -[6]-> scientifique -[6]-> être humain
+Bertrand Russell -[6]-> scientifique -[6]-> être humain
+Wilhelm Röntgen -[6]-> scientifique -[6]-> être humain
+Bernhard Riemann -[6]-> scientifique -[6]-> être humain
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> être humain
+Louis Pasteur -[6]-> scientifique -[6]-> être humain
+Wilhelm Ostwald -[6]-> scientifique -[6]-> être humain
+James Nasmyth -[6]-> scientifique -[6]-> être humain
+Théodore Monod -[6]-> scientifique -[6]-> être humain
+Marin Mersenne -[6]-> scientifique -[6]-> être humain
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> être humain
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> être humain
+Ernst Mayr -[6]-> scientifique -[6]-> être humain
+Marcello Malpighi -[6]-> scientifique -[6]-> être humain
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> être humain
+Louis Lumière -[6]-> scientifique -[6]-> être humain
+Joseph Lister -[6]-> scientifique -[6]-> être humain
+Carl von Linné -[6]-> scientifique -[6]-> être humain
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> être humain
+César Lattes -[6]-> scientifique -[6]-> être humain
+Karl Landsteiner -[6]-> scientifique -[6]-> être humain
+Johannes Kepler -[6]-> scientifique -[6]-> être humain
+Irène Joliot-Curie -[6]-> scientifique -[6]-> être humain
+Albert Jacquard -[6]-> scientifique -[6]-> être humain
+Hippocrate -[6]-> scientifique -[6]-> être humain
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> être humain
+William Herschel -[6]-> scientifique -[6]-> être humain
+Edmond Halley -[6]-> scientifique -[6]-> être humain
+Fritz Haber -[6]-> scientifique -[6]-> être humain
+Stephen Jay Gould -[6]-> scientifique -[6]-> être humain
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> être humain
+Joseph Fourier -[6]-> scientifique -[6]-> être humain
+Alexander Fleming -[6]-> scientifique -[6]-> être humain
+Thomas Alva Edison -[6]-> scientifique -[6]-> être humain
+George Eastman -[6]-> scientifique -[6]-> être humain
+John Boyd Dunlop -[6]-> scientifique -[6]-> être humain
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> être humain
+John Dalton -[6]-> scientifique -[6]-> être humain
+Francis Crick -[6]-> scientifique -[6]-> être humain
+Nicolas Copernic -[6]-> scientifique -[6]-> être humain
+Yves Chauvin -[6]-> scientifique -[6]-> être humain
+Erwin Chargaff -[6]-> scientifique -[6]-> être humain
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> être humain
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> être humain
+Auguste Bravais -[6]-> scientifique -[6]-> être humain
+Wernher von Braun -[6]-> scientifique -[6]-> être humain
+Louis Braille -[6]-> scientifique -[6]-> être humain
+astronome -[6]-> scientifique -[6]-> être humain
+botaniste -[6]-> scientifique -[6]-> être humain
+chimiste -[6]-> scientifique -[6]-> être humain
+météorologue -[6]-> scientifique -[6]-> être humain
+paléontologue -[6]-> scientifique -[6]-> être humain
+physicien -[6]-> scientifique -[6]-> être humain
+sociologue -[6]-> scientifique -[6]-> être humain
+Svante August Arrhenius -[6]-> scientifique -[6]-> être humain
+John Logie Baird -[6]-> scientifique -[6]-> être humain
+Christiaan Barnard -[6]-> scientifique -[6]-> être humain
+Alexander Graham Bell -[6]-> scientifique -[6]-> être humain
+Carl Benz -[6]-> scientifique -[6]-> être humain
+Daniel Bernoulli -[6]-> scientifique -[6]-> être humain
+Alphonse Bertillon -[6]-> scientifique -[6]-> être humain
+Joseph Black -[6]-> scientifique -[6]-> être humain
+Edward Sabine -[6]-> astronome -[6]-> être humain
+Johannes Kepler -[6]-> astronome -[6]-> être humain
+William Herschel -[6]-> astronome -[6]-> être humain
+Edmond Halley -[6]-> astronome -[6]-> être humain
+Nicolas Copernic -[6]-> astronome -[6]-> être humain
+Auguste Bravais -[6]-> astronome -[6]-> être humain
+Louis Pasteur -[6]-> biologiste -[6]-> être humain
+Karl Landsteiner -[6]-> biologiste -[6]-> être humain
+Albert Jacquard -[6]-> biologiste -[6]-> être humain
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> être humain
+Erwin Chargaff -[6]-> biochimiste -[6]-> être humain
+Mathieu Lafourcade -[6]-> chercheur -[6]-> être humain
+Albert Jacquard -[6]-> chercheur -[6]-> être humain
+archéologue -[6]-> chercheur -[6]-> être humain
+biologiste -[6]-> chercheur -[6]-> être humain
+biomathématicien -[6]-> chercheur -[6]-> être humain
+chimiste -[6]-> chercheur -[6]-> être humain
+ethnologue -[6]-> chercheur -[6]-> être humain
+géologue -[6]-> chercheur -[6]-> être humain
+physicien -[6]-> chercheur -[6]-> être humain
+sociologue -[6]-> chercheur -[6]-> être humain
+Dmitri Mendeleïev -[6]-> chimiste -[6]-> être humain
+Irène Joliot-Curie -[6]-> chimiste -[6]-> être humain
+Fritz Haber -[6]-> chimiste -[6]-> être humain
+John Dalton -[6]-> chimiste -[6]-> être humain
+biochimiste -[6]-> chimiste -[6]-> être humain
+Svante August Arrhenius -[6]-> chimiste -[6]-> être humain
+Paul-Émile Victor -[6]-> explorateur -[6]-> être humain
+Théodore Monod -[6]-> explorateur -[6]-> être humain
+Bernhard Riemann -[6]-> mathématicien -[6]-> être humain
+Pierre-Simon Laplace -[6]-> mathématicien -[6]-> être humain
+Augustin Louis Cauchy -[6]-> mathématicien -[6]-> être humain
+Stephen Jay Gould -[6]-> paléontologue -[6]-> être humain
+Wilhelm Röntgen -[6]-> physicien -[6]-> être humain
+thermomètre à résistance de platine -[6]-> thermomètre -[6]-> dispositif
+Jean-Marie Pelt -[6]-> botaniste -[6]-> scientifique
+Anna Atkins -[6]-> botaniste -[6]-> scientifique
+Richard Heck -[6]-> chimiste -[6]-> scientifique
+Linus Pauling -[6]-> chimiste -[6]-> scientifique
+John Walker -[6]-> chimiste -[6]-> scientifique
+Dorothy Crowfoot Hodgkin -[6]-> chimiste -[6]-> scientifique
+Albert Hofmann -[6]-> chimiste -[6]-> scientifique
+Frances Hamilton Arnold -[6]-> chimiste -[6]-> scientifique
+Lavoisier -[6]-> chimiste -[6]-> scientifique
+Roger Gaudry -[6]-> chimiste -[6]-> scientifique
+Pilâtre de Rozier -[6]-> chimiste -[6]-> scientifique
+William Henry Perkin -[6]-> chimiste -[6]-> scientifique
+Dmitri Mendeleïev -[6]-> chimiste -[6]-> scientifique
+Irène Joliot-Curie -[6]-> chimiste -[6]-> scientifique
+Otto Hahn -[6]-> chimiste -[6]-> scientifique
+Fritz Haber -[6]-> chimiste -[6]-> scientifique
+John Dalton -[6]-> chimiste -[6]-> scientifique
+Eugène Chevreul -[6]-> chimiste -[6]-> scientifique
+Svante August Arrhenius -[6]-> chimiste -[6]-> scientifique
+Adolf von Baeyer -[6]-> chimiste -[6]-> scientifique
+Karl Josef Bayer -[6]-> chimiste -[6]-> scientifique
+Marcellin Berthelot -[6]-> chimiste -[6]-> scientifique
+Robert Wilhelm Bunsen -[6]-> chimiste -[6]-> scientifique
+Wallace Hume Carothers -[6]-> chimiste -[6]-> scientifique
+Louis Michel -[6]-> physicien -[6]-> scientifique
+Hiroshi Amano -[6]-> physicien -[6]-> scientifique
+lord Kelvin -[6]-> physicien -[6]-> scientifique
+Abbé Edme Mariotte -[6]-> physicien -[6]-> scientifique
+Edward Witten -[6]-> physicien -[6]-> scientifique
+Joseph John Thomson -[6]-> physicien -[6]-> scientifique
+Wallace Clement Sabine -[6]-> physicien -[6]-> scientifique
+Ernest Rutherford -[6]-> physicien -[6]-> scientifique
+Wilhelm Röntgen -[6]-> physicien -[6]-> scientifique
+George Dawson Preston -[6]-> physicien -[6]-> scientifique
+James Clerk Maxwell -[6]-> physicien -[6]-> scientifique
+abbé Edme Mariotte -[6]-> physicien -[6]-> scientifique
+Max von Laue -[6]-> physicien -[6]-> scientifique
+Gustav Kirchhoff -[6]-> physicien -[6]-> scientifique
+Lord Kelvin -[6]-> physicien -[6]-> scientifique
+William Thomson -[6]-> physicien -[6]-> scientifique
+Augustin Fresnel -[6]-> physicien -[6]-> scientifique
+Richard Feynman -[6]-> physicien -[6]-> scientifique
+Christian Doppler -[6]-> physicien -[6]-> scientifique
+Humphry Davy -[6]-> physicien -[6]-> scientifique
+Charles de Coulomb -[6]-> physicien -[6]-> scientifique
+Pierre Victor Auger -[6]-> physicien -[6]-> scientifique
+Ludwig Boltzmann -[6]-> physicien -[6]-> scientifique
+Robert Wilhelm Bunsen -[6]-> physicien -[6]-> scientifique
+James Chadwick -[6]-> physicien -[6]-> scientifique
+Zygmunt Bauman -[6]-> sociologue -[6]-> scientifique
+Ulrich Beck -[6]-> sociologue -[6]-> scientifique
+Raymond Boudon -[6]-> sociologue -[6]-> scientifique
+Michel Crozier -[6]-> sociologue -[6]-> scientifique
+Louis Porcher -[6]-> sociologue -[6]-> scientifique
+Guy Coulombe -[6]-> sociologue -[6]-> scientifique
+Gaston Bouthoul -[6]-> sociologue -[6]-> scientifique
+Vera Rubin -[6]-> astronome -[6]-> scientifique
+Jean-Louis Steinberg -[6]-> astronome -[6]-> scientifique
+Hipparque -[6]-> astronome -[6]-> scientifique
+Edward Sabine -[6]-> astronome -[6]-> scientifique
+Johannes Kepler -[6]-> astronome -[6]-> scientifique
+William Herschel -[6]-> astronome -[6]-> scientifique
+Edmond Halley -[6]-> astronome -[6]-> scientifique
+Nicolas Copernic -[6]-> astronome -[6]-> scientifique
+Tycho Brahe -[6]-> astronome -[6]-> scientifique
+Auguste Bravais -[6]-> astronome -[6]-> scientifique
+Carl von Linné -[6]-> naturaliste -[6]-> scientifique
+Mary Leakey -[6]-> paléontologue -[6]-> scientifique
+Mary Anning -[6]-> paléontologue -[6]-> scientifique
+Stephen Jay Gould -[6]-> paléontologue -[6]-> scientifique
+Albert Jacquard -[6]-> généticien -[6]-> scientifique
+Hubert Reeves -[6]-> astrophysicien -[6]-> scientifique
+électronique -[6]-> =science= -[6]-> chimie
+vaccin -[6]-> =science= -[6]-> chimie
+biochimie -[6]-> =science= -[6]-> chimie
+chimie organique -[6]-> =science= -[6]-> chimie
+chimie organique -[6]-> chimie du carbone -[6]-> chimie
+électronique -[6]-> Science -[6]-> chimie
+vaccin -[6]-> Science -[6]-> chimie
+biochimie -[6]-> Science -[6]-> chimie
+chimie organique -[6]-> Science -[6]-> chimie
+chimie organique physique -[6]-> chimie organique -[6]-> chimie
+chimie organique -[6]-> =science= -[6]-> Chimie
+électronique -[6]-> =science= -[6]-> Chimie
+vaccin -[6]-> =science= -[6]-> Chimie
+chimie organique -[6]-> Science -[6]-> Chimie
+électronique -[6]-> Science -[6]-> Chimie
+vaccin -[6]-> Science -[6]-> Chimie
+chambre à bulles -[6]-> espace fermé -[6]-> espace
+SIDA -[6]-> pathologie infectieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> pathologie infectieuse -[6]-> maladie
+SIDA -[6]-> =infectious disorder= -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> =infectious disorder= -[6]-> maladie
+IA -[6]-> valvulopathie cardiaque -[6]-> maladie
+SIDA -[6]-> IST -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> IST -[6]-> maladie
+SIDA -[6]-> grave maladie -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> grave maladie -[6]-> maladie
+SIDA -[6]-> infection sexuellement transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> infection sexuellement transmissible -[6]-> maladie
+SIDA -[6]-> infection à virus à ARN -[6]-> maladie
+SIDA -[6]-> infection à virus lents -[6]-> maladie
+SIDA -[6]-> virose -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> virose -[6]-> maladie
+IA -[6]-> valvulopathie -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> virus de l'immunodéficience humaine -[6]-> maladie
+IA -[6]-> maladie valvulaire cardiaque -[6]-> maladie
+IA -[6]-> maladie valvulaire -[6]-> maladie
+SIDA -[6]-> mts -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> mts -[6]-> maladie
+SIDA -[6]-> maladie transmissible sexuellement -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie transmissible sexuellement -[6]-> maladie
+SIDA -[6]-> MTS -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> MTS -[6]-> maladie
+IA -[6]-> maladie cardiaque -[6]-> maladie
+SIDA -[6]-> maladie transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie transmissible -[6]-> maladie
+SIDA -[6]-> mst -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> mst -[6]-> maladie
+IA -[6]-> insuffisance cardiaque -[6]-> maladie
+SIDA -[6]-> syndrome -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> syndrome -[6]-> maladie
+SIDA -[6]-> infection -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> infection -[6]-> maladie
+SIDA -[6]-> maladie émergente -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie émergente -[6]-> maladie
+IA -[6]-> maladie cardio-vasculaire -[6]-> maladie
+SIDA -[6]-> maladie virale -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie virale -[6]-> maladie
+SIDA -[6]-> maladie mortelle -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie mortelle -[6]-> maladie
+SIDA -[6]-> maladie infectieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie infectieuse -[6]-> maladie
+SIDA -[6]-> maladie grave -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie grave -[6]-> maladie
+SIDA -[6]-> maladie contagieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie contagieuse -[6]-> maladie
+SIDA -[6]-> maladie chronique -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie chronique -[6]-> maladie
+SIDA -[6]-> MST -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> MST -[6]-> maladie
+SIDA -[6]-> virus -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> virus -[6]-> maladie
+SIDA -[6]-> épidémie -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> épidémie -[6]-> maladie
+SIDA -[6]-> maladie vénérienne -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie vénérienne -[6]-> maladie
+SIDA -[6]-> maladie sexuellement transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie sexuellement transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> VIH -[6]-> maladie
+SIDA -[6]-> =infectious disorder= -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> =infectious disorder= -[6]-> pathologie
+SIDA -[6]-> maladie infectieuse -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> maladie infectieuse -[6]-> pathologie
+SIDA -[6]-> pathologie infectieuse -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> pathologie infectieuse -[6]-> pathologie
+IA -[6]-> maladie -[6]-> processus pathologique
+syndrome d'immunodéficience acquise -[6]-> maladie -[6]-> processus pathologique
+SIDA -[6]-> maladie -[6]-> processus pathologique
+triangle -[6]-> arithmétique -[6]-> mathématique
+Carl Benz -[6]-> scientifique -[6]-> inventeur
+Louis Braille -[6]-> scientifique -[6]-> inventeur
+John Boyd Dunlop -[6]-> scientifique -[6]-> inventeur
+George Eastman -[6]-> scientifique -[6]-> inventeur
+Thomas Alva Edison -[6]-> scientifique -[6]-> inventeur
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> inventeur
+Samuel Morse -[6]-> scientifique -[6]-> inventeur
+Nikolaus Otto -[6]-> scientifique -[6]-> inventeur
+Christopher Latham Sholes -[6]-> scientifique -[6]-> inventeur
+George Stephenson -[6]-> scientifique -[6]-> inventeur
+George Eastman -[6]-> artiste -[6]-> inventeur
+scientifique -[6]-> inventeur -[6]-> profession
+biochimiste -[6]-> chimiste -[6]-> métier
+sociologue -[6]-> chercheur -[6]-> métier
+physicien -[6]-> chercheur -[6]-> métier
+géologue -[6]-> chercheur -[6]-> métier
+ethnologue -[6]-> chercheur -[6]-> métier
+chimiste -[6]-> chercheur -[6]-> métier
+biomathématicien -[6]-> chercheur -[6]-> métier
+biologiste -[6]-> chercheur -[6]-> métier
+archéologue -[6]-> chercheur -[6]-> métier
+Albert Jacquard -[6]-> biologiste -[6]-> chercheur
+François Jacob -[6]-> biologiste -[6]-> chercheur
+Isidor Isaac Rabi -[6]-> physicien -[6]-> chercheur
+Mathieu Lafourcade -[6]-> enseignant-chercheur -[6]-> chercheur
+Paul-Émile Victor -[6]-> explorateur polaire -[6]-> explorateur
+Théodore Monod -[6]-> explorateur français -[6]-> explorateur
+Paul-Émile Victor -[6]-> explorateur français -[6]-> explorateur
+triangle -[6]-> mathématique -[6]-> arithmétique
+analyse -[6]-> logique -[6]-> Mathématiques
+Gödel -[6]-> logique -[6]-> Mathématiques
+Chimie -[6]-> physique -[6]-> cours
+chimie -[6]-> physique -[6]-> cours
+Géologie -[6]-> spéléologie -[6]-> physique
+géologie -[6]-> spéléologie -[6]-> physique
+sismologie -[6]-> Science -[6]-> physique
+Mathématiques -[6]-> Science -[6]-> physique
+Chimie -[6]-> Science -[6]-> physique
+Géologie -[6]-> Science -[6]-> physique
+géologie -[6]-> Science -[6]-> physique
+chimie -[6]-> Science -[6]-> physique
+électronique -[6]-> Science -[6]-> physique
+physique des particules -[6]-> Science -[6]-> physique
+physique des plasmas -[6]-> Science -[6]-> physique
+vaccin -[6]-> Science -[6]-> physique
+statistique -[6]-> Mathématiques -[6]-> physique
+infini -[6]-> Mathématiques -[6]-> physique
+=nobelium= -[6]-> Chimie -[6]-> physique
+=californium= -[6]-> Chimie -[6]-> physique
+=fermium= -[6]-> Chimie -[6]-> physique
+=lawrencium= -[6]-> Chimie -[6]-> physique
+=niobium= -[6]-> Chimie -[6]-> physique
+=protactinium= -[6]-> Chimie -[6]-> physique
+=vanadium= -[6]-> Chimie -[6]-> physique
+électrochimie -[6]-> Chimie -[6]-> physique
+eudiométrie -[6]-> Chimie -[6]-> physique
+niobium -[6]-> Chimie -[6]-> physique
+Science -[6]-> Chimie -[6]-> physique
+lawrencium -[6]-> Chimie -[6]-> physique
+électronique -[6]-> Chimie -[6]-> physique
+atomique -[6]-> Chimie -[6]-> physique
+vaccin -[6]-> Chimie -[6]-> physique
+phosphore -[6]-> Chimie -[6]-> physique
+vanadium -[6]-> Chimie -[6]-> physique
+californium -[6]-> Chimie -[6]-> physique
+hahnium -[6]-> Chimie -[6]-> physique
+kourtchatovium -[6]-> Chimie -[6]-> physique
+einsteinium -[6]-> Chimie -[6]-> physique
+protactinium -[6]-> Chimie -[6]-> physique
+thermochimie -[6]-> Chimie -[6]-> physique
+fermium -[6]-> Chimie -[6]-> physique
+berkélium -[6]-> Chimie -[6]-> physique
+nobélium -[6]-> Chimie -[6]-> physique
+hassium -[6]-> Chimie -[6]-> physique
+spéléologie -[6]-> géologie -[6]-> physique
+=nobelium= -[6]-> chimie -[6]-> physique
+=californium= -[6]-> chimie -[6]-> physique
+=fermium= -[6]-> chimie -[6]-> physique
+=lawrencium= -[6]-> chimie -[6]-> physique
+=niobium= -[6]-> chimie -[6]-> physique
+=protactinium= -[6]-> chimie -[6]-> physique
+=vanadium= -[6]-> chimie -[6]-> physique
+électrochimie -[6]-> chimie -[6]-> physique
+eudiométrie -[6]-> chimie -[6]-> physique
+niobium -[6]-> chimie -[6]-> physique
+Science -[6]-> chimie -[6]-> physique
+lawrencium -[6]-> chimie -[6]-> physique
+électronique -[6]-> chimie -[6]-> physique
+atomique -[6]-> chimie -[6]-> physique
+vaccin -[6]-> chimie -[6]-> physique
+phosphore -[6]-> chimie -[6]-> physique
+vanadium -[6]-> chimie -[6]-> physique
+californium -[6]-> chimie -[6]-> physique
+hahnium -[6]-> chimie -[6]-> physique
+kourtchatovium -[6]-> chimie -[6]-> physique
+einsteinium -[6]-> chimie -[6]-> physique
+protactinium -[6]-> chimie -[6]-> physique
+thermochimie -[6]-> chimie -[6]-> physique
+fermium -[6]-> chimie -[6]-> physique
+berkélium -[6]-> chimie -[6]-> physique
+nobélium -[6]-> chimie -[6]-> physique
+hassium -[6]-> chimie -[6]-> physique
+bobine -[6]-> électronique -[6]-> physique
+électronique -[6]-> Science -[6]-> technologie
+géopolitique -[6]-> Economie -[6]-> économie
+économie keynésienne -[6]-> Economie -[6]-> économie
+économie clandestine -[6]-> Economie -[6]-> économie
+macroéconomie -[6]-> Economie -[6]-> économie
+macro-économie -[6]-> Economie -[6]-> économie
+analyse -[6]-> logique -[6]-> linguistique
+analyse -[6]-> logique -[6]-> Linguistique
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> géoscience
+pétrologie métamorphique -[6]-> pétrologie -[6]-> géoscience
+pétrologie magmatique -[6]-> pétrologie -[6]-> géoscience
+pétrologie cristalline -[6]-> pétrologie -[6]-> géoscience
+technologie -[6]-> linguistique -[6]-> concept
+synchrotron -[6]-> collisionneur -[6]-> accélérateur de particules
+=synchrocyclotron= -[6]-> cyclotron -[6]-> accélérateur de particules
+synchrocyclotron -[6]-> cyclotron -[6]-> accélérateur de particules
+cyclotron -[6]-> accélérateur de particules -[6]-> accélérateur
+ohmmètre -[6]-> multimètre -[6]-> outil
+microbalance à quartz -[6]-> microbalance piézoélectrique -[6]-> microbalance
+scramjet -[6]-> statoréacteur -[6]-> moteur
+thermomètre à résistance de platine -[6]-> thermomètre à résistance -[6]-> thermomètre
+télescope Lovell -[6]-> radiotélescope -[6]-> télescope
+télescope Transit -[6]-> radiotélescope -[6]-> télescope
+télescope de 45 mètres de l'observatoire radio de Nobeyama -[6]-> radiotélescope -[6]-> télescope
+transistor en couches minces -[6]-> transistor à effet de champ -[6]-> transistor
+transistor à effet de champ à grille isolée -[6]-> transistor à effet de champ -[6]-> transistor
+gynécologie -[6]-> médecine -[6]-> spécialité
