@@ -1,0 +1,17 @@
+biologie -[42]-> =science= -[42]-> recherche
+biologie -[42]-> Science -[42]-> recherche
+biologie -[42]-> science -[42]-> recherche
+Mathieu Lafourcade -[42]-> malade -[42]-> maladie
+Médecine -[42]-> soigner -[42]-> maladie
+médecine -[42]-> soigner -[42]-> maladie
+Mathieu Lafourcade -[42]-> patraque -[42]-> maladie
+Mathieu Lafourcade -[42]-> fatigue -[42]-> maladie
+medicament -[42]-> médecine -[42]-> maladie
+=medicament= -[42]-> médecine -[42]-> maladie
+se déchausser -[42]-> médecine -[42]-> maladie
+guérison -[42]-> médecine -[42]-> maladie
+guérir -[42]-> médecine -[42]-> maladie
+clinique -[42]-> médecine -[42]-> maladie
+médicament -[42]-> médecine -[42]-> maladie
+mort -[42]-> maladie -[42]-> bacille
+Mathieu Lafourcade -[42]-> maladie -[42]-> vieux

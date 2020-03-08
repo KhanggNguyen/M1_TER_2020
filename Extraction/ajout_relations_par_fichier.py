@@ -20,8 +20,8 @@ fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
 for relation in fichier_relation :
     array_of_line = relation.split(';')
     
-    myNodeA = Node("Terme", label = array_of_line[0], poids = int(array_of_line[2]))
-    myNodeB = Node("Terme", label = array_of_line[1], poids = int(array_of_line[2]))
+    myNodeA = Node("Terme", label = array_of_line[0])
+    myNodeB = Node("Terme", label = array_of_line[1])
     
     if len(matcher.match('Terme').where('_.label="' + array_of_line[0] + '"')) == 0:
         graph.create(myNodeA)
@@ -29,7 +29,8 @@ for relation in fichier_relation :
     if len(matcher.match('Terme').where('_.label="' + array_of_line[1]  + '"')) == 0:
         graph.create(myNodeB)
     
-    isA = Relationship.type(sys.argv[2])
-    graph.merge(isA(myNodeA, myNodeB), "Terme", "label")
+    relation = Relationship.type(sys.argv[2])
+    
+    graph.merge(relation(myNodeA, myNodeB, poids = int(array_of_line[2])), "Terme", "label")
 
     

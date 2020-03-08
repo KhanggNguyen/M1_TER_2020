@@ -1,0 +1,13 @@
+recherche -[41]-> =science= -[41]-> biologie
+recherche -[41]-> Science -[41]-> biologie
+recherche -[41]-> science -[41]-> biologie
+maladie -[41]-> soigner -[41]-> Médecine
+maladie -[41]-> soigner -[41]-> médecine
+maladie -[41]-> médecine -[41]-> médicament
+maladie -[41]-> médecine -[41]-> =medicament=
+maladie -[41]-> médecine -[41]-> medicament
+bacille -[41]-> maladie -[41]-> mort
+maladie -[41]-> médecine -[41]-> se déchausser
+maladie -[41]-> médecine -[41]-> guérison
+maladie -[41]-> médecine -[41]-> guérir
+maladie -[41]-> médecine -[41]-> clinique

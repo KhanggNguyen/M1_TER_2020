@@ -33,7 +33,7 @@ Liste ID des relations
 
 15 = lieu 1 (done)
 17 = caracteristique (adding to neo4j)
-9 = has_part (extracting)
+9 = has_part (done)
 6 = isA (done)
 13 = agent (done)
 42 = causatif (done)
