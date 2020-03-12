@@ -31,11 +31,23 @@ Pour créer les triangles, on utilise le script "make_triangle.py" + id de la re
 
 Liste ID des relations 
 
+0 = associated (adding)
+6 = isA (done)
+9 = has_part (done)
+13 = agent (done)
+14 = appartient (done)
 15 = lieu 1 (done)
 17 = caracteristique (adding to neo4j)
-9 = has_part (done)
-6 = isA (done)
-13 = agent (done)
-42 = causatif (done)
 41 = conseq (done)
-14 = appartient (done)
+42 = causatif (done)
+
+Requete Cypher :
+
+Compter relation spécifique :
+MATCH ()-[r:`17`]->() return COUNT(r)
+
+récuperer les triangles :
+MATCH p=(a:Terme)-[r1:`13`]->(b:Terme)-[r2:`13`]->(c:Terme)<-[r3:`13`]-(a:Terme) WITH a,b,c WHERE r2.poids > 0 AND r1.poids > 0 AND r3.poids > 0  return a, b, c ;
+
+Récuperer les triangles avec les relations aléatoires :
+MATCH (a:Terme)-[r1]->(b:Terme)-[r2]->(c:Terme)<-[r3]-(a:Terme) WHERE r1.poids > 0 AND r2.poids > 0  AND r3.poids > 0 return a, b, c LIMIT 20;

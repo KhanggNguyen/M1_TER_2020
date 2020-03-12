@@ -1,0 +1,300 @@
+espace -[0]-> exploration spatiale -[0]-> astronomie
+lumière -[0]-> tête -[0]-> astronomie
+espace -[0]-> amartissage -[0]-> astronomie
+lumière -[0]-> aurore -[0]-> astronomie
+lumière -[0]-> interféromètre -[0]-> astronomie
+exobiologiste -[0]-> exobiologue -[0]-> astronomie
+espace -[0]-> amarissage -[0]-> astronomie
+cosmologie -[0]-> hyper-trou noir -[0]-> astronomie
+espace -[0]-> imprimerie -[0]-> astronomie
+astrobiologie -[0]-> sciences -[0]-> astronomie
+lumière -[0]-> sciences -[0]-> astronomie
+chercheur -[0]-> sciences -[0]-> astronomie
+Aéronautique -[0]-> sciences -[0]-> astronomie
+recherche -[0]-> sciences -[0]-> astronomie
+Jacques-Yves Cousteau -[0]-> sciences -[0]-> astronomie
+Nicolas Copernic -[0]-> sciences -[0]-> astronomie
+Tycho Brahe -[0]-> sciences -[0]-> astronomie
+révolution -[0]-> sciences -[0]-> astronomie
+exobiologiste -[0]-> sciences -[0]-> astronomie
+cosmologie -[0]-> sciences -[0]-> astronomie
+astronome -[0]-> sciences -[0]-> astronomie
+astrométrie -[0]-> sciences -[0]-> astronomie
+espace -[0]-> sciences -[0]-> astronomie
+cosmologie -[0]-> énergie noire -[0]-> astronomie
+cosmologie -[0]-> horizon des événements -[0]-> astronomie
+recherche -[0]-> Géologie -[0]-> astronomie
+recherche -[0]-> géologie -[0]-> astronomie
+espace -[0]-> infini -[0]-> astronomie
+sciences -[0]-> astrobiologie -[0]-> astronomie
+Science -[0]-> astrobiologie -[0]-> astronomie
+astrologie -[0]-> astrobiologie -[0]-> astronomie
+science -[0]-> astrobiologie -[0]-> astronomie
+Astronomie -[0]-> astrobiologie -[0]-> astronomie
+lumière -[0]-> clair -[0]-> astronomie
+tête -[0]-> lumière -[0]-> astronomie
+aurore -[0]-> lumière -[0]-> astronomie
+Clair de lune -[0]-> lumière -[0]-> astronomie
+interféromètre -[0]-> lumière -[0]-> astronomie
+siècle-lumière -[0]-> lumière -[0]-> astronomie
+lumière cendrée -[0]-> lumière -[0]-> astronomie
+sciences -[0]-> lumière -[0]-> astronomie
+clair -[0]-> lumière -[0]-> astronomie
+auréole -[0]-> lumière -[0]-> astronomie
+bras -[0]-> lumière -[0]-> astronomie
+brillance -[0]-> lumière -[0]-> astronomie
+cône -[0]-> lumière -[0]-> astronomie
+crépuscule -[0]-> lumière -[0]-> astronomie
+dioptre -[0]-> lumière -[0]-> astronomie
+éclat -[0]-> lumière -[0]-> astronomie
+héliomètre -[0]-> lumière -[0]-> astronomie
+lieu -[0]-> lumière -[0]-> astronomie
+luisant -[0]-> lumière -[0]-> astronomie
+mécanique -[0]-> lumière -[0]-> astronomie
+noir -[0]-> lumière -[0]-> astronomie
+ombre -[0]-> lumière -[0]-> astronomie
+pénombre -[0]-> lumière -[0]-> astronomie
+radiation -[0]-> lumière -[0]-> astronomie
+rayon -[0]-> lumière -[0]-> astronomie
+ouverture -[0]-> lumière -[0]-> astronomie
+année-lumière -[0]-> lumière -[0]-> astronomie
+étoile du berger -[0]-> lumière -[0]-> astronomie
+fenêtre -[0]-> lumière -[0]-> astronomie
+journée -[0]-> lumière -[0]-> astronomie
+heure-lumière -[0]-> lumière -[0]-> astronomie
+jour-lumière -[0]-> lumière -[0]-> astronomie
+minute-lumière -[0]-> lumière -[0]-> astronomie
+mois-lumière -[0]-> lumière -[0]-> astronomie
+seconde-lumière -[0]-> lumière -[0]-> astronomie
+semaine-lumière -[0]-> lumière -[0]-> astronomie
+couleur -[0]-> lumière -[0]-> astronomie
+aurore polaire -[0]-> lumière -[0]-> astronomie
+isophote -[0]-> lumière -[0]-> astronomie
+année lumière -[0]-> lumière -[0]-> astronomie
+extinction -[0]-> lumière -[0]-> astronomie
+parallèle -[0]-> lumière -[0]-> astronomie
+Lou -[0]-> lumière -[0]-> astronomie
+halo -[0]-> lumière -[0]-> astronomie
+aberration chromatique -[0]-> lumière -[0]-> astronomie
+clair de Terre -[0]-> lumière -[0]-> astronomie
+clair de lune -[0]-> lumière -[0]-> astronomie
+science -[0]-> lumière -[0]-> astronomie
+Voie lactée -[0]-> lumière -[0]-> astronomie
+Vénus -[0]-> lumière -[0]-> astronomie
+étoile filante -[0]-> lumière -[0]-> astronomie
+année de lumière -[0]-> lumière -[0]-> astronomie
+étoile -[0]-> lumière -[0]-> astronomie
+éclipse -[0]-> lumière -[0]-> astronomie
+spectre -[0]-> lumière -[0]-> astronomie
+solaire -[0]-> lumière -[0]-> astronomie
+scintiller -[0]-> lumière -[0]-> astronomie
+réfracteur -[0]-> lumière -[0]-> astronomie
+réflecteur -[0]-> lumière -[0]-> astronomie
+polarimètre -[0]-> lumière -[0]-> astronomie
+photomètre -[0]-> lumière -[0]-> astronomie
+nova -[0]-> lumière -[0]-> astronomie
+luminosité -[0]-> lumière -[0]-> astronomie
+luminaire -[0]-> lumière -[0]-> astronomie
+jet -[0]-> lumière -[0]-> astronomie
+briller -[0]-> lumière -[0]-> astronomie
+Astronomie -[0]-> lumière -[0]-> astronomie
+lune -[0]-> lumière -[0]-> astronomie
+voie lactée -[0]-> lumière -[0]-> astronomie
+univers -[0]-> lumière -[0]-> astronomie
+astre -[0]-> lumière -[0]-> astronomie
+trou noir -[0]-> lumière -[0]-> astronomie
+soleil -[0]-> lumière -[0]-> astronomie
+ciel -[0]-> lumière -[0]-> astronomie
+espace -[0]-> vide -[0]-> astronomie
+cosmologie -[0]-> absolu -[0]-> astronomie
+espace -[0]-> aire -[0]-> astronomie
+espace -[0]-> amplitude -[0]-> astronomie
+lumière -[0]-> auréole -[0]-> astronomie
+lumière -[0]-> bras -[0]-> astronomie
+lumière -[0]-> brillance -[0]-> astronomie
+recherche -[0]-> cancer -[0]-> astronomie
+espace -[0]-> ceinture -[0]-> astronomie
+révolution -[0]-> cercle -[0]-> astronomie
+sciences -[0]-> chercheur -[0]-> astronomie
+Science -[0]-> chercheur -[0]-> astronomie
+travail -[0]-> chercheur -[0]-> astronomie
+recherche -[0]-> chercheur -[0]-> astronomie
+Jacques-Yves Cousteau -[0]-> chercheur -[0]-> astronomie
+science -[0]-> chercheur -[0]-> astronomie
+Einstein -[0]-> chercheur -[0]-> astronomie
+astrophysicien -[0]-> chercheur -[0]-> astronomie
+Astronomie -[0]-> chercheur -[0]-> astronomie
+révolution -[0]-> cycle -[0]-> astronomie
+lumière -[0]-> dioptre -[0]-> astronomie
+espace -[0]-> distance -[0]-> astronomie
+lumière -[0]-> éclat -[0]-> astronomie
+espace -[0]-> grandeur -[0]-> astronomie
+révolution -[0]-> gravitation -[0]-> astronomie
+lumière -[0]-> héliomètre -[0]-> astronomie
+lumière -[0]-> lieu -[0]-> astronomie
+révolution -[0]-> lieu -[0]-> astronomie
+espace -[0]-> lieu -[0]-> astronomie
+lumière -[0]-> luisant -[0]-> astronomie
+lumière -[0]-> mécanique -[0]-> astronomie
+Aéronautique -[0]-> mécanique -[0]-> astronomie
+révolution -[0]-> mouvement -[0]-> astronomie
+lumière -[0]-> noir -[0]-> astronomie
+lumière -[0]-> pénombre -[0]-> astronomie
+espace -[0]-> période -[0]-> astronomie
+révolution -[0]-> perturbation -[0]-> astronomie
+lumière -[0]-> radiation -[0]-> astronomie
+lumière -[0]-> rayon -[0]-> astronomie
+espace -[0]-> rayon -[0]-> astronomie
+espace -[0]-> région -[0]-> astronomie
+révolution -[0]-> retournement -[0]-> astronomie
+révolution -[0]-> roi -[0]-> astronomie
+révolution -[0]-> rotation -[0]-> astronomie
+espace -[0]-> secteur -[0]-> astronomie
+recherche -[0]-> singularité -[0]-> astronomie
+espace -[0]-> trajectoire -[0]-> astronomie
+espace -[0]-> vaisseau -[0]-> astronomie
+révolution -[0]-> variation -[0]-> astronomie
+lumière -[0]-> vent -[0]-> astronomie
+espace -[0]-> zone -[0]-> astronomie
+lumière -[0]-> ouverture -[0]-> astronomie
+espace -[0]-> bande -[0]-> astronomie
+recherche -[0]-> course -[0]-> astronomie
+révolution -[0]-> course -[0]-> astronomie
+espace -[0]-> course -[0]-> astronomie
+recherche -[0]-> droit -[0]-> astronomie
+lumière -[0]-> fenêtre -[0]-> astronomie
+espace -[0]-> fenêtre -[0]-> astronomie
+recherche -[0]-> fer -[0]-> astronomie
+espace -[0]-> temps -[0]-> astronomie
+espace -[0]-> naine jaune -[0]-> astronomie
+sciences -[0]-> Aéronautique -[0]-> astronomie
+mécanique -[0]-> Aéronautique -[0]-> astronomie
+aéronautique -[0]-> Aéronautique -[0]-> astronomie
+Science -[0]-> Aéronautique -[0]-> astronomie
+science -[0]-> Aéronautique -[0]-> astronomie
+Astronomie -[0]-> Aéronautique -[0]-> astronomie
+espace -[0]-> Aéronautique -[0]-> astronomie
+Aéronautique -[0]-> aéronautique -[0]-> astronomie
+révolution -[0]-> rotation de la Terre -[0]-> astronomie
+astrobiologie -[0]-> Science -[0]-> astronomie
+chercheur -[0]-> Science -[0]-> astronomie
+Aéronautique -[0]-> Science -[0]-> astronomie
+recherche -[0]-> Science -[0]-> astronomie
+Jacques-Yves Cousteau -[0]-> Science -[0]-> astronomie
+Nicolas Copernic -[0]-> Science -[0]-> astronomie
+Tycho Brahe -[0]-> Science -[0]-> astronomie
+révolution -[0]-> Science -[0]-> astronomie
+exobiologiste -[0]-> Science -[0]-> astronomie
+cosmologie -[0]-> Science -[0]-> astronomie
+astronome -[0]-> Science -[0]-> astronomie
+astrométrie -[0]-> Science -[0]-> astronomie
+espace -[0]-> Science -[0]-> astronomie
+espace -[0]-> astronautique -[0]-> astronomie
+espace -[0]-> domaine -[0]-> astronomie
+chercheur -[0]-> travail -[0]-> astronomie
+recherche -[0]-> travail -[0]-> astronomie
+exobiologiste -[0]-> travail -[0]-> astronomie
+astronome -[0]-> travail -[0]-> astronomie
+sciences -[0]-> recherche -[0]-> astronomie
+Géologie -[0]-> recherche -[0]-> astronomie
+géologie -[0]-> recherche -[0]-> astronomie
+cancer -[0]-> recherche -[0]-> astronomie
+chercheur -[0]-> recherche -[0]-> astronomie
+singularité -[0]-> recherche -[0]-> astronomie
+course -[0]-> recherche -[0]-> astronomie
+droit -[0]-> recherche -[0]-> astronomie
+fer -[0]-> recherche -[0]-> astronomie
+Science -[0]-> recherche -[0]-> astronomie
+travail -[0]-> recherche -[0]-> astronomie
+étude -[0]-> recherche -[0]-> astronomie
+observation -[0]-> recherche -[0]-> astronomie
+Jacques-Yves Cousteau -[0]-> recherche -[0]-> astronomie
+science -[0]-> recherche -[0]-> astronomie
+Astronomie -[0]-> recherche -[0]-> astronomie
+lune -[0]-> recherche -[0]-> astronomie
+recherche -[0]-> étude -[0]-> astronomie
+espace -[0]-> amarsissage -[0]-> astronomie
+recherche -[0]-> observation -[0]-> astronomie
+sciences -[0]-> Jacques-Yves Cousteau -[0]-> astronomie
+Science -[0]-> Jacques-Yves Cousteau -[0]-> astronomie
+science -[0]-> Jacques-Yves Cousteau -[0]-> astronomie
+lumière -[0]-> halo -[0]-> astronomie
+sciences -[0]-> Nicolas Copernic -[0]-> astronomie
+Science -[0]-> Nicolas Copernic -[0]-> astronomie
+science -[0]-> Nicolas Copernic -[0]-> astronomie
+Galilée -[0]-> Nicolas Copernic -[0]-> astronomie
+héliocentrisme -[0]-> Nicolas Copernic -[0]-> astronomie
+astronome -[0]-> Nicolas Copernic -[0]-> astronomie
+cosmologie -[0]-> Univers -[0]-> astronomie
+astrobiologie -[0]-> astrologie -[0]-> astronomie
+astrobiologie -[0]-> science -[0]-> astronomie
+lumière -[0]-> science -[0]-> astronomie
+chercheur -[0]-> science -[0]-> astronomie
+Aéronautique -[0]-> science -[0]-> astronomie
+recherche -[0]-> science -[0]-> astronomie
+Jacques-Yves Cousteau -[0]-> science -[0]-> astronomie
+Nicolas Copernic -[0]-> science -[0]-> astronomie
+Tycho Brahe -[0]-> science -[0]-> astronomie
+révolution -[0]-> science -[0]-> astronomie
+exobiologiste -[0]-> science -[0]-> astronomie
+cosmologie -[0]-> science -[0]-> astronomie
+astronome -[0]-> science -[0]-> astronomie
+astrométrie -[0]-> science -[0]-> astronomie
+espace -[0]-> science -[0]-> astronomie
+astronome -[0]-> Sosigène -[0]-> astronomie
+espace -[0]-> Voie lactée -[0]-> astronomie
+sciences -[0]-> Tycho Brahe -[0]-> astronomie
+Science -[0]-> Tycho Brahe -[0]-> astronomie
+science -[0]-> Tycho Brahe -[0]-> astronomie
+Nicolas Copernic -[0]-> Terre -[0]-> astronomie
+cosmologie -[0]-> système solaire -[0]-> astronomie
+espace -[0]-> système solaire -[0]-> astronomie
+astronome -[0]-> Ptolémée -[0]-> astronomie
+astronome -[0]-> Hipparque -[0]-> astronomie
+Nicolas Copernic -[0]-> Galilée -[0]-> astronomie
+astronome -[0]-> Galilée -[0]-> astronomie
+chercheur -[0]-> Einstein -[0]-> astronomie
+Nicolas Copernic -[0]-> Copernic -[0]-> astronomie
+lumière -[0]-> étoile -[0]-> astronomie
+espace -[0]-> étoile -[0]-> astronomie
+espace -[0]-> éther -[0]-> astronomie
+révolution -[0]-> terre -[0]-> astronomie
+espace -[0]-> sphère -[0]-> astronomie
+lumière -[0]-> spectre -[0]-> astronomie
+lumière -[0]-> scintiller -[0]-> astronomie
+révolution -[0]-> satellite -[0]-> astronomie
+espace -[0]-> satellite -[0]-> astronomie
+circumlunaire -[0]-> révolution -[0]-> astronomie
+sciences -[0]-> révolution -[0]-> astronomie
+année -[0]-> révolution -[0]-> astronomie
+cercle -[0]-> révolution -[0]-> astronomie
+cycle -[0]-> révolution -[0]-> astronomie
+gravitation -[0]-> révolution -[0]-> astronomie
+lieu -[0]-> révolution -[0]-> astronomie
+perturbation -[0]-> révolution -[0]-> astronomie
+retournement -[0]-> révolution -[0]-> astronomie
+rotation -[0]-> révolution -[0]-> astronomie
+variation -[0]-> révolution -[0]-> astronomie
+course -[0]-> révolution -[0]-> astronomie
+Science -[0]-> révolution -[0]-> astronomie
+mouvement des astres -[0]-> révolution -[0]-> astronomie
+science -[0]-> révolution -[0]-> astronomie
+éclipse -[0]-> révolution -[0]-> astronomie
+orbite -[0]-> révolution -[0]-> astronomie
+Astronomie -[0]-> révolution -[0]-> astronomie
+lumière -[0]-> réflecteur -[0]-> astronomie
+lumière -[0]-> polarimètre -[0]-> astronomie
+révolution -[0]-> planète -[0]-> astronomie
+espace -[0]-> planète -[0]-> astronomie
+lumière -[0]-> photomètre -[0]-> astronomie
+révolution -[0]-> orbite -[0]-> astronomie
+espace -[0]-> mars -[0]-> astronomie
+lumière -[0]-> luminosité -[0]-> astronomie
+lumière -[0]-> luminaire -[0]-> astronomie
+lumière -[0]-> jet -[0]-> astronomie
+Nicolas Copernic -[0]-> héliocentrisme -[0]-> astronomie
+exobiologue -[0]-> exobiologiste -[0]-> astronomie
+sciences -[0]-> exobiologiste -[0]-> astronomie
+Science -[0]-> exobiologiste -[0]-> astronomie
+travail -[0]-> exobiologiste -[0]-> astronomie
+science -[0]-> exobiologiste -[0]-> astronomie

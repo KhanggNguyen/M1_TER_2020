@@ -1,0 +1,42 @@
+électricité -[15]-> pile -[15]-> lampe
+électricité -[15]-> prise -[15]-> lampe
+électricité -[15]-> fil -[15]-> lampe
+électricité -[15]-> ampoule -[15]-> lampe
+prise -[15]-> fil électrique -[15]-> lampe
+électricité -[15]-> fil électrique -[15]-> lampe
+=luminescence= -[15]-> lumière -[15]-> lampe
+luminescence -[15]-> lumière -[15]-> lampe
+lune -[15]-> espace -[15]-> univers
+interrupteur -[15]-> lampe -[15]-> pièce
+lune -[15]-> Système solaire -[15]-> espace
+lune -[15]-> système solaire -[15]-> espace
+lune -[15]-> univers -[15]-> espace
+lumière -[15]-> soleil -[15]-> espace
+lune -[15]-> vide -[15]-> espace
+lune -[15]-> galaxie -[15]-> espace
+lumière -[15]-> galaxie -[15]-> espace
+lune -[15]-> ciel -[15]-> espace
+lumière -[15]-> ciel -[15]-> espace
+lune -[15]-> espace -[15]-> ciel
+lumière -[15]-> espace -[15]-> ciel
+lune -[15]-> espace -[15]-> galaxie
+lumière -[15]-> espace -[15]-> galaxie
+turbine -[15]-> moteur -[15]-> barrage
+électricité -[15]-> prise -[15]-> fil électrique
+météo -[15]-> émission -[15]-> télévision
+météo -[15]-> journal -[15]-> télévision
+ære -[15]-> météo -[15]-> télévision
+ère -[15]-> météo -[15]-> télévision
+temps -[15]-> météo -[15]-> télévision
+interrupteur -[15]-> lampe -[15]-> chambre
+informatique -[15]-> ordinateur -[15]-> bureau
+turbine -[15]-> moteur -[15]-> navire
+turbine -[15]-> moteur -[15]-> bâtiment
+algorithm -[15]-> informatique -[15]-> ordinateur
+=algorithm= -[15]-> informatique -[15]-> ordinateur
+algorithme -[15]-> informatique -[15]-> ordinateur
+bogue -[15]-> informatique -[15]-> ordinateur
+réseau -[15]-> informatique -[15]-> ordinateur
+lune -[15]-> espace -[15]-> système solaire
+lune -[15]-> espace -[15]-> Système solaire
+lumière -[15]-> lampe -[15]-> cave

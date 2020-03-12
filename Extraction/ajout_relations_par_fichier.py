@@ -15,9 +15,12 @@ uri = "bolt://localhost:7687"
 graph = Graph(uri, auth=(user, password)) 
 matcher = NodeMatcher(graph)
 
-fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
 
-for relation in fichier_relation :
+fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
+lines = fichier_relation.readlines()
+for relation in reversed(lines) :
+#for relation in lines:
+    print(relation)
     array_of_line = relation.split(';')
     
     myNodeA = Node("Terme", label = array_of_line[0])
@@ -31,6 +34,6 @@ for relation in fichier_relation :
     
     relation = Relationship.type(sys.argv[2])
     
-    graph.merge(relation(myNodeA, myNodeB, poids = int(array_of_line[2])), "Terme", "label")
+    graph.merge(relation(myNodeA, myNodeB, typeR = int(sys.argv[2]), poids = int(array_of_line[2])), "Terme", "label")
 
     
