@@ -1,0 +1,97 @@
+term_1,relation_type,term_2,relation_type,term_2,donc,term_1,relation_type,term_2
+rechercher,13,chercheur,13,érudit,donc,rechercher,13,érudit
+expérimenter,13,chercheur,13,érudit,donc,expérimenter,13,érudit
+observer,13,chercheur,13,érudit,donc,observer,13,érudit
+savoir,13,chercheur,13,érudit,donc,savoir,13,érudit
+connaître,13,chercheur,13,érudit,donc,connaître,13,érudit
+homologuer,13,chercheur,13,érudit,donc,homologuer,13,érudit
+constater,13,chercheur,13,érudit,donc,constater,13,érudit
+enquêter,13,chercheur,13,érudit,donc,enquêter,13,érudit
+analyser,13,chercheur,13,érudit,donc,analyser,13,érudit
+zoomer,13,chercheur,13,érudit,donc,zoomer,13,érudit
+manipuler,13,chercheur,13,érudit,donc,manipuler,13,érudit
+penser,13,chercheur,13,érudit,donc,penser,13,érudit
+réfléchir,13,chercheur,13,érudit,donc,réfléchir,13,érudit
+programmer,13,chercheur,13,érudit,donc,programmer,13,érudit
+chercher,13,chercheur,13,érudit,donc,chercher,13,érudit
+tester,13,chercheur,13,érudit,donc,tester,13,érudit
+débattre,13,chercheur,13,érudit,donc,débattre,13,érudit
+explorer,13,chercheur,13,érudit,donc,explorer,13,érudit
+inventer,13,chercheur,13,érudit,donc,inventer,13,érudit
+"s'installer à l'étranger",13,chercheur,13,érudit,donc,"s'installer à l'étranger",13,érudit
+examiner,13,chercheur,13,érudit,donc,examiner,13,érudit
+"regarder à la loupe",13,chercheur,13,érudit,donc,"regarder à la loupe",13,érudit
+"regarder au microscope",13,chercheur,13,érudit,donc,"regarder au microscope",13,érudit
+"avoir des scrupules",13,chercheur,13,érudit,donc,"avoir des scrupules",13,érudit
+critiquer,13,chercheur,13,érudit,donc,critiquer,13,érudit
+"écrire un article",13,chercheur,13,érudit,donc,"écrire un article",13,érudit
+"faire un exposé",13,chercheur,13,érudit,donc,"faire un exposé",13,érudit
+entr'apercevoir,13,chercheur,13,érudit,donc,entr'apercevoir,13,érudit
+"laisser échapper une erreur",13,chercheur,13,érudit,donc,"laisser échapper une erreur",13,érudit
+feuilleter,13,chercheur,13,érudit,donc,feuilleter,13,érudit
+entrapercevoir,13,chercheur,13,érudit,donc,entrapercevoir,13,érudit
+comprendre,13,chercheur,13,érudit,donc,comprendre,13,érudit
+"se prendre la tête",13,chercheur,13,érudit,donc,"se prendre la tête",13,érudit
+modéliser,13,chercheur,13,érudit,donc,modéliser,13,érudit
+extrapoler,13,chercheur,13,érudit,donc,extrapoler,13,érudit
+lire,13,chercheur,13,érudit,donc,lire,13,érudit
+dormir,13,chercheur,13,érudit,donc,dormir,13,érudit
+mourir,13,chercheur,13,érudit,donc,mourir,13,érudit
+"faire de la recherche",13,chercheur,13,érudit,donc,"faire de la recherche",13,érudit
+parler,13,chercheur,13,érudit,donc,parler,13,érudit
+publier,13,chercheur,13,érudit,donc,publier,13,érudit
+écrire,13,chercheur,13,érudit,donc,écrire,13,érudit
+trouver,13,chercheur,13,érudit,donc,trouver,13,érudit
+découvrir,13,chercheur,13,érudit,donc,découvrir,13,érudit
+"guérir une maladie",13,chercheur,13,érudit,donc,"guérir une maladie",13,érudit
+"avoir des idées",13,chercheur,13,érudit,donc,"avoir des idées",13,érudit
+manifester,13,chercheur,13,érudit,donc,manifester,13,érudit
+vivre,13,chercheur,13,érudit,donc,vivre,13,érudit
+"se reproduire",13,chercheur,13,érudit,donc,"se reproduire",13,érudit
+connoître,13,chercheur,13,érudit,donc,connoître,13,érudit
+"boire un café",13,chercheur,13,érudit,donc,"boire un café",13,érudit
+"écrire un article scientifique",13,chercheur,13,érudit,donc,"écrire un article scientifique",13,érudit
+s'emberlucoquer,13,chercheur,13,érudit,donc,s'emberlucoquer,13,érudit
+"écrire un texte",13,chercheur,13,érudit,donc,"écrire un texte",13,érudit
+"trouver une idée",13,chercheur,13,érudit,donc,"trouver une idée",13,érudit
+"faire de la science",13,chercheur,13,érudit,donc,"faire de la science",13,érudit
+"boire du café",13,chercheur,13,érudit,donc,"boire du café",13,érudit
+"boire trop de café",13,chercheur,13,érudit,donc,"boire trop de café",13,érudit
+regarder,13,chercheur,13,érudit,donc,regarder,13,érudit
+"présenter ses travaux",13,chercheur,13,érudit,donc,"présenter ses travaux",13,érudit
+imager,13,scanner,13,"hôte de caisse",donc,imager,13,"hôte de caisse"
+imager,13,scanner,13,scanneur,donc,imager,13,scanneur
+imager,13,scanner,13,radiologue,donc,imager,13,radiologue
+imager,13,scanner,13,"manipulateur en électroradiologie médicale",donc,imager,13,"manipulateur en électroradiologie médicale"
+diagnostiquer,13,scanner,13,"hôte de caisse",donc,diagnostiquer,13,"hôte de caisse"
+diagnostiquer,13,scanner,13,scanneur,donc,diagnostiquer,13,scanneur
+diagnostiquer,13,scanner,13,radiologue,donc,diagnostiquer,13,radiologue
+diagnostiquer,13,scanner,13,"manipulateur en électroradiologie médicale",donc,diagnostiquer,13,"manipulateur en électroradiologie médicale"
+radiographier,13,scanner,13,"hôte de caisse",donc,radiographier,13,"hôte de caisse"
+radiographier,13,scanner,13,scanneur,donc,radiographier,13,scanneur
+radiographier,13,scanner,13,radiologue,donc,radiographier,13,radiologue
+radiographier,13,scanner,13,"manipulateur en électroradiologie médicale",donc,radiographier,13,"manipulateur en électroradiologie médicale"
+dormir,13,scanner,13,"hôte de caisse",donc,dormir,13,"hôte de caisse"
+dormir,13,scanner,13,scanneur,donc,dormir,13,scanneur
+dormir,13,scanner,13,radiologue,donc,dormir,13,radiologue
+dormir,13,scanner,13,"manipulateur en électroradiologie médicale",donc,dormir,13,"manipulateur en électroradiologie médicale"
+mourir,13,scanner,13,"hôte de caisse",donc,mourir,13,"hôte de caisse"
+mourir,13,scanner,13,scanneur,donc,mourir,13,scanneur
+mourir,13,scanner,13,radiologue,donc,mourir,13,radiologue
+mourir,13,scanner,13,"manipulateur en électroradiologie médicale",donc,mourir,13,"manipulateur en électroradiologie médicale"
+parler,13,scanner,13,"hôte de caisse",donc,parler,13,"hôte de caisse"
+parler,13,scanner,13,scanneur,donc,parler,13,scanneur
+parler,13,scanner,13,radiologue,donc,parler,13,radiologue
+parler,13,scanner,13,"manipulateur en électroradiologie médicale",donc,parler,13,"manipulateur en électroradiologie médicale"
+"se reproduire",13,scanner,13,"hôte de caisse",donc,"se reproduire",13,"hôte de caisse"
+"se reproduire",13,scanner,13,scanneur,donc,"se reproduire",13,scanneur
+"se reproduire",13,scanner,13,radiologue,donc,"se reproduire",13,radiologue
+"se reproduire",13,scanner,13,"manipulateur en électroradiologie médicale",donc,"se reproduire",13,"manipulateur en électroradiologie médicale"
+vivre,13,scanner,13,"hôte de caisse",donc,vivre,13,"hôte de caisse"
+vivre,13,scanner,13,scanneur,donc,vivre,13,scanneur
+vivre,13,scanner,13,radiologue,donc,vivre,13,radiologue
+vivre,13,scanner,13,"manipulateur en électroradiologie médicale",donc,vivre,13,"manipulateur en électroradiologie médicale"
+marcher,13,scanner,13,"hôte de caisse",donc,marcher,13,"hôte de caisse"
+marcher,13,scanner,13,scanneur,donc,marcher,13,scanneur
+marcher,13,scanner,13,radiologue,donc,marcher,13,radiologue
+marcher,13,scanner,13,"manipulateur en électroradiologie médicale",donc,marcher,13,"manipulateur en électroradiologie médicale"

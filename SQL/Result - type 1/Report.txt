@@ -1,0 +1,13 @@
+- import 740033 rows to table relation: 6.452s
+- import 740033 rows to table relation_temp: 1.859s
+
+(duration/fetch)
+r_associated - >30000000 - 0.079/26.203
+r_isA - 306558 - 0.015/6.875
+r_has_part - 152253 - 0.047/1.828
+r_agent - 96 - 0.938/0
+r_appartient - 7 - 0.640/0
+r_lieu1 - 22876 - 0.046/0.891
+r_caracteristique - 1423350 - 0.375/48.859
+r_conseq - 0 - 0/0
+r_causatif - 18323 - 0.344/0.312
