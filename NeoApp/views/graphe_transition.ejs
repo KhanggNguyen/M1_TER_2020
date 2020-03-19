@@ -1,0 +1,14 @@
+<table id="relation">
+    <tr>
+      <th>ID</th>
+      <th>Résultat</th>
+    </tr>
+    <%if (myResArray.length > 0) { %>
+        <% myResArray.forEach(function(res){ %> 
+            <tr>
+                <td><%= res.id %></td>
+                <td><%= res.res %></td>
+            </tr>
+        <% }) %>
+    <% } %>
+</table>

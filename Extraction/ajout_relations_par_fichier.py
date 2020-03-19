@@ -15,12 +15,15 @@ uri = "bolt://localhost:7687"
 graph = Graph(uri, auth=(user, password)) 
 matcher = NodeMatcher(graph)
 
+counter = 412930
 
 fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
 lines = fichier_relation.readlines()
-for relation in reversed(lines) :
+#lines = fichier_relation.readlines()[250579:]#to skip certain first lines implemented
+for relation in reversed(lines) : #run in reversed
 #for relation in lines:
-    print(relation)
+    counter = counter - 1
+    print("line " + str(counter) + " : " + relation)
     array_of_line = relation.split(';')
     
     myNodeA = Node("Terme", label = array_of_line[0])
