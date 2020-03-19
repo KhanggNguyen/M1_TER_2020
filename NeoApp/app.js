@@ -34,14 +34,25 @@ app.get('/graphe_transition',async function(req,res){
                     var nodeA = record._fields[0].segments[0].start.properties.label;
                     var r1 = record._fields[0].segments[0].relationship.type;
                     var nodeB = record._fields[0].segments[0].end.properties.label;
+                    var nodeC = record._fields[0].segments[1].start.properties.label;
                     var r2 = record._fields[0].segments[1].relationship.type;
-                    var nodeC = record._fields[0].segments[2].end.properties.label;//car la flèche part à l'inverse donc nodeD = nodeA
+                    var nodeD = record._fields[0].segments[1].end.properties.label;
+                    var nodeE = record._fields[0].segments[2].start.properties.label;
                     var r3 = record._fields[0].segments[2].relationship.type;
-                    var nodeD = record._fields[0].segments[2].start.properties.label;
-                    var res = nodeA + '-[' + r1 + ']->' + nodeB + '-[' + r2 + ']->' + nodeC + " || " + nodeD + '-[' + r3 + ']->' + nodeC;
+                    var nodeF = record._fields[0].segments[2].end.properties.label;
                     resArray.push({
-                        id : id, res :res
+                        id : id, 
+                        nodeA: nodeA,
+                        nodeB: nodeB,
+                        nodeC : nodeC,
+                        nodeD : nodeD,
+                        nodeE : nodeE,
+                        nodeF : nodeF,
+                        relation1 : r1,
+                        relation2 : r2, 
+                        relation3 : r3,
                     });
+                    //console.log(resArray);
                     id++;
                 });
                 res.render('index', {

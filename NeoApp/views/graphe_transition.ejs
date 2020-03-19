@@ -1,13 +1,28 @@
 <table id="relation">
     <tr>
       <th>ID</th>
-      <th>Résultat</th>
+      <th>Node 1</th>
+      <th>Relation</th>
+      <th>Node 2</th>
+      <th>Relation</th>
+      <th>Node 3</th>
+      <th>Transition</th>
+      <th>Action</th>
     </tr>
     <%if (myResArray.length > 0) { %>
         <% myResArray.forEach(function(res){ %> 
             <tr>
                 <td><%= res.id %></td>
-                <td><%= res.res %></td>
+                <td><%= res.nodeA %></td>
+                <td><%= res.relation1 %></td>
+                <td><%= res.nodeC %></td>
+                <td><%= res.relation2 %></td>
+                <td><%= res.nodeE %></td>
+                <td><%= res.nodeF %> --[ <%= res.relation3 %> ]--> <%= res.nodeE %></td>
+                <td>
+                    <a><i onclick="up(this)" class="fa fa-thumbs-up"></i></a>
+                    <a><i onclick="down(this)" class="fa fa-thumbs-down"></i></a>
+                </td>
             </tr>
         <% }) %>
     <% } %>
