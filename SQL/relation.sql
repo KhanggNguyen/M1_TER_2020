@@ -30,7 +30,7 @@ create procedure getTriangleType1(
     in lim int
 )
 begin 
-	set @qr = concat("select a1.term_1, '->', a1.term_2, '->', a2.term_2, ", "'donc',", " a1.term_1, '->', a2.term_2, a1.relation_type
+	set @qr = concat("select a1.term_1, '->', a1.term_2, '->', a2.term_2, ", "'donc',", " a1.term_1, '->', a2.term_2, a1.relation_type as relation
 	from ", table1, " as a1, ", table2, " as a2 where a2.term_1 = a1.term_2 
 		and a1.relation_type = ", r_type1, " and a2.relation_type = ", r_type2, " and a1.weight > 0 and a2.weight > 0
 		limit ", lim, ";");
@@ -40,25 +40,6 @@ begin
 end; $$
 delimiter ;
 
--- Get Triangle procedure type 2
-delimiter $$
-drop procedure if exists getTriangleType2 $$
-create procedure getTriangleType2(
-	in table1 varchar(20), 
-	in table2 varchar(20), 
-	in r_type1 varchar(3), 
-	in r_type2 varchar(3), 
-    in lim int
-)
-	set @tri = concat("select a1.term_1, '->', a1.term_2, '<-', a2.term_1, ", "'donc',", " a1.term_1, '->', a2.term_1, a1.relation_type
-	from ", table1, " as a1, ", table2, " as a2 where a2.term_2 = a1.term_2 and a1.term_1 != a2.term_1 
-    and a1.relation_type = ", r_type1, " and a2.relation_type = ", r_type2, " and a1.weight > 0 and a2.weight > 0
-		limit ", lim, ";");
-    prepare tri from @tri;
-    execute tri;
-    deallocate prepare tri;
-end; $$
-delimiter ;
 -- END OF STORED PROCEDURE
 
 call createTable('','relation'); 
@@ -93,7 +74,7 @@ insert relation_temp select * from relation;
 -- 41 = conseq 
 -- 42 = causatif
 
--- triangle query for 2 main tables
+-- triangle query 1 relation
 call getTriangleType1('relation', 'relation_temp', '0', '0', 300);
 call getTriangleType1('relation', 'relation_temp', '6', '6', 310000);
 call getTriangleType1('relation', 'relation_temp', '9', '9', 500000);
@@ -104,11 +85,22 @@ call getTriangleType1('relation', 'relation_temp', '17', '17', 1500000);
 call getTriangleType1('relation', 'relation_temp', '41', '41', 500000);
 call getTriangleType1('relation', 'relation_temp', '42', '42', 500000);
 
-select a1.term_1, '->', a1.term_2, '<-', a2.term_1, 'donc', a1.term_1, '->', a2.term_1, a1.relation_type
+-- type 2
+select a1.term_1, '->', a1.term_2, '<-', a2.term_1, 'donc', a1.term_1, '->', a2.term_1, a1.relation_type as relation
 	from relation as a1, relation_temp as a2 
     where a1.term_2 = a2.term_2 and a1.term_1 != a2.term_1 
     and a1.relation_type = 9 and a2.relation_type = 9 and a1.weight > 0 and a2.weight > 0;
--- end of triangle query
+-- type 3
+select a1.term_2, '<-', a1.term_1, '->', a2.term_2, 'donc', a1.term_2, '->', a2.term_2, a1.relation_type as relation
+	from relation as a1, relation_temp as a2 
+    where a1.term_2 != a2.term_2 and a1.term_1 = a2.term_1 
+    and a1.relation_type = 9 and a2.relation_type = 9 and a1.weight > 0 and a2.weight > 0;
+-- end of triangle query 1 relation
 
-
-
+select a1.term_1, '->', a1.term_2, '<-', a2.term_1, 'donc', a1.term_1, '->', a2.term_1, a1.relation_type as relation_1, a2.relation_type as relation_2
+	from relation as a1, relation_temp as a2 
+    where a1.term_2 = a2.term_2 and a1.term_1 != a2.term_1 
+    and a1.relation_type = (select elt((rand()*8)+1, 0, 6, 9, 13, 14, 15, 17, 41, 42))
+    and a2.relation_type = (select elt((rand()*8)+1, 0, 6, 9, 13, 14, 15, 17, 41, 42))
+    and a1.weight > 0 and a2.weight > 0
+    limit 10;
