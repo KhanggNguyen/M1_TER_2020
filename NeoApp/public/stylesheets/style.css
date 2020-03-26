@@ -50,3 +50,20 @@ body{
     background-color: #4CAF50;
     color: white;
 }
+
+/* tableau transition */
+#relation th.id {
+    width: 5%;
+}
+
+#relation th.node {
+    width: 12%;
+}
+
+#relation th.relation {
+    width: 5%;
+}
+
+#relation th.action {
+    width: 10%;
+}

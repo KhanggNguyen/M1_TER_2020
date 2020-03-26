@@ -1,0 +1,38 @@
+<table id="relation">
+    <tr>
+      <th class="id">ID</th>
+      <th class="node">Node 1</th>
+      <th class="relation">Relation</th>
+      <th class="node">Node 2</th>
+      <th class="relation">Relation</th>
+      <th class="node">Node 3</th>
+      <th >Logique Déduction</th>
+      <th class="action">Action</th>
+    </tr>
+    <%if (myResArray.length > 0) { %>
+        <% myResArray.forEach(function(res){ %> 
+            <tr>
+                <td><%= res.id %></td>
+                <td><%= res.nodeA %></td>
+                <td><%= res.relation1 %></td>
+                <td><%= res.nodeC %></td>
+                <td><%= res.relation2 %></td>
+                <td><%= res.nodeD %></td>
+                <td>
+                    <p>Veuillez proposer une relation pour le triangle ci-dessous</p>
+                    <p><%= res.nodeA %> --[ <%= res.relation1 %> ]--> <%= res.nodeC %> --[ <%= res.relation2 %> ]--> <%= res.nodeD %></p>
+                    <p><%= res.nodeA %> --[____]--> <%= res.nodeD %> </p>
+                </td>
+                <td>
+                    <form>
+                        <input type="text"></input>
+                        <input type="submit"  value="Ajouter"></input>
+                    </form>
+                    
+                </td>
+            </tr>
+        <% }) %>
+    <% } %>
+</table>
+
+<script src="./javascripts/transition.js"></script>

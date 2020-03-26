@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td>14</td>
-        <td>appartient</td>
+        <td>patient</td>
     </tr>
     <tr>
         <td>15</td>
@@ -52,8 +52,14 @@
 <% if (url == "transition") { %> 
     <% include graphe_transition %>
 <% } %>
-<% if (url == "inference") { %> 
-    <% include graphe_inference %>
+<% if (url == "deduction") { %> 
+    <% include graphe_deduction %>
+<% } %>
+<% if (url == "abduction") { %> 
+    <% include graphe_abduction %>
+<% } %>
+<% if (url == "induction") { %> 
+    <% include graphe_induction %>
 <% } %>
 </body>
 

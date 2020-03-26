@@ -1,13 +1,13 @@
 <table id="relation">
-    <tr>
-      <th>ID</th>
-      <th>Node 1</th>
-      <th>Relation</th>
-      <th>Node 2</th>
-      <th>Relation</th>
-      <th>Node 3</th>
-      <th>Transition</th>
-      <th>Action</th>
+    <tr >
+      <th class="id">ID</th>
+      <th class="node">Node 1</th>
+      <th class="relation">R_left</th>
+      <th class="node">Node 2</th>
+      <th class="relation">R_right</th>
+      <th class="node">Node 3</th>
+      <th class="transition">Transition</th>
+      <th class="action">Action</th>
     </tr>
     <%if (myResArray.length > 0) { %>
         <% myResArray.forEach(function(res){ %> 
@@ -20,10 +20,25 @@
                 <td><%= res.nodeE %></td>
                 <td><%= res.nodeF %> --[ <%= res.relation3 %> ]--> <%= res.nodeE %></td>
                 <td>
-                    <a><i onclick="up(this)" class="fa fa-thumbs-up"></i></a>
-                    <a><i onclick="down(this)" class="fa fa-thumbs-down"></i></a>
+                    <a onclick="up()"><i  class="fa fa-thumbs-up"></i></a>
+                    <a onclick="down()"><i  class="fa fa-thumbs-down"></i></a>
                 </td>
             </tr>
         <% }) %>
     <% } %>
+    <tr>
+        <td></td>
+        <form  action="transition_avec_param" id="transition_avec_param" method="POST">
+            <td><input type="text" name="nodeA" placeholder="Node A"></td>
+            <td><input type="number" name="relation1" placeholder="1ère Relation"></td>
+            <td><input type="text" name="nodeB" placeholder="Node B"></td>
+            <td><input type="number" name="relation2" placeholder="2ème Relation"></td>
+            <td><input type="text" name="nodeC" placeholder="Node C"></td>
+            <td><input type="number" name="relation3" placeholder="3ème Relation"></td>
+            <td><button type="submit">Envoyer</button></td>
+            
+        </form>
+    </tr>
 </table>
+
+<script src="./javascripts/transition.js"></script>
