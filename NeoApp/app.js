@@ -106,7 +106,7 @@ app.post('/transition_avec_param', async function(req, res){
         relation3 = "";
     }
     
-    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeB + nodeC + relation1 + relation2 + relation3 + 'return p  LIMIT 1 ;';
+    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeB + nodeC + relation1 + relation2 + relation3 + 'return p SKIP ' +  Math.floor(Math.random() * 50) + ' LIMIT 1 ;';
     console.log(query);
     await session.run(query)
             .then(function(result){

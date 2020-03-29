@@ -1,0 +1,1000 @@
+Edwin Powell Hubble -[6]-> astronome -[42]-> astronomie
+vivant -[9]-> acide désoxyribonucléique -[6]-> biologie
+vivant -[9]-> ADN -[6]-> biologie
+médecine -[9]-> carcinologie -[6]-> biologie
+Anthropométrie -[6]-> médecine -[6]-> biologie
+=toxicologic measurement= -[6]-> médecine -[6]-> biologie
+=anthropometry= -[6]-> médecine -[6]-> biologie
+anthropométrie -[6]-> médecine -[6]-> biologie
+carcinologie -[6]-> médecine -[6]-> biologie
+médecine vétérinaire -[6]-> médecine -[6]-> biologie
+physiologie -[6]-> médecine -[6]-> biologie
+phytopathologie -[6]-> médecine -[6]-> biologie
+médecine foetale -[6]-> médecine -[6]-> biologie
+histiologie -[6]-> médecine -[6]-> biologie
+cardiologie -[6]-> médecine -[6]-> biologie
+histologie -[6]-> médecine -[6]-> biologie
+étude histologique -[6]-> médecine -[6]-> biologie
+oncologie -[6]-> médecine -[6]-> biologie
+cancérologie -[6]-> médecine -[6]-> biologie
+toxicologie -[6]-> médecine -[6]-> biologie
+génétique -[6]-> médecine -[6]-> biologie
+angiologie -[6]-> médecine -[6]-> biologie
+myologie -[6]-> médecine -[6]-> biologie
+neurologie -[6]-> médecine -[6]-> biologie
+pharmacognosie -[6]-> médecine -[6]-> biologie
+Chirurgie -[6]-> médecine -[6]-> biologie
+chirurgie -[6]-> médecine -[6]-> biologie
+sciences -[9]-> médecine -[6]-> biologie
+géologie -[6]-> oecologie -[6]-> biologie
+physiologie -[6]-> médecine vétérinaire -[6]-> biologie
+génétique -[6]-> médecine vétérinaire -[6]-> biologie
+=enzymology= -[6]-> physiologie -[6]-> biologie
+enzymologie -[6]-> physiologie -[6]-> biologie
+=libido= -[42]-> physiologie -[6]-> biologie
+libido -[42]-> physiologie -[6]-> biologie
+médecine -[6]-> science -[6]-> biologie
+médecine -[42]-> science -[6]-> biologie
+physiologie -[6]-> science -[6]-> biologie
+paléontologie -[6]-> science -[6]-> biologie
+entomologie -[6]-> science -[6]-> biologie
+géologie -[6]-> science -[6]-> biologie
+biochimie -[15]-> science -[6]-> biologie
+biochimie -[6]-> science -[6]-> biologie
+toxicologie -[6]-> science -[6]-> biologie
+génétique -[6]-> science -[6]-> biologie
+anatomie -[6]-> science -[6]-> biologie
+éthologie -[6]-> science -[6]-> biologie
+zootechnie -[6]-> science -[6]-> biologie
+biophysique -[6]-> science -[6]-> biologie
+recherche -[41]-> science -[6]-> biologie
+paléoanthropologie -[6]-> paléontologie -[6]-> biologie
+morphologie -[6]-> géologie -[6]-> biologie
+entomologie -[6]-> zoologie -[6]-> biologie
+médecine -[9]-> oncologie -[6]-> biologie
+médecine -[9]-> cancérologie -[6]-> biologie
+acide désoxyribonucléique -[6]-> génétique -[6]-> biologie
+ADN -[6]-> génétique -[6]-> biologie
+science -[9]-> génétique -[6]-> biologie
+biologie des populations -[6]-> génétique -[6]-> biologie
+mains -[42]-> génétique -[6]-> biologie
+femme -[42]-> génétique -[6]-> biologie
+théorie du genre -[42]-> génétique -[6]-> biologie
+science -[9]-> génétique -[6]-> biologie
+anatomie -[9]-> peau -[6]-> biologie
+vivant -[9]-> peau -[6]-> biologie
+artériographie -[6]-> anatomie -[6]-> biologie
+=arteriography= -[6]-> anatomie -[6]-> biologie
+angiographie -[6]-> anatomie -[6]-> biologie
+histiologie -[6]-> anatomie -[6]-> biologie
+histologie -[6]-> anatomie -[6]-> biologie
+angiologie -[6]-> anatomie -[6]-> biologie
+ostéologie -[6]-> anatomie -[6]-> biologie
+anatomie humaine -[6]-> anatomie -[6]-> biologie
+mains -[42]-> anatomie -[6]-> biologie
+géologie -[6]-> écologie -[6]-> biologie
+physiologie -[41]-> =libido= -[42]-> biologie
+génétique -[41]-> mains -[42]-> biologie
+anatomie -[41]-> mains -[42]-> biologie
+génétique -[41]-> femme -[42]-> biologie
+physiologie -[41]-> libido -[42]-> biologie
+génétique -[41]-> théorie du genre -[42]-> biologie
+médecine -[6]-> sciences -[9]-> biologie
+médecine -[6]-> =science= -[41]-> biologie
+paléontologie -[6]-> =science= -[41]-> biologie
+entomologie -[6]-> =science= -[41]-> biologie
+géologie -[6]-> =science= -[41]-> biologie
+biochimie -[15]-> =science= -[41]-> biologie
+biochimie -[6]-> =science= -[41]-> biologie
+toxicologie -[6]-> =science= -[41]-> biologie
+génétique -[6]-> =science= -[41]-> biologie
+anatomie -[6]-> =science= -[41]-> biologie
+éthologie -[6]-> =science= -[41]-> biologie
+zootechnie -[6]-> =science= -[41]-> biologie
+biophysique -[6]-> =science= -[41]-> biologie
+recherche -[41]-> =science= -[41]-> biologie
+médecine -[6]-> Science -[41]-> biologie
+physiologie -[6]-> Science -[41]-> biologie
+paléontologie -[6]-> Science -[41]-> biologie
+entomologie -[6]-> Science -[41]-> biologie
+géologie -[6]-> Science -[41]-> biologie
+biochimie -[15]-> Science -[41]-> biologie
+biochimie -[6]-> Science -[41]-> biologie
+toxicologie -[6]-> Science -[41]-> biologie
+génétique -[6]-> Science -[41]-> biologie
+anatomie -[6]-> Science -[41]-> biologie
+éthologie -[6]-> Science -[41]-> biologie
+zootechnie -[6]-> Science -[41]-> biologie
+biophysique -[6]-> Science -[41]-> biologie
+recherche -[41]-> Science -[41]-> biologie
+vivant -[9]-> cellule -[41]-> biologie
+médecine -[6]-> science -[41]-> biologie
+médecine -[42]-> science -[41]-> biologie
+physiologie -[6]-> science -[41]-> biologie
+paléontologie -[6]-> science -[41]-> biologie
+entomologie -[6]-> science -[41]-> biologie
+géologie -[6]-> science -[41]-> biologie
+biochimie -[15]-> science -[41]-> biologie
+biochimie -[6]-> science -[41]-> biologie
+toxicologie -[6]-> science -[41]-> biologie
+génétique -[6]-> science -[41]-> biologie
+anatomie -[6]-> science -[41]-> biologie
+éthologie -[6]-> science -[41]-> biologie
+zootechnie -[6]-> science -[41]-> biologie
+biophysique -[6]-> science -[41]-> biologie
+recherche -[41]-> science -[41]-> biologie
+Pyrococcus furiosus -[17]-> vivant -[41]-> biologie
+Pyrococcus abyssi -[17]-> vivant -[41]-> biologie
+Methanobacterium -[17]-> vivant -[41]-> biologie
+Pyrolobus fumarii -[17]-> vivant -[41]-> biologie
+Pyrolobus -[17]-> vivant -[41]-> biologie
+Halobacterium salinarum -[17]-> vivant -[41]-> biologie
+Acidilobus -[17]-> vivant -[41]-> biologie
+Sulfolobus -[17]-> vivant -[41]-> biologie
+Picrophilus -[17]-> vivant -[41]-> biologie
+Picrophilus torridus -[17]-> vivant -[41]-> biologie
+Archaeoglobi -[17]-> vivant -[41]-> biologie
+Korarchaeum -[17]-> vivant -[41]-> biologie
+Nanoarchaeum -[17]-> vivant -[41]-> biologie
+Thermococcus -[17]-> vivant -[41]-> biologie
+Acidianus -[17]-> vivant -[41]-> biologie
+systématique -[17]-> vivant -[41]-> biologie
+crénarchée -[17]-> vivant -[41]-> biologie
+archée méthanogène -[17]-> vivant -[41]-> biologie
+méthanogène -[17]-> vivant -[41]-> biologie
+femme -[17]-> vivant -[41]-> biologie
+femme -[6]-> vivant -[41]-> biologie
+géologie -[6]-> étude -[41]-> biologie
+anatomie -[6]-> étude -[41]-> biologie
+science -[42]-> recherche -[41]-> biologie
+sciences -[9]-> recherche -[41]-> biologie
+=science= -[42]-> recherche -[41]-> biologie
+Science -[42]-> recherche -[41]-> biologie
+science -[42]-> recherche -[41]-> biologie
+étude -[6]-> recherche -[41]-> biologie
+maladie -[41]-> se déchausser -[42]-> génétique
+biologie -[41]-> femme -[42]-> génétique
+maladie -[41]-> trouble du langage -[42]-> génétique
+maladie -[41]-> fou -[42]-> génétique
+maladie -[41]-> adulte handicapé -[42]-> génétique
+biologie -[41]-> théorie du genre -[42]-> génétique
+biologie -[41]-> mains -[42]-> génétique
+=gilbert disease (disorder)= -[6]-> maladie -[17]-> génétique
+chondrodysplasie déformante héréditaire -[6]-> maladie -[17]-> génétique
+aclasie diaphysaire -[6]-> maladie -[17]-> génétique
+chondrodysplasie héréditaire déformante -[6]-> maladie -[17]-> génétique
+diabète bronzé -[6]-> maladie -[17]-> génétique
+hémochromatose primitive -[6]-> maladie -[17]-> génétique
+anémie sidéroblastique -[6]-> maladie -[17]-> génétique
+anémie par carence en fer -[6]-> maladie -[17]-> génétique
+trouble du métabolisme du fer -[6]-> maladie -[17]-> génétique
+danse de saint Guy -[6]-> maladie -[17]-> génétique
+chorée de saint jean -[6]-> maladie -[17]-> génétique
+chorée rhumatismale -[6]-> maladie -[17]-> génétique
+chorée de Sydenham -[6]-> maladie -[17]-> génétique
+Chorée -[6]-> maladie -[17]-> génétique
+chorée héréditaire -[6]-> maladie -[17]-> génétique
+chorée rhumatismale sans atteinte cardiaque -[6]-> maladie -[17]-> génétique
+=purulent discharge= -[6]-> maladie -[17]-> génétique
+kyste ovarien bénin -[6]-> maladie -[17]-> génétique
+kyste rétentionnel de l'ovaire -[6]-> maladie -[17]-> génétique
+=ovarian cyst= -[6]-> maladie -[17]-> génétique
+kyste de l'ovaire -[6]-> maladie -[17]-> génétique
+hyperbilirubinémie de type indirect bénin -[6]-> maladie -[17]-> génétique
+cholémie familiale congénitale -[6]-> maladie -[17]-> génétique
+dysfonctionnement hépatique constitutionnel -[6]-> maladie -[17]-> génétique
+cholémie de gilbert -[6]-> maladie -[17]-> génétique
+syndrome de Gilbert -[6]-> maladie -[17]-> génétique
+maladie de Gilbert -[6]-> maladie -[17]-> génétique
+ictère héréditaire de gilbert -[6]-> maladie -[17]-> génétique
+subictère chronique intermittent -[6]-> maladie -[17]-> génétique
+maladies de gilbert -[6]-> maladie -[17]-> génétique
+hyperbilirubinémie de type i -[6]-> maladie -[17]-> génétique
+cholémie familiale -[6]-> maladie -[17]-> génétique
+alacrymie-achalasie-addisonisme -[6]-> maladie -[17]-> génétique
+maladie de Bessel-Hagen -[6]-> maladie -[17]-> génétique
+exostose héréditaire multiple -[6]-> maladie -[17]-> génétique
+maladie ostéogénique -[6]-> maladie -[17]-> génétique
+=hereditary multiple exostoses= -[6]-> maladie -[17]-> génétique
+maladie exostosante multiple -[6]-> maladie -[17]-> génétique
+=hemochromatosis= -[6]-> maladie -[17]-> génétique
+=iron metabolism disorders= -[6]-> maladie -[17]-> génétique
+pyorrhée alvéolodentaire -[6]-> maladie -[17]-> génétique
+=spina bifida= -[6]-> maladie -[17]-> génétique
+=huntington's disease= -[6]-> maladie -[17]-> génétique
+=rheumatic chorea= -[6]-> maladie -[17]-> génétique
+chorée de Huntington -[6]-> maladie -[17]-> génétique
+écoulement purulent -[6]-> maladie -[17]-> génétique
+se déchausser -[42]-> maladie -[17]-> génétique
+hémochromatose -[6]-> maladie -[17]-> génétique
+dyskératose congénitale -[6]-> maladie -[17]-> génétique
+syndrome de Zinsser-Engman-Cole -[6]-> maladie -[17]-> génétique
+trachéobronchomalacie -[6]-> maladie -[17]-> génétique
+trachéomalacie -[6]-> maladie -[17]-> génétique
+angiochondromatose -[6]-> maladie -[17]-> génétique
+maladie de Huntington -[6]-> maladie -[17]-> génétique
+pyorrhée alvéolo-dentaire -[6]-> maladie -[17]-> génétique
+myosite ossifiante progressive -[6]-> maladie -[17]-> génétique
+fibrodysplasie ossifiante progressive -[6]-> maladie -[17]-> génétique
+dermatite atopique -[6]-> maladie -[17]-> génétique
+eczéma atopique -[6]-> maladie -[17]-> génétique
+spondyloarthropathie -[6]-> maladie -[17]-> génétique
+pyorrhée -[6]-> maladie -[17]-> génétique
+parodontose -[6]-> maladie -[17]-> génétique
+maladie parodontale -[6]-> maladie -[17]-> génétique
+paradontose -[6]-> maladie -[17]-> génétique
+spina bifida -[6]-> maladie -[17]-> génétique
+diabète -[6]-> maladie -[17]-> génétique
+anorexie -[6]-> maladie -[17]-> génétique
+trouble du langage -[42]-> maladie -[17]-> génétique
+alopécie -[6]-> maladie -[17]-> génétique
+fou -[42]-> maladie -[17]-> génétique
+adulte handicapé -[42]-> maladie -[17]-> génétique
+cancer du sein -[6]-> maladie -[17]-> génétique
+kyste à l'ovaire -[6]-> maladie -[17]-> génétique
+kyste ovarien -[6]-> maladie -[17]-> génétique
+maladie des exostoses multiples -[6]-> maladie -[17]-> génétique
+spina-bifida -[6]-> maladie -[17]-> génétique
+syndrome d'Usher -[6]-> maladie -[17]-> génétique
+gonococcie -[6]-> maladie -[17]-> génétique
+infarctus -[6]-> maladie -[17]-> génétique
+obésité -[17]-> maladie -[17]-> génétique
+obésité -[6]-> maladie -[17]-> génétique
+maladie de peau -[6]-> maladie -[17]-> génétique
+maladie dermatologique -[6]-> maladie -[17]-> génétique
+dermatose -[6]-> maladie -[17]-> génétique
+maladie de la peau -[6]-> maladie -[17]-> génétique
+maladie génétique -[6]-> maladie -[17]-> génétique
+céroïde lipofuscinose neuronale de type infantile tardive -[6]-> maladie -[17]-> génétique
+syndrome d'Aicardi -[6]-> maladie -[17]-> génétique
+céroïde-lipofuscinose infantile -[6]-> maladie -[17]-> génétique
+syndrome de Miller-Dieker -[6]-> maladie -[17]-> génétique
+maladie de Wilson -[6]-> maladie -[17]-> génétique
+syndrome de l'X fragile -[6]-> maladie -[17]-> génétique
+lymphangioléiomyomatose -[6]-> maladie -[17]-> génétique
+LAM -[6]-> maladie -[17]-> génétique
+LAM pulmonaire sporadique -[6]-> maladie -[17]-> génétique
+angiochondromatose -[6]-> maladie -[17]-> génétique
+stéatopygie -[6]-> maladie -[17]-> génétique
+syndrome de Zinsser-Engman-Cole -[6]-> maladie -[17]-> génétique
+dyskératose congénitale -[6]-> maladie -[17]-> génétique
+maladie héréditaire -[6]-> maladie -[17]-> génétique
+syndrome de Gilbert -[6]-> maladie -[17]-> génétique
+=skin disorder= -[6]-> maladie -[17]-> génétique
+affection cutanée -[6]-> maladie -[17]-> génétique
+trouble cutané -[6]-> maladie -[17]-> génétique
+affection de la peau -[6]-> maladie -[17]-> génétique
+=obesity= -[17]-> maladie -[17]-> génétique
+=obesity= -[6]-> maladie -[17]-> génétique
+=infarction= -[6]-> maladie -[17]-> génétique
+=genetic disorder= -[6]-> maladie -[17]-> génétique
+anomalie héréditaire -[6]-> maladie -[17]-> génétique
+cholémie familiale -[6]-> maladie -[17]-> génétique
+cholémie familiale congénitale -[6]-> maladie -[17]-> génétique
+hyperbilirubinémie de type indirect bénin -[6]-> maladie -[17]-> génétique
+ictère héréditaire de gilbert -[6]-> maladie -[17]-> génétique
+=gilbert disease (disorder)= -[6]-> maladie -[17]-> génétique
+arthrite psoriasique -[6]-> maladie -[17]-> génétique
+psoriasis arthropathique -[6]-> maladie -[17]-> génétique
+arthrite psoriatique -[6]-> maladie -[17]-> génétique
+arthropathie psoriatique -[6]-> maladie -[17]-> génétique
+=psoriatic arthritis= -[6]-> maladie -[17]-> génétique
+rhumatisme psoriasique -[6]-> maladie -[17]-> génétique
+biologie des populations -[6]-> biologie -[9]-> génétique
+ADN -[6]-> biologie -[9]-> génétique
+acide désoxyribonucléique -[6]-> biologie -[9]-> génétique
+femme -[42]-> biologie -[9]-> génétique
+théorie du genre -[42]-> biologie -[9]-> génétique
+mains -[42]-> biologie -[9]-> génétique
+science -[6]-> biologie -[9]-> génétique
+science -[41]-> biologie -[9]-> génétique
+biologie -[6]-> science -[9]-> génétique
+biologie -[42]-> science -[9]-> génétique
+anatomie -[6]-> biologie -[9]-> pénis
+anatomie -[6]-> biologie -[9]-> =penis=
+anatomie -[6]-> biologie -[9]-> penis
+Mathieu Lafourcade -[42]-> maladie -[15]-> tête
+bacille -[41]-> maladie -[15]-> tête
+maladie -[42]-> bacille -[9]-> tête
+Nikola Tesla -[6]-> inventeur -[9]-> tête
+George Stephenson -[6]-> inventeur -[9]-> tête
+Christopher Latham Sholes -[6]-> inventeur -[9]-> tête
+Ottmar Mergenthaler -[6]-> inventeur -[9]-> tête
+Benjamin Franklin -[6]-> inventeur -[9]-> tête
+Oronce Fine -[6]-> inventeur -[9]-> tête
+Thomas Alva Edison -[6]-> inventeur -[9]-> tête
+George Eastman -[6]-> inventeur -[9]-> tête
+John Boyd Dunlop -[6]-> inventeur -[9]-> tête
+Édouard Branly -[6]-> inventeur -[9]-> tête
+Louis Braille -[6]-> inventeur -[9]-> tête
+scientifique -[6]-> inventeur -[9]-> tête
+Carl Benz -[6]-> inventeur -[9]-> tête
+ordinateur -[9]-> scanner -[9]-> tête
+Mathieu Lafourcade -[17]-> vivant -[9]-> tête
+Mathématiques -[17]-> vivant -[9]-> tête
+bacille -[17]-> vivant -[9]-> tête
+Boris Cyrulnik -[17]-> vivant -[9]-> tête
+inventeur -[17]-> vivant -[9]-> tête
+transformateur -[17]-> vivant -[9]-> tête
+pile électrique -[17]-> vivant -[9]-> tête
+moteur -[17]-> vivant -[9]-> tête
+interrupteur -[17]-> vivant -[9]-> tête
+convertisseur -[17]-> vivant -[9]-> tête
+Edward Witten -[17]-> vivant -[9]-> tête
+Joseph John Thomson -[17]-> vivant -[9]-> tête
+Christopher Latham Sholes -[17]-> vivant -[9]-> tête
+Wallace Clement Sabine -[17]-> vivant -[9]-> tête
+Ernest Rutherford -[17]-> vivant -[9]-> tête
+Wilhelm Röntgen -[17]-> vivant -[9]-> tête
+Bernhard Riemann -[17]-> vivant -[9]-> tête
+George Dawson Preston -[17]-> vivant -[9]-> tête
+Julius Plücker -[17]-> vivant -[9]-> tête
+Wilhelm Ostwald -[17]-> vivant -[9]-> tête
+Marin Mersenne -[17]-> vivant -[9]-> tête
+James Clerk Maxwell -[17]-> vivant -[9]-> tête
+abbé Edme Mariotte -[17]-> vivant -[9]-> tête
+Pierre-Simon Laplace -[17]-> vivant -[9]-> tête
+Louis Lumière -[17]-> vivant -[9]-> tête
+Max von Laue -[17]-> vivant -[9]-> tête
+Gustav Kirchhoff -[17]-> vivant -[9]-> tête
+Lord Kelvin -[17]-> vivant -[9]-> tête
+William Thomson -[17]-> vivant -[9]-> tête
+Augustin Fresnel -[17]-> vivant -[9]-> tête
+Joseph Fourier -[17]-> vivant -[9]-> tête
+Richard Feynman -[17]-> vivant -[9]-> tête
+Christian Doppler -[17]-> vivant -[9]-> tête
+Humphry Davy -[17]-> vivant -[9]-> tête
+Francis Crick -[17]-> vivant -[9]-> tête
+Charles de Coulomb -[17]-> vivant -[9]-> tête
+Alonzo Church -[17]-> vivant -[9]-> tête
+James Chadwick -[17]-> vivant -[9]-> tête
+Augustin Louis Cauchy -[17]-> vivant -[9]-> tête
+Robert Wilhelm Bunsen -[17]-> vivant -[9]-> tête
+Ludwig Boltzmann -[17]-> vivant -[9]-> tête
+éléphant -[17]-> vivant -[9]-> tête
+lumière -[17]-> vivant -[9]-> tête
+ectoplasme -[17]-> vivant -[9]-> tête
+hétérozygote -[17]-> vivant -[9]-> tête
+scientifique -[17]-> vivant -[9]-> tête
+anthropologue -[17]-> vivant -[9]-> tête
+archéologue -[17]-> vivant -[9]-> tête
+astronome -[17]-> vivant -[9]-> tête
+botaniste -[17]-> vivant -[9]-> tête
+biologiste -[17]-> vivant -[9]-> tête
+biochimiste -[17]-> vivant -[9]-> tête
+biomathématicien -[17]-> vivant -[9]-> tête
+chercheur -[17]-> vivant -[9]-> tête
+chimiste -[17]-> vivant -[9]-> tête
+cryptologue -[17]-> vivant -[9]-> tête
+exobiologiste -[17]-> vivant -[9]-> tête
+explorateur -[17]-> vivant -[9]-> tête
+économiste -[17]-> vivant -[9]-> tête
+éthologue -[17]-> vivant -[9]-> tête
+ethnologue -[17]-> vivant -[9]-> tête
+géologue -[17]-> vivant -[9]-> tête
+glaciologue -[17]-> vivant -[9]-> tête
+mathématicien -[17]-> vivant -[9]-> tête
+météorologue -[17]-> vivant -[9]-> tête
+paléontologue -[17]-> vivant -[9]-> tête
+physicien -[17]-> vivant -[9]-> tête
+raffineur -[17]-> vivant -[9]-> tête
+sismologue -[17]-> vivant -[9]-> tête
+sociologue -[17]-> vivant -[9]-> tête
+statisticien -[17]-> vivant -[9]-> tête
+symbolique -[17]-> vivant -[9]-> tête
+André-Marie Ampère -[17]-> vivant -[9]-> tête
+Pierre Victor Auger -[17]-> vivant -[9]-> tête
+Alan Turing -[6]-> scientifique -[9]-> tête
+Friedrich Wöhler -[6]-> scientifique -[9]-> tête
+Edward Witten -[6]-> scientifique -[9]-> tête
+Karl Weierstrass -[6]-> scientifique -[9]-> tête
+James Watt -[6]-> scientifique -[9]-> tête
+Alessandro Volta -[6]-> scientifique -[9]-> tête
+Paul-Émile Victor -[6]-> scientifique -[9]-> tête
+Alan Mathison Turing -[6]-> scientifique -[9]-> tête
+Charles Townes -[6]-> scientifique -[9]-> tête
+Evangelista Torricelli -[6]-> scientifique -[9]-> tête
+Joseph John Thomson -[6]-> scientifique -[9]-> tête
+Nikola Tesla -[6]-> scientifique -[9]-> tête
+William Henry Fox Talbot -[6]-> scientifique -[9]-> tête
+George Stephenson -[6]-> scientifique -[9]-> tête
+Christopher Latham Sholes -[6]-> scientifique -[9]-> tête
+Laurent Schwartz -[6]-> scientifique -[9]-> tête
+Paul Schützenberger -[6]-> scientifique -[9]-> tête
+Erwin Schrödinger -[6]-> scientifique -[9]-> tête
+Henri Sainte-Claire Deville -[6]-> scientifique -[9]-> tête
+Wallace Clement Sabine -[6]-> scientifique -[9]-> tête
+Edward Sabine -[6]-> scientifique -[9]-> tête
+Bertrand Russell -[6]-> scientifique -[9]-> tête
+Ernest Rutherford -[6]-> scientifique -[9]-> tête
+Wilhelm Röntgen -[6]-> scientifique -[9]-> tête
+Bernhard Riemann -[6]-> scientifique -[9]-> tête
+Pythagore -[6]-> scientifique -[9]-> tête
+Ptolémée -[6]-> scientifique -[9]-> tête
+Joseph Priestley -[6]-> scientifique -[9]-> tête
+George Dawson Preston -[6]-> scientifique -[9]-> tête
+Henri Poincaré -[6]-> scientifique -[9]-> tête
+Julius Plücker -[6]-> scientifique -[9]-> tête
+Max Planck -[6]-> scientifique -[9]-> tête
+Ivan Petrovitch Pavlov -[6]-> scientifique -[9]-> tête
+Louis Pasteur -[6]-> scientifique -[9]-> tête
+Blaise Pascal -[6]-> scientifique -[9]-> tête
+Wilhelm Ostwald -[6]-> scientifique -[9]-> tête
+Robert Oppenheimer -[6]-> scientifique -[9]-> tête
+Georg Simon Ohm -[6]-> scientifique -[9]-> tête
+Isaac Newton -[6]-> scientifique -[9]-> tête
+James Nasmyth -[6]-> scientifique -[9]-> tête
+Théodore Monod -[6]-> scientifique -[9]-> tête
+Hermann Minkowski -[6]-> scientifique -[9]-> tête
+Albert Abraham Michelson -[6]-> scientifique -[9]-> tête
+Marin Mersenne -[6]-> scientifique -[9]-> tête
+Ottmar Mergenthaler -[6]-> scientifique -[9]-> tête
+Dmitri Mendeleïev -[6]-> scientifique -[9]-> tête
+Ernst Mayr -[6]-> scientifique -[9]-> tête
+James Clerk Maxwell -[6]-> scientifique -[9]-> tête
+abbé Edme Mariotte -[6]-> scientifique -[9]-> tête
+Guglielmo Marconi -[6]-> scientifique -[9]-> tête
+Marcello Malpighi -[6]-> scientifique -[9]-> tête
+Ernst Mach -[6]-> scientifique -[9]-> tête
+Pierre-Simon Laplace -[6]-> scientifique -[9]-> tête
+Louis Lumière -[6]-> scientifique -[9]-> tête
+Auguste Lumière -[6]-> scientifique -[9]-> tête
+Joseph Lister -[6]-> scientifique -[9]-> tête
+Carl von Linné -[6]-> scientifique -[9]-> tête
+Adrien-Marie Legendre -[6]-> scientifique -[9]-> tête
+Max von Laue -[6]-> scientifique -[9]-> tête
+César Lattes -[6]-> scientifique -[9]-> tête
+Karl Landsteiner -[6]-> scientifique -[9]-> tête
+Edwin H. Land -[6]-> scientifique -[9]-> tête
+Stephen Cole Kleene -[6]-> scientifique -[9]-> tête
+Gustav Kirchhoff -[6]-> scientifique -[9]-> tête
+Johannes Kepler -[6]-> scientifique -[9]-> tête
+Lord Kelvin -[6]-> scientifique -[9]-> tête
+William Thomson -[6]-> scientifique -[9]-> tête
+James Prescott Joule -[6]-> scientifique -[9]-> tête
+Frédéric Joliot-Curie -[6]-> scientifique -[9]-> tête
+Irène Joliot-Curie -[6]-> scientifique -[9]-> tête
+Albert Jacquard -[6]-> scientifique -[9]-> tête
+Christiaan Huygens -[6]-> scientifique -[9]-> tête
+Edwin Hubble -[6]-> scientifique -[9]-> tête
+Hippocrate -[6]-> scientifique -[9]-> tête
+David Hilbert -[6]-> scientifique -[9]-> tête
+Heinrich Rudolf Hertz -[6]-> scientifique -[9]-> tête
+William Herschel -[6]-> scientifique -[9]-> tête
+Joseph Henry -[6]-> scientifique -[9]-> tête
+Edmond Halley -[6]-> scientifique -[9]-> tête
+Fritz Haber -[6]-> scientifique -[9]-> tête
+Stephen Jay Gould -[6]-> scientifique -[9]-> tête
+Kurt Gödel -[6]-> scientifique -[9]-> tête
+Louis Joseph Gay-Lussac -[6]-> scientifique -[9]-> tête
+Luigi Galvani -[6]-> scientifique -[9]-> tête
+Évariste Galois -[6]-> scientifique -[9]-> tête
+Galilée -[6]-> scientifique -[9]-> tête
+Augustin Fresnel -[6]-> scientifique -[9]-> tête
+Joseph von Fraunhofer -[6]-> scientifique -[9]-> tête
+Benjamin Franklin -[6]-> scientifique -[9]-> tête
+Joseph Fourier -[6]-> scientifique -[9]-> tête
+Jean Bernard Léon Foucault -[6]-> scientifique -[9]-> tête
+Alexander Fleming -[6]-> scientifique -[9]-> tête
+Richard Feynman -[6]-> scientifique -[9]-> tête
+Enrico Fermi -[6]-> scientifique -[9]-> tête
+Michael Faraday -[6]-> scientifique -[9]-> tête
+Oronce Fine -[6]-> scientifique -[9]-> tête
+Leonhard Euler -[6]-> scientifique -[9]-> tête
+Euclide -[6]-> scientifique -[9]-> tête
+Albert Einstein -[6]-> scientifique -[9]-> tête
+Thomas Alva Edison -[6]-> scientifique -[9]-> tête
+George Eastman -[6]-> scientifique -[9]-> tête
+John Boyd Dunlop -[6]-> scientifique -[9]-> tête
+Christian Doppler -[6]-> scientifique -[9]-> tête
+Theodosius Dobzhansky -[6]-> scientifique -[9]-> tête
+Paul Dirac -[6]-> scientifique -[9]-> tête
+Humphry Davy -[6]-> scientifique -[9]-> tête
+John Dalton -[6]-> scientifique -[9]-> tête
+Marie Curie -[6]-> scientifique -[9]-> tête
+William Crookes -[6]-> scientifique -[9]-> tête
+Francis Crick -[6]-> scientifique -[9]-> tête
+Jacques-Yves Cousteau -[6]-> scientifique -[9]-> tête
+Charles de Coulomb -[6]-> scientifique -[9]-> tête
+Nicolas Copernic -[6]-> scientifique -[9]-> tête
+Alonzo Church -[6]-> scientifique -[9]-> tête
+Yves Chauvin -[6]-> scientifique -[9]-> tête
+Erwin Chargaff -[6]-> scientifique -[9]-> tête
+Georges Charpak -[6]-> scientifique -[9]-> tête
+James Chadwick -[6]-> scientifique -[9]-> tête
+Henry Cavendish -[6]-> scientifique -[9]-> tête
+Augustin Louis Cauchy -[6]-> scientifique -[9]-> tête
+Robert Wilhelm Bunsen -[6]-> scientifique -[9]-> tête
+Isambard Kingdom Brunel -[6]-> scientifique -[9]-> tête
+Auguste Bravais -[6]-> scientifique -[9]-> tête
+Wernher von Braun -[6]-> scientifique -[9]-> tête
+Édouard Branly -[6]-> scientifique -[9]-> tête
+Louis Braille -[6]-> scientifique -[9]-> tête
+Robert Boyle -[6]-> scientifique -[9]-> tête
+Ludwig Boltzmann -[6]-> scientifique -[9]-> tête
+Niels Bohr -[6]-> scientifique -[9]-> tête
+Joseph Black -[6]-> scientifique -[9]-> tête
+Alphonse Bertillon -[6]-> scientifique -[9]-> tête
+Archimède -[6]-> scientifique -[9]-> tête
+astronome -[6]-> scientifique -[9]-> tête
+botaniste -[6]-> scientifique -[9]-> tête
+chimiste -[6]-> scientifique -[9]-> tête
+météorologue -[6]-> scientifique -[9]-> tête
+paléontologue -[6]-> scientifique -[9]-> tête
+physicien -[6]-> scientifique -[9]-> tête
+sociologue -[6]-> scientifique -[9]-> tête
+André-Marie Ampère -[6]-> scientifique -[9]-> tête
+André Vésale -[6]-> scientifique -[9]-> tête
+Svante August Arrhenius -[6]-> scientifique -[9]-> tête
+Pierre Victor Auger -[6]-> scientifique -[9]-> tête
+Averroès -[6]-> scientifique -[9]-> tête
+Avicenne -[6]-> scientifique -[9]-> tête
+Amedeo Avogadro -[6]-> scientifique -[9]-> tête
+Charles Babbage -[6]-> scientifique -[9]-> tête
+John Logie Baird -[6]-> scientifique -[9]-> tête
+Christiaan Barnard -[6]-> scientifique -[9]-> tête
+Henri Becquerel -[6]-> scientifique -[9]-> tête
+Alexander Graham Bell -[6]-> scientifique -[9]-> tête
+Carl Benz -[6]-> scientifique -[9]-> tête
+Jacques Bernoulli -[6]-> scientifique -[9]-> tête
+Jean Bernoulli -[6]-> scientifique -[9]-> tête
+Daniel Bernoulli -[6]-> scientifique -[9]-> tête
+Edward Sabine -[6]-> astronome -[9]-> tête
+Ptolémée -[6]-> astronome -[9]-> tête
+Johannes Kepler -[6]-> astronome -[9]-> tête
+William Herschel -[6]-> astronome -[9]-> tête
+Edmond Halley -[6]-> astronome -[9]-> tête
+Galilée -[6]-> astronome -[9]-> tête
+Nicolas Copernic -[6]-> astronome -[9]-> tête
+Auguste Bravais -[6]-> astronome -[9]-> tête
+Louis Pasteur -[6]-> biologiste -[9]-> tête
+Karl Landsteiner -[6]-> biologiste -[9]-> tête
+Albert Jacquard -[6]-> biologiste -[9]-> tête
+Theodosius Dobzhansky -[6]-> biologiste -[9]-> tête
+Erwin Chargaff -[6]-> biochimiste -[9]-> tête
+Mathieu Lafourcade -[6]-> chercheur -[9]-> tête
+Mathieu Lafourcade -[17]-> chercheur -[9]-> tête
+Albert Jacquard -[6]-> chercheur -[9]-> tête
+archéologue -[6]-> chercheur -[9]-> tête
+biologiste -[6]-> chercheur -[9]-> tête
+biomathématicien -[6]-> chercheur -[9]-> tête
+chimiste -[6]-> chercheur -[9]-> tête
+ethnologue -[6]-> chercheur -[9]-> tête
+géologue -[6]-> chercheur -[9]-> tête
+physicien -[6]-> chercheur -[9]-> tête
+sociologue -[6]-> chercheur -[9]-> tête
+Friedrich Wöhler -[6]-> chimiste -[9]-> tête
+Joseph Priestley -[6]-> chimiste -[9]-> tête
+Dmitri Mendeleïev -[6]-> chimiste -[9]-> tête
+Irène Joliot-Curie -[6]-> chimiste -[9]-> tête
+Fritz Haber -[6]-> chimiste -[9]-> tête
+Louis Joseph Gay-Lussac -[6]-> chimiste -[9]-> tête
+John Dalton -[6]-> chimiste -[9]-> tête
+Marie Curie -[6]-> chimiste -[9]-> tête
+William Crookes -[6]-> chimiste -[9]-> tête
+Robert Wilhelm Bunsen -[6]-> chimiste -[9]-> tête
+biochimiste -[6]-> chimiste -[9]-> tête
+Svante August Arrhenius -[6]-> chimiste -[9]-> tête
+Amedeo Avogadro -[6]-> chimiste -[9]-> tête
+Alan Turing -[6]-> cryptologue -[9]-> tête
+Alan Mathison Turing -[6]-> cryptologue -[9]-> tête
+Paul-Émile Victor -[6]-> explorateur -[9]-> tête
+Théodore Monod -[6]-> explorateur -[9]-> tête
+Jacques-Yves Cousteau -[6]-> explorateur -[9]-> tête
+Alan Turing -[6]-> mathématicien -[9]-> tête
+Alan Mathison Turing -[6]-> mathématicien -[9]-> tête
+Bernhard Riemann -[6]-> mathématicien -[9]-> tête
+Pythagore -[6]-> mathématicien -[9]-> tête
+Henri Poincaré -[6]-> mathématicien -[9]-> tête
+Julius Plücker -[6]-> mathématicien -[9]-> tête
+Blaise Pascal -[6]-> mathématicien -[9]-> tête
+Isaac Newton -[6]-> mathématicien -[9]-> tête
+Hermann Minkowski -[6]-> mathématicien -[9]-> tête
+Pierre-Simon Laplace -[6]-> mathématicien -[9]-> tête
+Stephen Cole Kleene -[6]-> mathématicien -[9]-> tête
+Christiaan Huygens -[6]-> mathématicien -[9]-> tête
+David Hilbert -[6]-> mathématicien -[9]-> tête
+Kurt Gödel -[6]-> mathématicien -[9]-> tête
+Évariste Galois -[6]-> mathématicien -[9]-> tête
+Galilée -[6]-> mathématicien -[9]-> tête
+Oronce Fine -[6]-> mathématicien -[9]-> tête
+Leonhard Euler -[6]-> mathématicien -[9]-> tête
+Euclide -[6]-> mathématicien -[9]-> tête
+Alonzo Church -[6]-> mathématicien -[9]-> tête
+Augustin Louis Cauchy -[6]-> mathématicien -[9]-> tête
+Archimède -[6]-> mathématicien -[9]-> tête
+André-Marie Ampère -[6]-> mathématicien -[9]-> tête
+Charles Babbage -[6]-> mathématicien -[9]-> tête
+Jacques Bernoulli -[6]-> mathématicien -[9]-> tête
+Jean Bernoulli -[6]-> mathématicien -[9]-> tête
+Stephen Jay Gould -[6]-> paléontologue -[9]-> tête
+scanner -[6]-> physicien -[9]-> tête
+Edward Witten -[6]-> physicien -[9]-> tête
+Alessandro Volta -[6]-> physicien -[9]-> tête
+Evangelista Torricelli -[6]-> physicien -[9]-> tête
+Joseph John Thomson -[6]-> physicien -[9]-> tête
+Erwin Schrödinger -[6]-> physicien -[9]-> tête
+Wallace Clement Sabine -[6]-> physicien -[9]-> tête
+Ernest Rutherford -[6]-> physicien -[9]-> tête
+Wilhelm Röntgen -[6]-> physicien -[9]-> tête
+George Dawson Preston -[6]-> physicien -[9]-> tête
+Max Planck -[6]-> physicien -[9]-> tête
+Robert Oppenheimer -[6]-> physicien -[9]-> tête
+Georg Simon Ohm -[6]-> physicien -[9]-> tête
+Isaac Newton -[6]-> physicien -[9]-> tête
+Albert Abraham Michelson -[6]-> physicien -[9]-> tête
+James Clerk Maxwell -[6]-> physicien -[9]-> tête
+abbé Edme Mariotte -[6]-> physicien -[9]-> tête
+Guglielmo Marconi -[6]-> physicien -[9]-> tête
+Ernst Mach -[6]-> physicien -[9]-> tête
+Max von Laue -[6]-> physicien -[9]-> tête
+Gustav Kirchhoff -[6]-> physicien -[9]-> tête
+Lord Kelvin -[6]-> physicien -[9]-> tête
+William Thomson -[6]-> physicien -[9]-> tête
+James Prescott Joule -[6]-> physicien -[9]-> tête
+Frédéric Joliot-Curie -[6]-> physicien -[9]-> tête
+Christiaan Huygens -[6]-> physicien -[9]-> tête
+Joseph Henry -[6]-> physicien -[9]-> tête
+Louis Joseph Gay-Lussac -[6]-> physicien -[9]-> tête
+Luigi Galvani -[6]-> physicien -[9]-> tête
+Galilée -[6]-> physicien -[9]-> tête
+Augustin Fresnel -[6]-> physicien -[9]-> tête
+Jean Bernard Léon Foucault -[6]-> physicien -[9]-> tête
+Richard Feynman -[6]-> physicien -[9]-> tête
+Enrico Fermi -[6]-> physicien -[9]-> tête
+Michael Faraday -[6]-> physicien -[9]-> tête
+Leonhard Euler -[6]-> physicien -[9]-> tête
+Albert Einstein -[6]-> physicien -[9]-> tête
+Christian Doppler -[6]-> physicien -[9]-> tête
+Paul Dirac -[6]-> physicien -[9]-> tête
+Humphry Davy -[6]-> physicien -[9]-> tête
+Charles de Coulomb -[6]-> physicien -[9]-> tête
+Georges Charpak -[6]-> physicien -[9]-> tête
+James Chadwick -[6]-> physicien -[9]-> tête
+Henry Cavendish -[6]-> physicien -[9]-> tête
+Robert Wilhelm Bunsen -[6]-> physicien -[9]-> tête
+Édouard Branly -[6]-> physicien -[9]-> tête
+Robert Boyle -[6]-> physicien -[9]-> tête
+Ludwig Boltzmann -[6]-> physicien -[9]-> tête
+Niels Bohr -[6]-> physicien -[9]-> tête
+Pierre Victor Auger -[6]-> physicien -[9]-> tête
+Amedeo Avogadro -[6]-> physicien -[9]-> tête
+Henri Becquerel -[6]-> physicien -[9]-> tête
+Nikola Tesla -[6]-> inventeur -[9]-> yeux
+George Stephenson -[6]-> inventeur -[9]-> yeux
+Christopher Latham Sholes -[6]-> inventeur -[9]-> yeux
+Ottmar Mergenthaler -[6]-> inventeur -[9]-> yeux
+Benjamin Franklin -[6]-> inventeur -[9]-> yeux
+Oronce Fine -[6]-> inventeur -[9]-> yeux
+Thomas Alva Edison -[6]-> inventeur -[9]-> yeux
+George Eastman -[6]-> inventeur -[9]-> yeux
+John Boyd Dunlop -[6]-> inventeur -[9]-> yeux
+Édouard Branly -[6]-> inventeur -[9]-> yeux
+Louis Braille -[6]-> inventeur -[9]-> yeux
+scientifique -[6]-> inventeur -[9]-> yeux
+Carl Benz -[6]-> inventeur -[9]-> yeux
+ordinateur -[9]-> scanner -[9]-> yeux
+Mathieu Lafourcade -[17]-> vivant -[9]-> yeux
+Mathématiques -[17]-> vivant -[9]-> yeux
+bacille -[17]-> vivant -[9]-> yeux
+Boris Cyrulnik -[17]-> vivant -[9]-> yeux
+inventeur -[17]-> vivant -[9]-> yeux
+transformateur -[17]-> vivant -[9]-> yeux
+pile électrique -[17]-> vivant -[9]-> yeux
+moteur -[17]-> vivant -[9]-> yeux
+interrupteur -[17]-> vivant -[9]-> yeux
+convertisseur -[17]-> vivant -[9]-> yeux
+Edward Witten -[17]-> vivant -[9]-> yeux
+Joseph John Thomson -[17]-> vivant -[9]-> yeux
+Christopher Latham Sholes -[17]-> vivant -[9]-> yeux
+Wallace Clement Sabine -[17]-> vivant -[9]-> yeux
+Ernest Rutherford -[17]-> vivant -[9]-> yeux
+Wilhelm Röntgen -[17]-> vivant -[9]-> yeux
+Bernhard Riemann -[17]-> vivant -[9]-> yeux
+George Dawson Preston -[17]-> vivant -[9]-> yeux
+Julius Plücker -[17]-> vivant -[9]-> yeux
+Wilhelm Ostwald -[17]-> vivant -[9]-> yeux
+Marin Mersenne -[17]-> vivant -[9]-> yeux
+James Clerk Maxwell -[17]-> vivant -[9]-> yeux
+abbé Edme Mariotte -[17]-> vivant -[9]-> yeux
+Pierre-Simon Laplace -[17]-> vivant -[9]-> yeux
+Louis Lumière -[17]-> vivant -[9]-> yeux
+Max von Laue -[17]-> vivant -[9]-> yeux
+Gustav Kirchhoff -[17]-> vivant -[9]-> yeux
+Lord Kelvin -[17]-> vivant -[9]-> yeux
+William Thomson -[17]-> vivant -[9]-> yeux
+Augustin Fresnel -[17]-> vivant -[9]-> yeux
+Joseph Fourier -[17]-> vivant -[9]-> yeux
+Richard Feynman -[17]-> vivant -[9]-> yeux
+Christian Doppler -[17]-> vivant -[9]-> yeux
+Humphry Davy -[17]-> vivant -[9]-> yeux
+Francis Crick -[17]-> vivant -[9]-> yeux
+Charles de Coulomb -[17]-> vivant -[9]-> yeux
+Alonzo Church -[17]-> vivant -[9]-> yeux
+James Chadwick -[17]-> vivant -[9]-> yeux
+Augustin Louis Cauchy -[17]-> vivant -[9]-> yeux
+Robert Wilhelm Bunsen -[17]-> vivant -[9]-> yeux
+Ludwig Boltzmann -[17]-> vivant -[9]-> yeux
+éléphant -[17]-> vivant -[9]-> yeux
+lumière -[17]-> vivant -[9]-> yeux
+ectoplasme -[17]-> vivant -[9]-> yeux
+hétérozygote -[17]-> vivant -[9]-> yeux
+scientifique -[17]-> vivant -[9]-> yeux
+anthropologue -[17]-> vivant -[9]-> yeux
+archéologue -[17]-> vivant -[9]-> yeux
+astronome -[17]-> vivant -[9]-> yeux
+botaniste -[17]-> vivant -[9]-> yeux
+biologiste -[17]-> vivant -[9]-> yeux
+biochimiste -[17]-> vivant -[9]-> yeux
+biomathématicien -[17]-> vivant -[9]-> yeux
+chercheur -[17]-> vivant -[9]-> yeux
+chimiste -[17]-> vivant -[9]-> yeux
+cryptologue -[17]-> vivant -[9]-> yeux
+exobiologiste -[17]-> vivant -[9]-> yeux
+explorateur -[17]-> vivant -[9]-> yeux
+économiste -[17]-> vivant -[9]-> yeux
+éthologue -[17]-> vivant -[9]-> yeux
+ethnologue -[17]-> vivant -[9]-> yeux
+géologue -[17]-> vivant -[9]-> yeux
+glaciologue -[17]-> vivant -[9]-> yeux
+mathématicien -[17]-> vivant -[9]-> yeux
+météorologue -[17]-> vivant -[9]-> yeux
+paléontologue -[17]-> vivant -[9]-> yeux
+physicien -[17]-> vivant -[9]-> yeux
+raffineur -[17]-> vivant -[9]-> yeux
+sismologue -[17]-> vivant -[9]-> yeux
+sociologue -[17]-> vivant -[9]-> yeux
+statisticien -[17]-> vivant -[9]-> yeux
+symbolique -[17]-> vivant -[9]-> yeux
+André-Marie Ampère -[17]-> vivant -[9]-> yeux
+Pierre Victor Auger -[17]-> vivant -[9]-> yeux
+Alan Turing -[6]-> scientifique -[9]-> yeux
+Friedrich Wöhler -[6]-> scientifique -[9]-> yeux
+Edward Witten -[6]-> scientifique -[9]-> yeux
+Karl Weierstrass -[6]-> scientifique -[9]-> yeux
+James Watt -[6]-> scientifique -[9]-> yeux
+Alessandro Volta -[6]-> scientifique -[9]-> yeux
+Paul-Émile Victor -[6]-> scientifique -[9]-> yeux
+Alan Mathison Turing -[6]-> scientifique -[9]-> yeux
+Charles Townes -[6]-> scientifique -[9]-> yeux
+Evangelista Torricelli -[6]-> scientifique -[9]-> yeux
+Joseph John Thomson -[6]-> scientifique -[9]-> yeux
+Nikola Tesla -[6]-> scientifique -[9]-> yeux
+William Henry Fox Talbot -[6]-> scientifique -[9]-> yeux
+George Stephenson -[6]-> scientifique -[9]-> yeux
+Christopher Latham Sholes -[6]-> scientifique -[9]-> yeux
+Laurent Schwartz -[6]-> scientifique -[9]-> yeux
+Paul Schützenberger -[6]-> scientifique -[9]-> yeux
+Erwin Schrödinger -[6]-> scientifique -[9]-> yeux
+Henri Sainte-Claire Deville -[6]-> scientifique -[9]-> yeux
+Wallace Clement Sabine -[6]-> scientifique -[9]-> yeux
+Edward Sabine -[6]-> scientifique -[9]-> yeux
+Bertrand Russell -[6]-> scientifique -[9]-> yeux
+Ernest Rutherford -[6]-> scientifique -[9]-> yeux
+Wilhelm Röntgen -[6]-> scientifique -[9]-> yeux
+Bernhard Riemann -[6]-> scientifique -[9]-> yeux
+Pythagore -[6]-> scientifique -[9]-> yeux
+Ptolémée -[6]-> scientifique -[9]-> yeux
+Joseph Priestley -[6]-> scientifique -[9]-> yeux
+George Dawson Preston -[6]-> scientifique -[9]-> yeux
+Henri Poincaré -[6]-> scientifique -[9]-> yeux
+Julius Plücker -[6]-> scientifique -[9]-> yeux
+Max Planck -[6]-> scientifique -[9]-> yeux
+Ivan Petrovitch Pavlov -[6]-> scientifique -[9]-> yeux
+Louis Pasteur -[6]-> scientifique -[9]-> yeux
+Blaise Pascal -[6]-> scientifique -[9]-> yeux
+Wilhelm Ostwald -[6]-> scientifique -[9]-> yeux
+Robert Oppenheimer -[6]-> scientifique -[9]-> yeux
+Georg Simon Ohm -[6]-> scientifique -[9]-> yeux
+Isaac Newton -[6]-> scientifique -[9]-> yeux
+James Nasmyth -[6]-> scientifique -[9]-> yeux
+Théodore Monod -[6]-> scientifique -[9]-> yeux
+Hermann Minkowski -[6]-> scientifique -[9]-> yeux
+Albert Abraham Michelson -[6]-> scientifique -[9]-> yeux
+Marin Mersenne -[6]-> scientifique -[9]-> yeux
+Ottmar Mergenthaler -[6]-> scientifique -[9]-> yeux
+Dmitri Mendeleïev -[6]-> scientifique -[9]-> yeux
+Ernst Mayr -[6]-> scientifique -[9]-> yeux
+James Clerk Maxwell -[6]-> scientifique -[9]-> yeux
+abbé Edme Mariotte -[6]-> scientifique -[9]-> yeux
+Guglielmo Marconi -[6]-> scientifique -[9]-> yeux
+Marcello Malpighi -[6]-> scientifique -[9]-> yeux
+Ernst Mach -[6]-> scientifique -[9]-> yeux
+Pierre-Simon Laplace -[6]-> scientifique -[9]-> yeux
+Louis Lumière -[6]-> scientifique -[9]-> yeux
+Auguste Lumière -[6]-> scientifique -[9]-> yeux
+Joseph Lister -[6]-> scientifique -[9]-> yeux
+Carl von Linné -[6]-> scientifique -[9]-> yeux
+Adrien-Marie Legendre -[6]-> scientifique -[9]-> yeux
+Max von Laue -[6]-> scientifique -[9]-> yeux
+César Lattes -[6]-> scientifique -[9]-> yeux
+Karl Landsteiner -[6]-> scientifique -[9]-> yeux
+Edwin H. Land -[6]-> scientifique -[9]-> yeux
+Stephen Cole Kleene -[6]-> scientifique -[9]-> yeux
+Gustav Kirchhoff -[6]-> scientifique -[9]-> yeux
+Johannes Kepler -[6]-> scientifique -[9]-> yeux
+Lord Kelvin -[6]-> scientifique -[9]-> yeux
+William Thomson -[6]-> scientifique -[9]-> yeux
+James Prescott Joule -[6]-> scientifique -[9]-> yeux
+Frédéric Joliot-Curie -[6]-> scientifique -[9]-> yeux
+Irène Joliot-Curie -[6]-> scientifique -[9]-> yeux
+Albert Jacquard -[6]-> scientifique -[9]-> yeux
+Christiaan Huygens -[6]-> scientifique -[9]-> yeux
+Edwin Hubble -[6]-> scientifique -[9]-> yeux
+Hippocrate -[6]-> scientifique -[9]-> yeux
+David Hilbert -[6]-> scientifique -[9]-> yeux
+Heinrich Rudolf Hertz -[6]-> scientifique -[9]-> yeux
+William Herschel -[6]-> scientifique -[9]-> yeux
+Joseph Henry -[6]-> scientifique -[9]-> yeux
+Edmond Halley -[6]-> scientifique -[9]-> yeux
+Fritz Haber -[6]-> scientifique -[9]-> yeux
+Stephen Jay Gould -[6]-> scientifique -[9]-> yeux
+Kurt Gödel -[6]-> scientifique -[9]-> yeux
+Louis Joseph Gay-Lussac -[6]-> scientifique -[9]-> yeux
+Luigi Galvani -[6]-> scientifique -[9]-> yeux
+Évariste Galois -[6]-> scientifique -[9]-> yeux
+Galilée -[6]-> scientifique -[9]-> yeux
+Augustin Fresnel -[6]-> scientifique -[9]-> yeux
+Joseph von Fraunhofer -[6]-> scientifique -[9]-> yeux
+Benjamin Franklin -[6]-> scientifique -[9]-> yeux
+Joseph Fourier -[6]-> scientifique -[9]-> yeux
+Jean Bernard Léon Foucault -[6]-> scientifique -[9]-> yeux
+Alexander Fleming -[6]-> scientifique -[9]-> yeux
+Richard Feynman -[6]-> scientifique -[9]-> yeux
+Enrico Fermi -[6]-> scientifique -[9]-> yeux
+Michael Faraday -[6]-> scientifique -[9]-> yeux
+Oronce Fine -[6]-> scientifique -[9]-> yeux
+Leonhard Euler -[6]-> scientifique -[9]-> yeux
+Euclide -[6]-> scientifique -[9]-> yeux
+Albert Einstein -[6]-> scientifique -[9]-> yeux
+Thomas Alva Edison -[6]-> scientifique -[9]-> yeux
+George Eastman -[6]-> scientifique -[9]-> yeux
+John Boyd Dunlop -[6]-> scientifique -[9]-> yeux
+Christian Doppler -[6]-> scientifique -[9]-> yeux
+Theodosius Dobzhansky -[6]-> scientifique -[9]-> yeux
+Paul Dirac -[6]-> scientifique -[9]-> yeux
+Humphry Davy -[6]-> scientifique -[9]-> yeux
+John Dalton -[6]-> scientifique -[9]-> yeux
+Marie Curie -[6]-> scientifique -[9]-> yeux
+William Crookes -[6]-> scientifique -[9]-> yeux
+Francis Crick -[6]-> scientifique -[9]-> yeux
+Jacques-Yves Cousteau -[6]-> scientifique -[9]-> yeux
+Charles de Coulomb -[6]-> scientifique -[9]-> yeux
+Nicolas Copernic -[6]-> scientifique -[9]-> yeux
+Alonzo Church -[6]-> scientifique -[9]-> yeux
+Yves Chauvin -[6]-> scientifique -[9]-> yeux
+Erwin Chargaff -[6]-> scientifique -[9]-> yeux
+Georges Charpak -[6]-> scientifique -[9]-> yeux
+James Chadwick -[6]-> scientifique -[9]-> yeux
+Henry Cavendish -[6]-> scientifique -[9]-> yeux
+Augustin Louis Cauchy -[6]-> scientifique -[9]-> yeux
+Robert Wilhelm Bunsen -[6]-> scientifique -[9]-> yeux
+Isambard Kingdom Brunel -[6]-> scientifique -[9]-> yeux
+Auguste Bravais -[6]-> scientifique -[9]-> yeux
+Wernher von Braun -[6]-> scientifique -[9]-> yeux
+Édouard Branly -[6]-> scientifique -[9]-> yeux
+Louis Braille -[6]-> scientifique -[9]-> yeux
+Robert Boyle -[6]-> scientifique -[9]-> yeux
+Ludwig Boltzmann -[6]-> scientifique -[9]-> yeux
+Niels Bohr -[6]-> scientifique -[9]-> yeux
+Joseph Black -[6]-> scientifique -[9]-> yeux
+Alphonse Bertillon -[6]-> scientifique -[9]-> yeux
+Archimède -[6]-> scientifique -[9]-> yeux
+astronome -[6]-> scientifique -[9]-> yeux
+botaniste -[6]-> scientifique -[9]-> yeux
+chimiste -[6]-> scientifique -[9]-> yeux
+météorologue -[6]-> scientifique -[9]-> yeux
+paléontologue -[6]-> scientifique -[9]-> yeux
+physicien -[6]-> scientifique -[9]-> yeux
+sociologue -[6]-> scientifique -[9]-> yeux
+André-Marie Ampère -[6]-> scientifique -[9]-> yeux
+André Vésale -[6]-> scientifique -[9]-> yeux
+Svante August Arrhenius -[6]-> scientifique -[9]-> yeux
+Pierre Victor Auger -[6]-> scientifique -[9]-> yeux
+Averroès -[6]-> scientifique -[9]-> yeux
+Avicenne -[6]-> scientifique -[9]-> yeux
+Amedeo Avogadro -[6]-> scientifique -[9]-> yeux
+Charles Babbage -[6]-> scientifique -[9]-> yeux
+John Logie Baird -[6]-> scientifique -[9]-> yeux
+Christiaan Barnard -[6]-> scientifique -[9]-> yeux
+Henri Becquerel -[6]-> scientifique -[9]-> yeux
+Alexander Graham Bell -[6]-> scientifique -[9]-> yeux
+Carl Benz -[6]-> scientifique -[9]-> yeux
+Jacques Bernoulli -[6]-> scientifique -[9]-> yeux
+Jean Bernoulli -[6]-> scientifique -[9]-> yeux
+Daniel Bernoulli -[6]-> scientifique -[9]-> yeux
+Edward Sabine -[6]-> astronome -[9]-> yeux
+Ptolémée -[6]-> astronome -[9]-> yeux
+Johannes Kepler -[6]-> astronome -[9]-> yeux
+William Herschel -[6]-> astronome -[9]-> yeux
+Edmond Halley -[6]-> astronome -[9]-> yeux
+Galilée -[6]-> astronome -[9]-> yeux
+Nicolas Copernic -[6]-> astronome -[9]-> yeux
+Auguste Bravais -[6]-> astronome -[9]-> yeux
+Louis Pasteur -[6]-> biologiste -[9]-> yeux
+Karl Landsteiner -[6]-> biologiste -[9]-> yeux
+Albert Jacquard -[6]-> biologiste -[9]-> yeux
+Theodosius Dobzhansky -[6]-> biologiste -[9]-> yeux
+Erwin Chargaff -[6]-> biochimiste -[9]-> yeux
+Mathieu Lafourcade -[6]-> chercheur -[9]-> yeux
+Mathieu Lafourcade -[17]-> chercheur -[9]-> yeux
+Albert Jacquard -[6]-> chercheur -[9]-> yeux
+archéologue -[6]-> chercheur -[9]-> yeux
+biologiste -[6]-> chercheur -[9]-> yeux
+biomathématicien -[6]-> chercheur -[9]-> yeux
+chimiste -[6]-> chercheur -[9]-> yeux
+ethnologue -[6]-> chercheur -[9]-> yeux
+géologue -[6]-> chercheur -[9]-> yeux
+physicien -[6]-> chercheur -[9]-> yeux
+sociologue -[6]-> chercheur -[9]-> yeux
+Friedrich Wöhler -[6]-> chimiste -[9]-> yeux
+Joseph Priestley -[6]-> chimiste -[9]-> yeux
+Dmitri Mendeleïev -[6]-> chimiste -[9]-> yeux
+Irène Joliot-Curie -[6]-> chimiste -[9]-> yeux
+Fritz Haber -[6]-> chimiste -[9]-> yeux
+Louis Joseph Gay-Lussac -[6]-> chimiste -[9]-> yeux
+John Dalton -[6]-> chimiste -[9]-> yeux
+Marie Curie -[6]-> chimiste -[9]-> yeux
+William Crookes -[6]-> chimiste -[9]-> yeux
+Robert Wilhelm Bunsen -[6]-> chimiste -[9]-> yeux
+biochimiste -[6]-> chimiste -[9]-> yeux
+Svante August Arrhenius -[6]-> chimiste -[9]-> yeux
+Amedeo Avogadro -[6]-> chimiste -[9]-> yeux
+Alan Turing -[6]-> cryptologue -[9]-> yeux
+Alan Mathison Turing -[6]-> cryptologue -[9]-> yeux
+Paul-Émile Victor -[6]-> explorateur -[9]-> yeux
+Théodore Monod -[6]-> explorateur -[9]-> yeux
+Jacques-Yves Cousteau -[6]-> explorateur -[9]-> yeux
+Alan Turing -[6]-> mathématicien -[9]-> yeux
+Alan Mathison Turing -[6]-> mathématicien -[9]-> yeux
+Bernhard Riemann -[6]-> mathématicien -[9]-> yeux
+Pythagore -[6]-> mathématicien -[9]-> yeux
+Henri Poincaré -[6]-> mathématicien -[9]-> yeux
+Julius Plücker -[6]-> mathématicien -[9]-> yeux
+Blaise Pascal -[6]-> mathématicien -[9]-> yeux
+Isaac Newton -[6]-> mathématicien -[9]-> yeux
+Hermann Minkowski -[6]-> mathématicien -[9]-> yeux
+Pierre-Simon Laplace -[6]-> mathématicien -[9]-> yeux
+Stephen Cole Kleene -[6]-> mathématicien -[9]-> yeux
+Christiaan Huygens -[6]-> mathématicien -[9]-> yeux
+David Hilbert -[6]-> mathématicien -[9]-> yeux
+Kurt Gödel -[6]-> mathématicien -[9]-> yeux
+Évariste Galois -[6]-> mathématicien -[9]-> yeux
+Galilée -[6]-> mathématicien -[9]-> yeux
+Oronce Fine -[6]-> mathématicien -[9]-> yeux
+Leonhard Euler -[6]-> mathématicien -[9]-> yeux
+Euclide -[6]-> mathématicien -[9]-> yeux
+Alonzo Church -[6]-> mathématicien -[9]-> yeux
+Augustin Louis Cauchy -[6]-> mathématicien -[9]-> yeux
+Archimède -[6]-> mathématicien -[9]-> yeux
+André-Marie Ampère -[6]-> mathématicien -[9]-> yeux
+Charles Babbage -[6]-> mathématicien -[9]-> yeux
+Jacques Bernoulli -[6]-> mathématicien -[9]-> yeux
+Jean Bernoulli -[6]-> mathématicien -[9]-> yeux
+Stephen Jay Gould -[6]-> paléontologue -[9]-> yeux
+scanner -[6]-> physicien -[9]-> yeux
+Edward Witten -[6]-> physicien -[9]-> yeux
+Alessandro Volta -[6]-> physicien -[9]-> yeux
+Evangelista Torricelli -[6]-> physicien -[9]-> yeux
+Joseph John Thomson -[6]-> physicien -[9]-> yeux
+Erwin Schrödinger -[6]-> physicien -[9]-> yeux
+Wallace Clement Sabine -[6]-> physicien -[9]-> yeux
+Ernest Rutherford -[6]-> physicien -[9]-> yeux
+Wilhelm Röntgen -[6]-> physicien -[9]-> yeux
+George Dawson Preston -[6]-> physicien -[9]-> yeux
+Max Planck -[6]-> physicien -[9]-> yeux
+Robert Oppenheimer -[6]-> physicien -[9]-> yeux
+Georg Simon Ohm -[6]-> physicien -[9]-> yeux
+Isaac Newton -[6]-> physicien -[9]-> yeux
+Albert Abraham Michelson -[6]-> physicien -[9]-> yeux
+James Clerk Maxwell -[6]-> physicien -[9]-> yeux
+abbé Edme Mariotte -[6]-> physicien -[9]-> yeux
+Guglielmo Marconi -[6]-> physicien -[9]-> yeux
+Ernst Mach -[6]-> physicien -[9]-> yeux
+Max von Laue -[6]-> physicien -[9]-> yeux
+Gustav Kirchhoff -[6]-> physicien -[9]-> yeux
+Lord Kelvin -[6]-> physicien -[9]-> yeux
+William Thomson -[6]-> physicien -[9]-> yeux
+James Prescott Joule -[6]-> physicien -[9]-> yeux
+Frédéric Joliot-Curie -[6]-> physicien -[9]-> yeux
+Christiaan Huygens -[6]-> physicien -[9]-> yeux

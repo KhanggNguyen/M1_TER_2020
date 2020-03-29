@@ -35,7 +35,7 @@ for relation in reversed(lines) : #run in reversed
     if len(matcher.match('Terme').where('_.label="' + array_of_line[1]  + '"')) == 0:
         graph.create(myNodeB)
     
-    relation = Relationship.type(sys.argv[2])
+    relation = Relationship.type(int(sys.argv[2]))
     
     graph.merge(relation(myNodeA, myNodeB, typeR = int(sys.argv[2]), poids = int(array_of_line[2])), "Terme", "label")
 
