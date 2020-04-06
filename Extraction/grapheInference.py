@@ -20,9 +20,9 @@ graph = Graph(uri, auth=(user, password))
 #ouvrir un fichier res pour écrire
 f = open('Inferences/resInference.txt', "w+", encoding="utf-8")
 
-req = "MATCH (a:Terme)-[r1:`" + relation + "`]->(b:Terme)-[r2:`" + relation + "`]->(c:Terme)<-[r3:]-(a:Terme) WHERE r1.poids > 0 AND r2.poids > 0  return a, b, c"
-#req = "MATCH p=(a:Terme)-[:isA]->(b:Terme)-[:isA]->(c:Terme)<-[:isA]-(a:Terme)  return a, b, c SKIP " + str(random.randint(1,100)) + " LIMIT 300;"
-#req = "MATCH p=(a:Terme)-[:isA]->(b:Terme)-[:isA]->(c:Terme)<-[:isA]-(a:Terme) return a, b, c SKIP 100 LIMIT 1;"
+req = "MATCH (a:Mot)-[r1:`" + relation + "`]->(b:Mot)-[r2:`" + relation + "`]->(c:Mot)<-[r3:]-(a:Mot) WHERE r1.poids > 0 AND r2.poids > 0  return a, b, c"
+#req = "MATCH p=(a:Mot)-[:isA]->(b:Mot)-[:isA]->(c:Mot)<-[:isA]-(a:Mot)  return a, b, c SKIP " + str(random.randint(1,100)) + " LIMIT 300;"
+#req = "MATCH p=(a:Mot)-[:isA]->(b:Mot)-[:isA]->(c:Mot)<-[:isA]-(a:Mot) return a, b, c SKIP 100 LIMIT 1;"
 results = graph.run(req).data()
 
 myRes = ""
