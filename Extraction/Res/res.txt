@@ -1,0 +1,1000 @@
+cosmologie -[6]-> astronomie -[6]-> =science=
+géologie -[6]-> astronomie -[6]-> =science=
+bryologie -[6]-> botanique -[6]-> =science=
+génétique -[6]-> botanique -[6]-> =science=
+biochimie -[6]-> biologie -[6]-> =science=
+biophysique -[6]-> biologie -[6]-> =science=
+géologie -[6]-> biologie -[6]-> =science=
+anatomie -[6]-> biologie -[6]-> =science=
+médecine -[6]-> biologie -[6]-> =science=
+zootechnie -[6]-> biologie -[6]-> =science=
+toxicologie -[6]-> biologie -[6]-> =science=
+paléontologie -[6]-> biologie -[6]-> =science=
+génétique -[6]-> biologie -[6]-> =science=
+éthologie -[6]-> biologie -[6]-> =science=
+entomologie -[6]-> biologie -[6]-> =science=
+Mathématiques -[9]-> arithmétique -[6]-> =science=
+mathématique -[6]-> arithmétique -[6]-> =science=
+biochimie -[6]-> chimie -[6]-> =science=
+chimie organique -[6]-> chimie -[6]-> =science=
+vaccin -[6]-> chimie -[6]-> =science=
+physique -[9]-> chimie -[6]-> =science=
+électronique -[6]-> chimie -[6]-> =science=
+physique des particules -[6]-> Physique -[6]-> =science=
+géologie -[6]-> Physique -[6]-> =science=
+Mathématiques -[6]-> Physique -[6]-> =science=
+vaccin -[6]-> Physique -[6]-> =science=
+physique des plasmas -[6]-> Physique -[6]-> =science=
+technologie -[6]-> linguistique -[6]-> =science=
+logique -[6]-> linguistique -[6]-> =science=
+archéologie -[6]-> géologie -[6]-> =science=
+pétrologie magmatique -[6]-> géologie -[6]-> =science=
+pétrologie cristalline -[6]-> géologie -[6]-> =science=
+pétrologie -[6]-> géologie -[6]-> =science=
+archéologie -[6]-> Géographie -[6]-> =science=
+géologie -[6]-> Géographie -[6]-> =science=
+Archéologie -[6]-> Géographie -[6]-> =science=
+économie -[6]-> Géographie -[6]-> =science=
+topographie -[6]-> Géographie -[6]-> =science=
+arithmétique -[6]-> Mathématiques -[6]-> =science=
+logique -[6]-> Mathématiques -[6]-> =science=
+cosmologie -[6]-> Astronomie -[6]-> =science=
+géologie -[6]-> Astronomie -[6]-> =science=
+Economie -[6]-> économie -[6]-> =science=
+psychologie -[6]-> médecine -[6]-> =science=
+Economie -[6]-> médecine -[6]-> =science=
+économie -[6]-> médecine -[6]-> =science=
+vaccin -[6]-> médecine -[6]-> =science=
+toxicologie -[6]-> médecine -[6]-> =science=
+topographie -[6]-> médecine -[6]-> =science=
+ophtalmologie -[6]-> médecine -[6]-> =science=
+odontologie -[6]-> médecine -[6]-> =science=
+génétique -[6]-> médecine -[6]-> =science=
+électronique -[6]-> technologie -[6]-> =science=
+chimie -[6]-> physique -[6]-> =science=
+physique des particules -[6]-> physique -[6]-> =science=
+géologie -[6]-> physique -[6]-> =science=
+vaccin -[6]-> physique -[6]-> =science=
+physique des plasmas -[6]-> physique -[6]-> =science=
+sismologie -[6]-> physique -[6]-> =science=
+électronique -[6]-> physique -[6]-> =science=
+sédimentologie -[6]-> pétrologie -[6]-> =science=
+pétrologie magmatique -[6]-> pétrologie -[6]-> =science=
+pétrologie cristalline -[6]-> pétrologie -[6]-> =science=
+médecine -[9]-> ophtalmologie -[6]-> =science=
+arithmétique -[6]-> mathématique -[6]-> =science=
+logique -[6]-> mathématique -[6]-> =science=
+sismologie -[6]-> géophysique -[6]-> =science=
+archéologie -[6]-> géographie -[6]-> =science=
+géologie -[6]-> géographie -[6]-> =science=
+économie -[6]-> géographie -[6]-> =science=
+topographie -[6]-> géographie -[6]-> =science=
+biologie -[9]-> génétique -[6]-> =science=
+technologie -[6]-> Linguistique -[17]-> =science=
+logique -[6]-> Linguistique -[17]-> =science=
+technologie -[6]-> linguistique -[17]-> =science=
+logique -[6]-> linguistique -[17]-> =science=
+astrométrie -[6]-> astronomie -[6]-> Science
+cosmologie -[6]-> astronomie -[6]-> Science
+géologie -[6]-> astronomie -[6]-> Science
+génétique -[6]-> botanique -[6]-> Science
+physiologie -[6]-> botanique -[6]-> Science
+bryologie -[6]-> botanique -[6]-> Science
+biochimie -[6]-> biologie -[6]-> Science
+biophysique -[6]-> biologie -[6]-> Science
+entomologie -[6]-> biologie -[6]-> Science
+éthologie -[6]-> biologie -[6]-> Science
+génétique -[6]-> biologie -[6]-> Science
+physiologie -[6]-> biologie -[6]-> Science
+géologie -[6]-> biologie -[6]-> Science
+anatomie -[6]-> biologie -[6]-> Science
+médecine -[6]-> biologie -[6]-> Science
+zootechnie -[6]-> biologie -[6]-> Science
+toxicologie -[6]-> biologie -[6]-> Science
+paléontologie -[6]-> biologie -[6]-> Science
+mathématique -[6]-> arithmétique -[6]-> Science
+mathématiques -[9]-> arithmétique -[6]-> Science
+Mathématiques -[9]-> arithmétique -[6]-> Science
+biochimie -[6]-> chimie -[6]-> Science
+chimie organique -[6]-> chimie -[6]-> Science
+électronique -[6]-> chimie -[6]-> Science
+vaccin -[6]-> chimie -[6]-> Science
+physique -[9]-> chimie -[6]-> Science
+électronique -[6]-> électricité -[6]-> Science
+physique -[9]-> électricité -[6]-> Science
+biologie -[9]-> génétique -[6]-> Science
+archéologie -[6]-> géographie -[6]-> Science
+géologie -[6]-> géographie -[6]-> Science
+économie -[6]-> géographie -[6]-> Science
+topographie -[6]-> géographie -[6]-> Science
+sismologie -[6]-> géophysique -[6]-> Science
+mathématiques -[9]-> logique -[6]-> Science
+arithmétique -[6]-> mathématique -[6]-> Science
+logique -[6]-> mathématique -[6]-> Science
+médecine -[9]-> ophtalmologie -[6]-> Science
+physique des particules -[6]-> Physique -[6]-> Science
+géologie -[6]-> Physique -[6]-> Science
+Mathématiques -[6]-> Physique -[6]-> Science
+Géologie -[6]-> Physique -[6]-> Science
+vaccin -[6]-> Physique -[6]-> Science
+physique des plasmas -[6]-> Physique -[6]-> Science
+logique -[6]-> linguistique -[6]-> Science
+technologie -[6]-> linguistique -[6]-> Science
+logique -[6]-> Linguistique -[6]-> Science
+technologie -[6]-> Linguistique -[6]-> Science
+archéologie -[6]-> géologie -[6]-> Science
+pétrologie sédimentaire -[6]-> géologie -[6]-> Science
+pétrologie métamorphique -[6]-> géologie -[6]-> Science
+pétrologie magmatique -[6]-> géologie -[6]-> Science
+pétrologie cristalline -[6]-> géologie -[6]-> Science
+pétrologie -[6]-> géologie -[6]-> Science
+archéologie -[6]-> Géographie -[6]-> Science
+géologie -[6]-> Géographie -[6]-> Science
+Archéologie -[6]-> Géographie -[6]-> Science
+Géologie -[6]-> Géographie -[6]-> Science
+économie -[6]-> Géographie -[6]-> Science
+topographie -[6]-> Géographie -[6]-> Science
+arithmétique -[6]-> Mathématiques -[6]-> Science
+logique -[6]-> Mathématiques -[6]-> Science
+chimie organique -[6]-> Chimie -[6]-> Science
+électronique -[6]-> Chimie -[6]-> Science
+vaccin -[6]-> Chimie -[6]-> Science
+physique -[9]-> Chimie -[6]-> Science
+ophtalmologie -[6]-> Médecine -[6]-> Science
+anatomie -[6]-> Médecine -[6]-> Science
+vaccin -[6]-> Médecine -[6]-> Science
+astrométrie -[6]-> Astronomie -[6]-> Science
+cosmologie -[6]-> Astronomie -[6]-> Science
+géologie -[6]-> Astronomie -[6]-> Science
+Géologie -[6]-> Astronomie -[6]-> Science
+archéologie -[6]-> Géologie -[6]-> Science
+Archéologie -[6]-> Géologie -[6]-> Science
+sédimentologie -[6]-> Géologie -[6]-> Science
+pétrologie sédimentaire -[6]-> Géologie -[6]-> Science
+pétrologie métamorphique -[6]-> Géologie -[6]-> Science
+pétrologie magmatique -[6]-> Géologie -[6]-> Science
+pétrologie cristalline -[6]-> Géologie -[6]-> Science
+pétrologie -[6]-> Géologie -[6]-> Science
+Economie -[6]-> économie -[6]-> Science
+psychologie -[6]-> médecine -[6]-> Science
+génétique -[6]-> médecine -[6]-> Science
+odontologie -[6]-> médecine -[6]-> Science
+ophtalmologie -[6]-> médecine -[6]-> Science
+physiologie -[6]-> médecine -[6]-> Science
+Economie -[6]-> médecine -[6]-> Science
+économie -[6]-> médecine -[6]-> Science
+vaccin -[6]-> médecine -[6]-> Science
+toxicologie -[6]-> médecine -[6]-> Science
+topographie -[6]-> médecine -[6]-> Science
+électronique -[6]-> technologie -[6]-> Science
+chimie -[6]-> physique -[6]-> Science
+électronique -[6]-> physique -[6]-> Science
+physique des particules -[6]-> physique -[6]-> Science
+géologie -[6]-> physique -[6]-> Science
+vaccin -[6]-> physique -[6]-> Science
+physique des plasmas -[6]-> physique -[6]-> Science
+sismologie -[6]-> physique -[6]-> Science
+sédimentologie -[6]-> pétrologie -[6]-> Science
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> Science
+pétrologie métamorphique -[6]-> pétrologie -[6]-> Science
+pétrologie magmatique -[6]-> pétrologie -[6]-> Science
+pétrologie cristalline -[6]-> pétrologie -[6]-> Science
+astrométrie -[6]-> astronomie -[6]-> science
+cosmologie -[6]-> astronomie -[6]-> science
+géologie -[6]-> astronomie -[6]-> science
+génétique -[6]-> botanique -[6]-> science
+physiologie -[6]-> botanique -[6]-> science
+bryologie -[6]-> botanique -[6]-> science
+biochimie -[6]-> biologie -[6]-> science
+biophysique -[6]-> biologie -[6]-> science
+entomologie -[6]-> biologie -[6]-> science
+éthologie -[6]-> biologie -[6]-> science
+génétique -[6]-> biologie -[6]-> science
+paléontologie -[6]-> biologie -[6]-> science
+physiologie -[6]-> biologie -[6]-> science
+géologie -[6]-> biologie -[6]-> science
+anatomie -[6]-> biologie -[6]-> science
+médecine -[6]-> biologie -[6]-> science
+zootechnie -[6]-> biologie -[6]-> science
+toxicologie -[6]-> biologie -[6]-> science
+mathématique -[6]-> arithmétique -[6]-> science
+mathématiques -[9]-> arithmétique -[6]-> science
+Mathématiques -[9]-> arithmétique -[6]-> science
+mathématiques -[9]-> arithmétique -[6]-> science
+biochimie -[6]-> chimie -[6]-> science
+chimie organique -[6]-> chimie -[6]-> science
+électronique -[6]-> chimie -[6]-> science
+vaccin -[6]-> chimie -[6]-> science
+physique -[9]-> chimie -[6]-> science
+électronique -[6]-> électricité -[6]-> science
+physique -[9]-> électricité -[6]-> science
+biologie -[9]-> génétique -[6]-> science
+archéologie -[6]-> géographie -[6]-> science
+géologie -[6]-> géographie -[6]-> science
+économie -[6]-> géographie -[6]-> science
+topographie -[6]-> géographie -[6]-> science
+sismologie -[6]-> géophysique -[6]-> science
+mathématiques -[9]-> logique -[6]-> science
+mathématiques -[9]-> logique -[6]-> science
+arithmétique -[6]-> mathématique -[6]-> science
+logique -[6]-> mathématique -[6]-> science
+médecine -[9]-> ophtalmologie -[6]-> science
+physique des particules -[6]-> Physique -[6]-> science
+géologie -[6]-> Physique -[6]-> science
+Mathématiques -[6]-> Physique -[6]-> science
+Géologie -[6]-> Physique -[6]-> science
+vaccin -[6]-> Physique -[6]-> science
+physique des plasmas -[6]-> Physique -[6]-> science
+logique -[6]-> linguistique -[6]-> science
+technologie -[6]-> linguistique -[6]-> science
+logique -[6]-> Linguistique -[6]-> science
+technologie -[6]-> Linguistique -[6]-> science
+archéologie -[6]-> géologie -[6]-> science
+pétrologie sédimentaire -[6]-> géologie -[6]-> science
+pétrologie métamorphique -[6]-> géologie -[6]-> science
+pétrologie magmatique -[6]-> géologie -[6]-> science
+pétrologie cristalline -[6]-> géologie -[6]-> science
+pétrologie -[6]-> géologie -[6]-> science
+archéologie -[6]-> Géographie -[6]-> science
+géologie -[6]-> Géographie -[6]-> science
+Archéologie -[6]-> Géographie -[6]-> science
+Géologie -[6]-> Géographie -[6]-> science
+économie -[6]-> Géographie -[6]-> science
+topographie -[6]-> Géographie -[6]-> science
+arithmétique -[6]-> Mathématiques -[6]-> science
+logique -[6]-> Mathématiques -[6]-> science
+chimie organique -[6]-> Chimie -[6]-> science
+électronique -[6]-> Chimie -[6]-> science
+vaccin -[6]-> Chimie -[6]-> science
+physique -[9]-> Chimie -[6]-> science
+ophtalmologie -[6]-> Médecine -[6]-> science
+anatomie -[6]-> Médecine -[6]-> science
+vaccin -[6]-> Médecine -[6]-> science
+astrométrie -[6]-> Astronomie -[6]-> science
+cosmologie -[6]-> Astronomie -[6]-> science
+géologie -[6]-> Astronomie -[6]-> science
+Géologie -[6]-> Astronomie -[6]-> science
+archéologie -[6]-> Géologie -[6]-> science
+Archéologie -[6]-> Géologie -[6]-> science
+sédimentologie -[6]-> Géologie -[6]-> science
+pétrologie sédimentaire -[6]-> Géologie -[6]-> science
+pétrologie métamorphique -[6]-> Géologie -[6]-> science
+pétrologie magmatique -[6]-> Géologie -[6]-> science
+pétrologie cristalline -[6]-> Géologie -[6]-> science
+pétrologie -[6]-> Géologie -[6]-> science
+Economie -[6]-> économie -[6]-> science
+psychologie -[6]-> médecine -[6]-> science
+génétique -[6]-> médecine -[6]-> science
+odontologie -[6]-> médecine -[6]-> science
+ophtalmologie -[6]-> médecine -[6]-> science
+physiologie -[6]-> médecine -[6]-> science
+Economie -[6]-> médecine -[6]-> science
+économie -[6]-> médecine -[6]-> science
+vaccin -[6]-> médecine -[6]-> science
+toxicologie -[6]-> médecine -[6]-> science
+topographie -[6]-> médecine -[6]-> science
+électronique -[6]-> technologie -[6]-> science
+chimie -[6]-> physique -[6]-> science
+électronique -[6]-> physique -[6]-> science
+physique des particules -[6]-> physique -[6]-> science
+géologie -[6]-> physique -[6]-> science
+vaccin -[6]-> physique -[6]-> science
+physique des plasmas -[6]-> physique -[6]-> science
+sismologie -[6]-> physique -[6]-> science
+sédimentologie -[6]-> pétrologie -[6]-> science
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> science
+pétrologie métamorphique -[6]-> pétrologie -[6]-> science
+pétrologie magmatique -[6]-> pétrologie -[6]-> science
+pétrologie cristalline -[6]-> pétrologie -[6]-> science
+logique -[6]-> Linguistique -[17]-> science
+technologie -[6]-> Linguistique -[17]-> science
+logique -[6]-> linguistique -[17]-> science
+technologie -[6]-> linguistique -[17]-> science
+lampe -[9]-> électricité -[9]-> lieu
+lampe -[6]-> lumière -[6]-> lieu
+lampe -[9]-> lumière -[6]-> lieu
+réfrigérateur -[9]-> lumière -[6]-> lieu
+frigo -[9]-> lumière -[6]-> lieu
+frigidaire -[9]-> lumière -[6]-> lieu
+lune -[9]-> lumière -[6]-> lieu
+vaccin -[6]-> chimie -[6]-> lieu
+téléphone -[9]-> antenne -[6]-> lieu
+télévision -[9]-> antenne -[6]-> lieu
+électricité -[9]-> lampe -[6]-> lieu
+lumière -[9]-> lampe -[6]-> lieu
+réfrigérateur -[9]-> moteur -[6]-> lieu
+frigo -[9]-> moteur -[6]-> lieu
+frigidaire -[9]-> moteur -[6]-> lieu
+frigidaire -[9]-> réfrigérateur -[6]-> lieu
+réfrigérateur -[9]-> frigo -[6]-> lieu
+frigidaire -[9]-> frigo -[6]-> lieu
+réfrigérateur -[9]-> frigidaire -[6]-> lieu
+vaccin -[6]-> Chimie -[6]-> lieu
+frigidaire -[9]-> réfrigérateur -[17]-> froid
+réfrigérateur -[9]-> frigo -[17]-> froid
+frigidaire -[9]-> frigo -[17]-> froid
+réfrigérateur -[9]-> frigidaire -[17]-> froid
+physiologie -[6]-> botanique -[6]-> discipline
+biophysique -[6]-> biologie -[6]-> discipline
+entomologie -[6]-> biologie -[6]-> discipline
+physiologie -[6]-> biologie -[6]-> discipline
+physique -[9]-> chimie -[6]-> discipline
+économie -[6]-> géographie -[6]-> discipline
+chimie -[6]-> physique -[6]-> discipline
+physique -[9]-> Chimie -[6]-> discipline
+économie -[6]-> Géographie -[6]-> discipline
+technologie -[6]-> Linguistique -[6]-> discipline
+technologie -[6]-> linguistique -[6]-> discipline
+vaccin -[6]-> chirurgie -[6]-> médecine
+vaccin -[6]-> soin -[6]-> médecine
+génétique -[6]-> médecine vétérinaire -[6]-> médecine
+physiologie -[6]-> médecine vétérinaire -[6]-> médecine
+vaccin -[6]-> Chirurgie -[6]-> médecine
+sciences -[9]-> psychologie -[6]-> médecine
+psychologie -[6]-> neurologie -[6]-> médecine
+neurophysiologie -[6]-> physiologie -[6]-> médecine
+Economie -[6]-> économie -[6]-> médecine
+anatomie -[9]-> peau -[6]-> biologie
+géologie -[6]-> écologie -[6]-> biologie
+médecine -[9]-> cancérologie -[6]-> biologie
+médecine -[9]-> oncologie -[6]-> biologie
+entomologie -[6]-> zoologie -[6]-> biologie
+physiologie -[6]-> science -[6]-> biologie
+géologie -[6]-> science -[6]-> biologie
+anatomie -[6]-> science -[6]-> biologie
+médecine -[6]-> science -[6]-> biologie
+zootechnie -[6]-> science -[6]-> biologie
+toxicologie -[6]-> science -[6]-> biologie
+paléontologie -[6]-> science -[6]-> biologie
+génétique -[6]-> science -[6]-> biologie
+éthologie -[6]-> science -[6]-> biologie
+entomologie -[6]-> science -[6]-> biologie
+biophysique -[6]-> science -[6]-> biologie
+biochimie -[6]-> science -[6]-> biologie
+physiologie -[6]-> médecine vétérinaire -[6]-> biologie
+génétique -[6]-> médecine vétérinaire -[6]-> biologie
+géologie -[6]-> oecologie -[6]-> biologie
+médecine -[9]-> carcinologie -[6]-> biologie
+enzymologie -[6]-> physiologie -[6]-> biologie
+=enzymology= -[6]-> physiologie -[6]-> biologie
+morphologie -[6]-> géologie -[6]-> biologie
+angiologie -[6]-> anatomie -[6]-> biologie
+ostéologie -[6]-> anatomie -[6]-> biologie
+anatomie humaine -[6]-> anatomie -[6]-> biologie
+histologie -[6]-> anatomie -[6]-> biologie
+histiologie -[6]-> anatomie -[6]-> biologie
+artériographie -[6]-> anatomie -[6]-> biologie
+=arteriography= -[6]-> anatomie -[6]-> biologie
+angiographie -[6]-> anatomie -[6]-> biologie
+angiologie -[6]-> médecine -[6]-> biologie
+myologie -[6]-> médecine -[6]-> biologie
+neurologie -[6]-> médecine -[6]-> biologie
+pharmacognosie -[6]-> médecine -[6]-> biologie
+Chirurgie -[6]-> médecine -[6]-> biologie
+chirurgie -[6]-> médecine -[6]-> biologie
+cancérologie -[6]-> médecine -[6]-> biologie
+oncologie -[6]-> médecine -[6]-> biologie
+étude histologique -[6]-> médecine -[6]-> biologie
+histologie -[6]-> médecine -[6]-> biologie
+cardiologie -[6]-> médecine -[6]-> biologie
+histiologie -[6]-> médecine -[6]-> biologie
+médecine foetale -[6]-> médecine -[6]-> biologie
+phytopathologie -[6]-> médecine -[6]-> biologie
+médecine vétérinaire -[6]-> médecine -[6]-> biologie
+carcinologie -[6]-> médecine -[6]-> biologie
+physiologie -[6]-> médecine -[6]-> biologie
+toxicologie -[6]-> médecine -[6]-> biologie
+génétique -[6]-> médecine -[6]-> biologie
+Anthropométrie -[6]-> médecine -[6]-> biologie
+=toxicologic measurement= -[6]-> médecine -[6]-> biologie
+=anthropometry= -[6]-> médecine -[6]-> biologie
+anthropométrie -[6]-> médecine -[6]-> biologie
+sciences -[9]-> médecine -[6]-> biologie
+paléoanthropologie -[6]-> paléontologie -[6]-> biologie
+biologie des populations -[6]-> génétique -[6]-> biologie
+science -[9]-> génétique -[6]-> biologie
+ADN -[6]-> génétique -[6]-> biologie
+acide désoxyribonucléique -[6]-> génétique -[6]-> biologie
+médecine -[6]-> sciences -[9]-> biologie
+syndrome d'Usher -[6]-> maladie -[17]-> génétique
+gonococcie -[6]-> maladie -[17]-> génétique
+infarctus -[6]-> maladie -[17]-> génétique
+obésité -[17]-> maladie -[17]-> génétique
+obésité -[6]-> maladie -[17]-> génétique
+maladie de peau -[6]-> maladie -[17]-> génétique
+maladie dermatologique -[6]-> maladie -[17]-> génétique
+dermatose -[6]-> maladie -[17]-> génétique
+maladie de la peau -[6]-> maladie -[17]-> génétique
+maladie génétique -[6]-> maladie -[17]-> génétique
+céroïde lipofuscinose neuronale de type infantile tardive -[6]-> maladie -[17]-> génétique
+syndrome d'Aicardi -[6]-> maladie -[17]-> génétique
+céroïde-lipofuscinose infantile -[6]-> maladie -[17]-> génétique
+syndrome de Miller-Dieker -[6]-> maladie -[17]-> génétique
+maladie de Wilson -[6]-> maladie -[17]-> génétique
+syndrome de l'X fragile -[6]-> maladie -[17]-> génétique
+lymphangioléiomyomatose -[6]-> maladie -[17]-> génétique
+LAM -[6]-> maladie -[17]-> génétique
+LAM pulmonaire sporadique -[6]-> maladie -[17]-> génétique
+angiochondromatose -[6]-> maladie -[17]-> génétique
+stéatopygie -[6]-> maladie -[17]-> génétique
+syndrome de Zinsser-Engman-Cole -[6]-> maladie -[17]-> génétique
+rhumatisme psoriasique -[6]-> maladie -[17]-> génétique
+=psoriatic arthritis= -[6]-> maladie -[17]-> génétique
+arthropathie psoriatique -[6]-> maladie -[17]-> génétique
+arthrite psoriatique -[6]-> maladie -[17]-> génétique
+psoriasis arthropathique -[6]-> maladie -[17]-> génétique
+arthrite psoriasique -[6]-> maladie -[17]-> génétique
+=gilbert disease (disorder)= -[6]-> maladie -[17]-> génétique
+ictère héréditaire de gilbert -[6]-> maladie -[17]-> génétique
+hyperbilirubinémie de type indirect bénin -[6]-> maladie -[17]-> génétique
+cholémie familiale congénitale -[6]-> maladie -[17]-> génétique
+cholémie familiale -[6]-> maladie -[17]-> génétique
+anomalie héréditaire -[6]-> maladie -[17]-> génétique
+=genetic disorder= -[6]-> maladie -[17]-> génétique
+=infarction= -[6]-> maladie -[17]-> génétique
+=obesity= -[17]-> maladie -[17]-> génétique
+=obesity= -[6]-> maladie -[17]-> génétique
+affection de la peau -[6]-> maladie -[17]-> génétique
+trouble cutané -[6]-> maladie -[17]-> génétique
+affection cutanée -[6]-> maladie -[17]-> génétique
+=skin disorder= -[6]-> maladie -[17]-> génétique
+syndrome de Gilbert -[6]-> maladie -[17]-> génétique
+maladie héréditaire -[6]-> maladie -[17]-> génétique
+dyskératose congénitale -[6]-> maladie -[17]-> génétique
+biologie -[6]-> science -[9]-> génétique
+acide désoxyribonucléique -[6]-> biologie -[9]-> génétique
+ADN -[6]-> biologie -[9]-> génétique
+biologie des populations -[6]-> biologie -[9]-> génétique
+science -[6]-> biologie -[9]-> génétique
+cosmologie -[6]-> astronomie -[6]-> étude
+géologie -[6]-> astronomie -[6]-> étude
+anatomie -[6]-> biologie -[6]-> étude
+géologie -[6]-> biologie -[6]-> étude
+physique -[9]-> chimie -[6]-> étude
+chimie -[6]-> physique -[6]-> étude
+géologie -[6]-> physique -[6]-> étude
+cosmologie -[6]-> Astronomie -[6]-> étude
+Géologie -[6]-> Astronomie -[6]-> étude
+géologie -[6]-> Astronomie -[6]-> étude
+physique -[9]-> Chimie -[6]-> étude
+logique -[6]-> Linguistique -[6]-> étude
+logique -[6]-> linguistique -[6]-> étude
+sida -[6]-> pathologie infectieuse -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> pathologie infectieuse -[6]-> pathologie
+SIDA -[6]-> pathologie infectieuse -[6]-> pathologie
+sida -[6]-> maladie infectieuse -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> maladie infectieuse -[6]-> pathologie
+SIDA -[6]-> maladie infectieuse -[6]-> pathologie
+sida -[6]-> =infectious disorder= -[6]-> pathologie
+syndrome d'immunodéficience acquise -[6]-> =infectious disorder= -[6]-> pathologie
+SIDA -[6]-> =infectious disorder= -[6]-> pathologie
+biochimie -[6]-> biologie -[6]-> analyte
+toxicologie -[6]-> biologie -[6]-> analyte
+physique quantique -[9]-> physique des particules -[6]-> Physique
+bobine -[6]-> électronique -[6]-> physique
+physique quantique -[9]-> physique des particules -[6]-> physique
+spéléologie -[6]-> géologie -[6]-> physique
+géologie -[6]-> spéléologie -[6]-> physique
+atomique -[6]-> chimie -[6]-> physique
+électronique -[6]-> chimie -[6]-> physique
+phosphore -[6]-> chimie -[6]-> physique
+cage -[6]-> chimie -[6]-> physique
+vanadium -[6]-> chimie -[6]-> physique
+californium -[6]-> chimie -[6]-> physique
+hahnium -[6]-> chimie -[6]-> physique
+protactinium -[6]-> chimie -[6]-> physique
+thermochimie -[6]-> chimie -[6]-> physique
+fermium -[6]-> chimie -[6]-> physique
+berkélium -[6]-> chimie -[6]-> physique
+nobélium -[6]-> chimie -[6]-> physique
+lawrencium -[6]-> chimie -[6]-> physique
+vaccin -[6]-> chimie -[6]-> physique
+=nobelium= -[6]-> chimie -[6]-> physique
+=californium= -[6]-> chimie -[6]-> physique
+=fermium= -[6]-> chimie -[6]-> physique
+=lawrencium= -[6]-> chimie -[6]-> physique
+=niobium= -[6]-> chimie -[6]-> physique
+=protactinium= -[6]-> chimie -[6]-> physique
+=vanadium= -[6]-> chimie -[6]-> physique
+électrochimie -[6]-> chimie -[6]-> physique
+eudiométrie -[6]-> chimie -[6]-> physique
+niobium -[6]-> chimie -[6]-> physique
+science -[6]-> chimie -[6]-> physique
+science -[9]-> chimie -[6]-> physique
+sciences -[9]-> chimie -[6]-> physique
+électronique -[6]-> science -[6]-> physique
+physique des particules -[6]-> science -[6]-> physique
+géologie -[6]-> science -[6]-> physique
+vaccin -[6]-> science -[6]-> physique
+physique des plasmas -[6]-> science -[6]-> physique
+sismologie -[6]-> science -[6]-> physique
+chimie -[6]-> science -[6]-> physique
+éléphant -[17]-> vivant -[6]-> être vivant
+lumière -[17]-> vivant -[6]-> être vivant
+ectoplasme -[17]-> vivant -[6]-> être vivant
+hétérozygote -[17]-> vivant -[6]-> être vivant
+scientifique -[17]-> vivant -[6]-> être vivant
+anthropologue -[17]-> vivant -[6]-> être vivant
+archéologue -[17]-> vivant -[6]-> être vivant
+astronome -[17]-> vivant -[6]-> être vivant
+botaniste -[17]-> vivant -[6]-> être vivant
+biologiste -[17]-> vivant -[6]-> être vivant
+chercheur -[17]-> vivant -[6]-> être vivant
+cryptologue -[17]-> vivant -[6]-> être vivant
+exobiologiste -[17]-> vivant -[6]-> être vivant
+explorateur -[17]-> vivant -[6]-> être vivant
+économiste -[17]-> vivant -[6]-> être vivant
+éthologue -[17]-> vivant -[6]-> être vivant
+ethnologue -[17]-> vivant -[6]-> être vivant
+géologue -[17]-> vivant -[6]-> être vivant
+glaciologue -[17]-> vivant -[6]-> être vivant
+mathématicien -[17]-> vivant -[6]-> être vivant
+météorologue -[17]-> vivant -[6]-> être vivant
+physicien -[17]-> vivant -[6]-> être vivant
+raffineur -[17]-> vivant -[6]-> être vivant
+sismologue -[17]-> vivant -[6]-> être vivant
+sociologue -[17]-> vivant -[6]-> être vivant
+statisticien -[17]-> vivant -[6]-> être vivant
+symbolique -[17]-> vivant -[6]-> être vivant
+André-Marie Ampère -[17]-> vivant -[6]-> être vivant
+Augustin Louis Cauchy -[17]-> vivant -[6]-> être vivant
+Alonzo Church -[17]-> vivant -[6]-> être vivant
+Francis Crick -[17]-> vivant -[6]-> être vivant
+Joseph Fourier -[17]-> vivant -[6]-> être vivant
+Louis Lumière -[17]-> vivant -[6]-> être vivant
+Pierre-Simon Laplace -[17]-> vivant -[6]-> être vivant
+Mathieu Lafourcade -[17]-> vivant -[6]-> être vivant
+bacille -[17]-> vivant -[6]-> être vivant
+Boris Cyrulnik -[17]-> vivant -[6]-> être vivant
+Haemophilus influenzae -[17]-> vivant -[6]-> être vivant
+inventeur -[17]-> vivant -[6]-> être vivant
+transformateur -[17]-> vivant -[6]-> être vivant
+pile électrique -[17]-> vivant -[6]-> être vivant
+moteur -[17]-> vivant -[6]-> être vivant
+laser -[17]-> vivant -[6]-> être vivant
+interrupteur -[17]-> vivant -[6]-> être vivant
+convertisseur -[17]-> vivant -[6]-> être vivant
+Wilhelm Röntgen -[17]-> vivant -[6]-> être vivant
+Bernhard Riemann -[17]-> vivant -[6]-> être vivant
+Julius Plücker -[17]-> vivant -[6]-> être vivant
+Marin Mersenne -[17]-> vivant -[6]-> être vivant
+Archimède -[6]-> scientifique -[6]-> être vivant
+astronome -[6]-> scientifique -[6]-> être vivant
+botaniste -[6]-> scientifique -[6]-> être vivant
+météorologue -[6]-> scientifique -[6]-> être vivant
+physicien -[6]-> scientifique -[6]-> être vivant
+sociologue -[6]-> scientifique -[6]-> être vivant
+André-Marie Ampère -[6]-> scientifique -[6]-> être vivant
+André Vésale -[6]-> scientifique -[6]-> être vivant
+Svante August Arrhenius -[6]-> scientifique -[6]-> être vivant
+Averroès -[6]-> scientifique -[6]-> être vivant
+Avicenne -[6]-> scientifique -[6]-> être vivant
+Amedeo Avogadro -[6]-> scientifique -[6]-> être vivant
+Charles Babbage -[6]-> scientifique -[6]-> être vivant
+John Logie Baird -[6]-> scientifique -[6]-> être vivant
+Christiaan Barnard -[6]-> scientifique -[6]-> être vivant
+Alexander Graham Bell -[6]-> scientifique -[6]-> être vivant
+Carl Benz -[6]-> scientifique -[6]-> être vivant
+Jacques Bernoulli -[6]-> scientifique -[6]-> être vivant
+Jean Bernoulli -[6]-> scientifique -[6]-> être vivant
+Daniel Bernoulli -[6]-> scientifique -[6]-> être vivant
+Alphonse Bertillon -[6]-> scientifique -[6]-> être vivant
+Joseph Black -[6]-> scientifique -[6]-> être vivant
+Robert Boyle -[6]-> scientifique -[6]-> être vivant
+Louis Braille -[6]-> scientifique -[6]-> être vivant
+Édouard Branly -[6]-> scientifique -[6]-> être vivant
+Auguste Bravais -[6]-> scientifique -[6]-> être vivant
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> être vivant
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> être vivant
+Henry Cavendish -[6]-> scientifique -[6]-> être vivant
+Georges Charpak -[6]-> scientifique -[6]-> être vivant
+Erwin Chargaff -[6]-> scientifique -[6]-> être vivant
+Yves Chauvin -[6]-> scientifique -[6]-> être vivant
+Alonzo Church -[6]-> scientifique -[6]-> être vivant
+Nicolas Copernic -[6]-> scientifique -[6]-> être vivant
+Jacques-Yves Cousteau -[6]-> scientifique -[6]-> être vivant
+Francis Crick -[6]-> scientifique -[6]-> être vivant
+Marie Curie -[6]-> scientifique -[6]-> être vivant
+John Dalton -[6]-> scientifique -[6]-> être vivant
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> être vivant
+John Boyd Dunlop -[6]-> scientifique -[6]-> être vivant
+George Eastman -[6]-> scientifique -[6]-> être vivant
+Thomas Alva Edison -[6]-> scientifique -[6]-> être vivant
+Albert Einstein -[6]-> scientifique -[6]-> être vivant
+Euclide -[6]-> scientifique -[6]-> être vivant
+Leonhard Euler -[6]-> scientifique -[6]-> être vivant
+Oronce Fine -[6]-> scientifique -[6]-> être vivant
+Alexander Fleming -[6]-> scientifique -[6]-> être vivant
+Jean Bernard Léon Foucault -[6]-> scientifique -[6]-> être vivant
+Joseph Fourier -[6]-> scientifique -[6]-> être vivant
+Benjamin Franklin -[6]-> scientifique -[6]-> être vivant
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> être vivant
+Galilée -[6]-> scientifique -[6]-> être vivant
+Évariste Galois -[6]-> scientifique -[6]-> être vivant
+Luigi Galvani -[6]-> scientifique -[6]-> être vivant
+Louis Joseph Gay-Lussac -[6]-> scientifique -[6]-> être vivant
+Kurt Gödel -[6]-> scientifique -[6]-> être vivant
+Stephen Jay Gould -[6]-> scientifique -[6]-> être vivant
+Fritz Haber -[6]-> scientifique -[6]-> être vivant
+Joseph Henry -[6]-> scientifique -[6]-> être vivant
+William Herschel -[6]-> scientifique -[6]-> être vivant
+Heinrich Rudolf Hertz -[6]-> scientifique -[6]-> être vivant
+David Hilbert -[6]-> scientifique -[6]-> être vivant
+Christiaan Huygens -[6]-> scientifique -[6]-> être vivant
+Albert Jacquard -[6]-> scientifique -[6]-> être vivant
+Irène Joliot-Curie -[6]-> scientifique -[6]-> être vivant
+James Prescott Joule -[6]-> scientifique -[6]-> être vivant
+Johannes Kepler -[6]-> scientifique -[6]-> être vivant
+Stephen Cole Kleene -[6]-> scientifique -[6]-> être vivant
+Karl Landsteiner -[6]-> scientifique -[6]-> être vivant
+César Lattes -[6]-> scientifique -[6]-> être vivant
+Adrien-Marie Legendre -[6]-> scientifique -[6]-> être vivant
+Carl von Linné -[6]-> scientifique -[6]-> être vivant
+Joseph Lister -[6]-> scientifique -[6]-> être vivant
+Auguste Lumière -[6]-> scientifique -[6]-> être vivant
+Louis Lumière -[6]-> scientifique -[6]-> être vivant
+Pierre-Simon Laplace -[6]-> scientifique -[6]-> être vivant
+Ernst Mach -[6]-> scientifique -[6]-> être vivant
+Marcello Malpighi -[6]-> scientifique -[6]-> être vivant
+Guglielmo Marconi -[6]-> scientifique -[6]-> être vivant
+Ernst Mayr -[6]-> scientifique -[6]-> être vivant
+Dmitri Mendeleïev -[6]-> scientifique -[6]-> être vivant
+Alan Turing -[6]-> scientifique -[6]-> être vivant
+Friedrich Wöhler -[6]-> scientifique -[6]-> être vivant
+Karl Weierstrass -[6]-> scientifique -[6]-> être vivant
+James Watt -[6]-> scientifique -[6]-> être vivant
+Alessandro Volta -[6]-> scientifique -[6]-> être vivant
+Paul-Émile Victor -[6]-> scientifique -[6]-> être vivant
+Alan Mathison Turing -[6]-> scientifique -[6]-> être vivant
+Evangelista Torricelli -[6]-> scientifique -[6]-> être vivant
+Nikola Tesla -[6]-> scientifique -[6]-> être vivant
+William Henry Fox Talbot -[6]-> scientifique -[6]-> être vivant
+George Stephenson -[6]-> scientifique -[6]-> être vivant
+Laurent Schwartz -[6]-> scientifique -[6]-> être vivant
+Paul Schützenberger -[6]-> scientifique -[6]-> être vivant
+Erwin Schrödinger -[6]-> scientifique -[6]-> être vivant
+Henri Sainte-Claire Deville -[6]-> scientifique -[6]-> être vivant
+Edward Sabine -[6]-> scientifique -[6]-> être vivant
+Bertrand Russell -[6]-> scientifique -[6]-> être vivant
+Wilhelm Röntgen -[6]-> scientifique -[6]-> être vivant
+Bernhard Riemann -[6]-> scientifique -[6]-> être vivant
+Pythagore -[6]-> scientifique -[6]-> être vivant
+Ptolémée -[6]-> scientifique -[6]-> être vivant
+Joseph Priestley -[6]-> scientifique -[6]-> être vivant
+Henri Poincaré -[6]-> scientifique -[6]-> être vivant
+Julius Plücker -[6]-> scientifique -[6]-> être vivant
+Max Planck -[6]-> scientifique -[6]-> être vivant
+Ivan Petrovitch Pavlov -[6]-> scientifique -[6]-> être vivant
+Louis Pasteur -[6]-> scientifique -[6]-> être vivant
+Blaise Pascal -[6]-> scientifique -[6]-> être vivant
+Georg Simon Ohm -[6]-> scientifique -[6]-> être vivant
+Isaac Newton -[6]-> scientifique -[6]-> être vivant
+James Nasmyth -[6]-> scientifique -[6]-> être vivant
+Théodore Monod -[6]-> scientifique -[6]-> être vivant
+Hermann Minkowski -[6]-> scientifique -[6]-> être vivant
+Albert Abraham Michelson -[6]-> scientifique -[6]-> être vivant
+Marin Mersenne -[6]-> scientifique -[6]-> être vivant
+Ottmar Mergenthaler -[6]-> scientifique -[6]-> être vivant
+Auguste Bravais -[6]-> astronome -[6]-> être vivant
+Nicolas Copernic -[6]-> astronome -[6]-> être vivant
+Galilée -[6]-> astronome -[6]-> être vivant
+William Herschel -[6]-> astronome -[6]-> être vivant
+Johannes Kepler -[6]-> astronome -[6]-> être vivant
+Edward Sabine -[6]-> astronome -[6]-> être vivant
+Ptolémée -[6]-> astronome -[6]-> être vivant
+Theodosius Dobzhansky -[6]-> biologiste -[6]-> être vivant
+Albert Jacquard -[6]-> biologiste -[6]-> être vivant
+Karl Landsteiner -[6]-> biologiste -[6]-> être vivant
+Louis Pasteur -[6]-> biologiste -[6]-> être vivant
+archéologue -[6]-> chercheur -[6]-> être vivant
+biologiste -[6]-> chercheur -[6]-> être vivant
+ethnologue -[6]-> chercheur -[6]-> être vivant
+géologue -[6]-> chercheur -[6]-> être vivant
+physicien -[6]-> chercheur -[6]-> être vivant
+sociologue -[6]-> chercheur -[6]-> être vivant
+Albert Jacquard -[6]-> chercheur -[6]-> être vivant
+Mathieu Lafourcade -[6]-> chercheur -[6]-> être vivant
+Mathieu Lafourcade -[17]-> chercheur -[6]-> être vivant
+Alan Turing -[6]-> cryptologue -[6]-> être vivant
+Alan Mathison Turing -[6]-> cryptologue -[6]-> être vivant
+Jacques-Yves Cousteau -[6]-> explorateur -[6]-> être vivant
+Paul-Émile Victor -[6]-> explorateur -[6]-> être vivant
+Théodore Monod -[6]-> explorateur -[6]-> être vivant
+Archimède -[6]-> mathématicien -[6]-> être vivant
+André-Marie Ampère -[6]-> mathématicien -[6]-> être vivant
+Charles Babbage -[6]-> mathématicien -[6]-> être vivant
+Jacques Bernoulli -[6]-> mathématicien -[6]-> être vivant
+Jean Bernoulli -[6]-> mathématicien -[6]-> être vivant
+Augustin Louis Cauchy -[6]-> mathématicien -[6]-> être vivant
+Alonzo Church -[6]-> mathématicien -[6]-> être vivant
+Euclide -[6]-> mathématicien -[6]-> être vivant
+Leonhard Euler -[6]-> mathématicien -[6]-> être vivant
+Oronce Fine -[6]-> mathématicien -[6]-> être vivant
+Galilée -[6]-> mathématicien -[6]-> être vivant
+Évariste Galois -[6]-> mathématicien -[6]-> être vivant
+Kurt Gödel -[6]-> mathématicien -[6]-> être vivant
+David Hilbert -[6]-> mathématicien -[6]-> être vivant
+Christiaan Huygens -[6]-> mathématicien -[6]-> être vivant
+Stephen Cole Kleene -[6]-> mathématicien -[6]-> être vivant
+Pierre-Simon Laplace -[6]-> mathématicien -[6]-> être vivant
+Alan Turing -[6]-> mathématicien -[6]-> être vivant
+Alan Mathison Turing -[6]-> mathématicien -[6]-> être vivant
+Bernhard Riemann -[6]-> mathématicien -[6]-> être vivant
+Pythagore -[6]-> mathématicien -[6]-> être vivant
+Henri Poincaré -[6]-> mathématicien -[6]-> être vivant
+Julius Plücker -[6]-> mathématicien -[6]-> être vivant
+Blaise Pascal -[6]-> mathématicien -[6]-> être vivant
+Isaac Newton -[6]-> mathématicien -[6]-> être vivant
+Hermann Minkowski -[6]-> mathématicien -[6]-> être vivant
+Amedeo Avogadro -[6]-> physicien -[6]-> être vivant
+Robert Boyle -[6]-> physicien -[6]-> être vivant
+Édouard Branly -[6]-> physicien -[6]-> être vivant
+Henry Cavendish -[6]-> physicien -[6]-> être vivant
+Georges Charpak -[6]-> physicien -[6]-> être vivant
+Albert Einstein -[6]-> physicien -[6]-> être vivant
+Leonhard Euler -[6]-> physicien -[6]-> être vivant
+Jean Bernard Léon Foucault -[6]-> physicien -[6]-> être vivant
+Galilée -[6]-> physicien -[6]-> être vivant
+Luigi Galvani -[6]-> physicien -[6]-> être vivant
+Louis Joseph Gay-Lussac -[6]-> physicien -[6]-> être vivant
+Joseph Henry -[6]-> physicien -[6]-> être vivant
+Christiaan Huygens -[6]-> physicien -[6]-> être vivant
+James Prescott Joule -[6]-> physicien -[6]-> être vivant
+Ernst Mach -[6]-> physicien -[6]-> être vivant
+Guglielmo Marconi -[6]-> physicien -[6]-> être vivant
+scanner -[6]-> physicien -[6]-> être vivant
+Alessandro Volta -[6]-> physicien -[6]-> être vivant
+Evangelista Torricelli -[6]-> physicien -[6]-> être vivant
+Erwin Schrödinger -[6]-> physicien -[6]-> être vivant
+Wilhelm Röntgen -[6]-> physicien -[6]-> être vivant
+Max Planck -[6]-> physicien -[6]-> être vivant
+Georg Simon Ohm -[6]-> physicien -[6]-> être vivant
+Isaac Newton -[6]-> physicien -[6]-> être vivant
+Albert Abraham Michelson -[6]-> physicien -[6]-> être vivant
+scientifique -[6]-> inventeur -[6]-> être vivant
+Carl Benz -[6]-> inventeur -[6]-> être vivant
+Louis Braille -[6]-> inventeur -[6]-> être vivant
+Édouard Branly -[6]-> inventeur -[6]-> être vivant
+John Boyd Dunlop -[6]-> inventeur -[6]-> être vivant
+George Eastman -[6]-> inventeur -[6]-> être vivant
+Thomas Alva Edison -[6]-> inventeur -[6]-> être vivant
+Oronce Fine -[6]-> inventeur -[6]-> être vivant
+Benjamin Franklin -[6]-> inventeur -[6]-> être vivant
+Nikola Tesla -[6]-> inventeur -[6]-> être vivant
+George Stephenson -[6]-> inventeur -[6]-> être vivant
+Ottmar Mergenthaler -[6]-> inventeur -[6]-> être vivant
+ordinateur -[9]-> scanner -[6]-> être vivant
+sida -[6]-> maladie -[6]-> processus pathologique
+SIDA -[6]-> maladie -[6]-> processus pathologique
+syndrome d'immunodéficience acquise -[6]-> maladie -[6]-> processus pathologique
+IA -[6]-> maladie -[6]-> processus pathologique
+sida -[6]-> épidémie -[6]-> maladie
+SIDA -[6]-> épidémie -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> épidémie -[6]-> maladie
+sida -[6]-> maladie vénérienne -[6]-> maladie
+SIDA -[6]-> maladie vénérienne -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie vénérienne -[6]-> maladie
+sida -[6]-> maladie sexuellement transmissible -[6]-> maladie
+SIDA -[6]-> maladie sexuellement transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie sexuellement transmissible -[6]-> maladie
+sida -[6]-> VIH -[6]-> maladie
+sida -[6]-> MST -[6]-> maladie
+SIDA -[6]-> MST -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> MST -[6]-> maladie
+sida -[6]-> maladie chronique -[6]-> maladie
+SIDA -[6]-> maladie chronique -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie chronique -[6]-> maladie
+sida -[6]-> maladie contagieuse -[6]-> maladie
+SIDA -[6]-> maladie contagieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie contagieuse -[6]-> maladie
+sida -[6]-> maladie grave -[6]-> maladie
+SIDA -[6]-> maladie grave -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie grave -[6]-> maladie
+sida -[6]-> maladie infectieuse -[6]-> maladie
+SIDA -[6]-> maladie infectieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie infectieuse -[6]-> maladie
+sida -[6]-> maladie mortelle -[6]-> maladie
+SIDA -[6]-> maladie mortelle -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie mortelle -[6]-> maladie
+sida -[6]-> maladie virale -[6]-> maladie
+SIDA -[6]-> maladie virale -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie virale -[6]-> maladie
+IA -[6]-> maladie cardio-vasculaire -[6]-> maladie
+sida -[6]-> maladie émergente -[6]-> maladie
+SIDA -[6]-> maladie émergente -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie émergente -[6]-> maladie
+sida -[6]-> infection -[6]-> maladie
+SIDA -[6]-> infection -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> infection -[6]-> maladie
+sida -[6]-> syndrome -[6]-> maladie
+SIDA -[6]-> syndrome -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> syndrome -[6]-> maladie
+IA -[6]-> insuffisance cardiaque -[6]-> maladie
+sida -[6]-> mst -[6]-> maladie
+SIDA -[6]-> mst -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> mst -[6]-> maladie
+sida -[6]-> maladie transmissible -[6]-> maladie
+SIDA -[6]-> maladie transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie transmissible -[6]-> maladie
+IA -[6]-> maladie cardiaque -[6]-> maladie
+sida -[6]-> MTS -[6]-> maladie
+SIDA -[6]-> MTS -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> MTS -[6]-> maladie
+sida -[6]-> maladie transmissible sexuellement -[6]-> maladie
+SIDA -[6]-> maladie transmissible sexuellement -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> maladie transmissible sexuellement -[6]-> maladie
+sida -[6]-> mts -[6]-> maladie
+SIDA -[6]-> mts -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> mts -[6]-> maladie
+IA -[6]-> maladie valvulaire -[6]-> maladie
+IA -[6]-> maladie valvulaire cardiaque -[6]-> maladie
+sida -[6]-> virus de l'immunodéficience humaine -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> virus de l'immunodéficience humaine -[6]-> maladie
+IA -[6]-> valvulopathie -[6]-> maladie
+sida -[6]-> virose -[6]-> maladie
+SIDA -[6]-> virose -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> virose -[6]-> maladie
+SIDA -[6]-> infection à virus lents -[6]-> maladie
+SIDA -[6]-> infection à virus à ARN -[6]-> maladie
+sida -[6]-> infection sexuellement transmissible -[6]-> maladie
+SIDA -[6]-> infection sexuellement transmissible -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> infection sexuellement transmissible -[6]-> maladie
+sida -[6]-> grave maladie -[6]-> maladie
+SIDA -[6]-> grave maladie -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> grave maladie -[6]-> maladie
+sida -[6]-> IST -[6]-> maladie
+SIDA -[6]-> IST -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> IST -[6]-> maladie
+IA -[6]-> valvulopathie cardiaque -[6]-> maladie
+sida -[6]-> =infectious disorder= -[6]-> maladie
+SIDA -[6]-> =infectious disorder= -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> =infectious disorder= -[6]-> maladie
+sida -[6]-> pathologie infectieuse -[6]-> maladie
+SIDA -[6]-> pathologie infectieuse -[6]-> maladie
+syndrome d'immunodéficience acquise -[6]-> pathologie infectieuse -[6]-> maladie
+cardiopathie -[9]-> IA -[6]-> maladie
+trouble cardiaque -[9]-> IA -[6]-> maladie
+maladie cardiaque -[9]-> IA -[6]-> maladie
+maladie cardiaque non précisée -[9]-> IA -[6]-> maladie
+maladie du coeur -[9]-> IA -[6]-> maladie
+=heart disorder= -[9]-> IA -[6]-> maladie
+affection cardiaque -[9]-> IA -[6]-> maladie
+=heart diseases= -[9]-> IA -[6]-> maladie
+affections cardiaques -[9]-> IA -[6]-> maladie
+cardiopathies -[9]-> IA -[6]-> maladie
+anomalie cardiaque -[9]-> IA -[6]-> maladie
+maladies cardiaques -[9]-> IA -[6]-> maladie
+maladies du coeur -[9]-> IA -[6]-> maladie
+anomalie du coeur -[9]-> IA -[6]-> maladie
+malformation cardiaque -[9]-> IA -[6]-> maladie
+=heart malformation= -[9]-> IA -[6]-> maladie
+=card= -[9]-> IA -[6]-> maladie
+pathologie du coeur -[9]-> IA -[6]-> maladie
+section 3-1 maladies cardiaques -[9]-> IA -[6]-> maladie
+card -[9]-> IA -[6]-> maladie
+archéologie -[6]-> minéralogie -[6]-> Géologie
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> Géologie
+pétrologie cristalline -[6]-> pétrologie -[6]-> Géologie
+sédimentologie -[6]-> pétrologie -[6]-> Géologie
+pétrologie magmatique -[6]-> pétrologie -[6]-> Géologie
+pétrologie métamorphique -[6]-> pétrologie -[6]-> Géologie
+pétrologie sédimentaire -[6]-> géoscience -[9]-> Géologie
+pétrologie -[6]-> géoscience -[9]-> Géologie
+pétrologie cristalline -[6]-> géoscience -[9]-> Géologie
+sédimentologie -[6]-> géoscience -[9]-> Géologie
+pétrologie magmatique -[6]-> géoscience -[9]-> Géologie
+pétrologie métamorphique -[6]-> géoscience -[9]-> Géologie
+pétrologie sédimentaire -[6]-> pétrologie -[6]-> géologie
+pétrologie cristalline -[6]-> pétrologie -[6]-> géologie
+pétrologie magmatique -[6]-> pétrologie -[6]-> géologie
+pétrologie métamorphique -[6]-> pétrologie -[6]-> géologie
+archéologie -[6]-> minéralogie -[6]-> géologie
+pétrologie sédimentaire -[6]-> géoscience -[9]-> géologie
+pétrologie -[6]-> géoscience -[9]-> géologie
+pétrologie cristalline -[6]-> géoscience -[9]-> géologie
+pétrologie magmatique -[6]-> géoscience -[9]-> géologie
+pétrologie métamorphique -[6]-> géoscience -[9]-> géologie
+arithmétique -[17]-> géométrie -[6]-> Mathématiques
+analyse -[6]-> logique -[6]-> Mathématiques
+économie clandestine -[6]-> Economie -[6]-> économie
+macroéconomie -[6]-> Economie -[6]-> économie
+macro-économie -[6]-> Economie -[6]-> économie
+économie keynésienne -[6]-> Economie -[6]-> économie
+géopolitique -[6]-> Economie -[6]-> économie
+éléphant -[17]-> vivant -[6]-> être animé
+lumière -[17]-> vivant -[6]-> être animé
+ectoplasme -[17]-> vivant -[6]-> être animé
+hétérozygote -[17]-> vivant -[6]-> être animé
+scientifique -[17]-> vivant -[6]-> être animé
+anthropologue -[17]-> vivant -[6]-> être animé
+archéologue -[17]-> vivant -[6]-> être animé
+astronome -[17]-> vivant -[6]-> être animé
+botaniste -[17]-> vivant -[6]-> être animé
+biologiste -[17]-> vivant -[6]-> être animé
+chercheur -[17]-> vivant -[6]-> être animé
+cryptologue -[17]-> vivant -[6]-> être animé
+exobiologiste -[17]-> vivant -[6]-> être animé
+explorateur -[17]-> vivant -[6]-> être animé
+économiste -[17]-> vivant -[6]-> être animé
+éthologue -[17]-> vivant -[6]-> être animé
+ethnologue -[17]-> vivant -[6]-> être animé
+géologue -[17]-> vivant -[6]-> être animé
+glaciologue -[17]-> vivant -[6]-> être animé
+météorologue -[17]-> vivant -[6]-> être animé
+physicien -[17]-> vivant -[6]-> être animé
+raffineur -[17]-> vivant -[6]-> être animé
+sismologue -[17]-> vivant -[6]-> être animé
+sociologue -[17]-> vivant -[6]-> être animé
+statisticien -[17]-> vivant -[6]-> être animé
+symbolique -[17]-> vivant -[6]-> être animé
+Augustin Louis Cauchy -[17]-> vivant -[6]-> être animé
+Francis Crick -[17]-> vivant -[6]-> être animé
+Joseph Fourier -[17]-> vivant -[6]-> être animé
+Louis Lumière -[17]-> vivant -[6]-> être animé
+Pierre-Simon Laplace -[17]-> vivant -[6]-> être animé
+Mathieu Lafourcade -[17]-> vivant -[6]-> être animé
+bacille -[17]-> vivant -[6]-> être animé
+Boris Cyrulnik -[17]-> vivant -[6]-> être animé
+inventeur -[17]-> vivant -[6]-> être animé
+transformateur -[17]-> vivant -[6]-> être animé
+pile électrique -[17]-> vivant -[6]-> être animé
+moteur -[17]-> vivant -[6]-> être animé
+interrupteur -[17]-> vivant -[6]-> être animé
+convertisseur -[17]-> vivant -[6]-> être animé
+Christopher Latham Sholes -[17]-> vivant -[6]-> être animé
+Wilhelm Röntgen -[17]-> vivant -[6]-> être animé
+Wilhelm Ostwald -[17]-> vivant -[6]-> être animé
+Marin Mersenne -[17]-> vivant -[6]-> être animé
+Archimède -[6]-> scientifique -[6]-> être animé
+astronome -[6]-> scientifique -[6]-> être animé
+botaniste -[6]-> scientifique -[6]-> être animé
+météorologue -[6]-> scientifique -[6]-> être animé
+physicien -[6]-> scientifique -[6]-> être animé
+sociologue -[6]-> scientifique -[6]-> être animé
+André Vésale -[6]-> scientifique -[6]-> être animé
+Svante August Arrhenius -[6]-> scientifique -[6]-> être animé
+Averroès -[6]-> scientifique -[6]-> être animé
+Avicenne -[6]-> scientifique -[6]-> être animé
+Amedeo Avogadro -[6]-> scientifique -[6]-> être animé
+Charles Babbage -[6]-> scientifique -[6]-> être animé
+John Logie Baird -[6]-> scientifique -[6]-> être animé
+Christiaan Barnard -[6]-> scientifique -[6]-> être animé
+Alexander Graham Bell -[6]-> scientifique -[6]-> être animé
+Carl Benz -[6]-> scientifique -[6]-> être animé
+Jacques Bernoulli -[6]-> scientifique -[6]-> être animé
+Jean Bernoulli -[6]-> scientifique -[6]-> être animé
+Daniel Bernoulli -[6]-> scientifique -[6]-> être animé
+Alphonse Bertillon -[6]-> scientifique -[6]-> être animé
+Joseph Black -[6]-> scientifique -[6]-> être animé
+Robert Boyle -[6]-> scientifique -[6]-> être animé
+Louis Braille -[6]-> scientifique -[6]-> être animé
+Édouard Branly -[6]-> scientifique -[6]-> être animé
+Wernher von Braun -[6]-> scientifique -[6]-> être animé
+Auguste Bravais -[6]-> scientifique -[6]-> être animé
+Isambard Kingdom Brunel -[6]-> scientifique -[6]-> être animé
+Augustin Louis Cauchy -[6]-> scientifique -[6]-> être animé
+Henry Cavendish -[6]-> scientifique -[6]-> être animé
+Georges Charpak -[6]-> scientifique -[6]-> être animé
+Erwin Chargaff -[6]-> scientifique -[6]-> être animé
+Yves Chauvin -[6]-> scientifique -[6]-> être animé
+Nicolas Copernic -[6]-> scientifique -[6]-> être animé
+Jacques-Yves Cousteau -[6]-> scientifique -[6]-> être animé
+Francis Crick -[6]-> scientifique -[6]-> être animé
+William Crookes -[6]-> scientifique -[6]-> être animé
+Marie Curie -[6]-> scientifique -[6]-> être animé
+John Dalton -[6]-> scientifique -[6]-> être animé
+Theodosius Dobzhansky -[6]-> scientifique -[6]-> être animé
+John Boyd Dunlop -[6]-> scientifique -[6]-> être animé
+George Eastman -[6]-> scientifique -[6]-> être animé
+Thomas Alva Edison -[6]-> scientifique -[6]-> être animé
+Albert Einstein -[6]-> scientifique -[6]-> être animé
+Euclide -[6]-> scientifique -[6]-> être animé
+Leonhard Euler -[6]-> scientifique -[6]-> être animé
+Oronce Fine -[6]-> scientifique -[6]-> être animé
+Alexander Fleming -[6]-> scientifique -[6]-> être animé
+Jean Bernard Léon Foucault -[6]-> scientifique -[6]-> être animé
+Joseph Fourier -[6]-> scientifique -[6]-> être animé
+Benjamin Franklin -[6]-> scientifique -[6]-> être animé
+Joseph von Fraunhofer -[6]-> scientifique -[6]-> être animé
+Galilée -[6]-> scientifique -[6]-> être animé
+Évariste Galois -[6]-> scientifique -[6]-> être animé

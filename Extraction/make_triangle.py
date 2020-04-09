@@ -20,7 +20,6 @@ uri = "bolt://localhost:7687"
 graph = Graph(uri, auth=(user, password)) 
 
 
-
 #ouvrir un fichier res pour écrire
 if(len(sys.argv) > 1) : 
     f = open('Res/' + sys.argv[1] + ".txt", "w", encoding="utf-8")
@@ -28,14 +27,13 @@ else :
     f = open('Res/res.txt', "w", encoding="utf-8")
 
 #gestion du temps
-time_start = datetime.now().strftime("%H:%M:%S")
+#time_start = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 
 if(len(sys.argv) > 1) : 
     req = "MATCH (a:Mot)-[r1:`" + relation + "`]->(b:Mot)-[r2:`" + relation + "`]->(c:Mot)<-[r3:`" + relation + "`]-(a:Mot) WHERE r1.poids > 0 AND r2.poids > 0  AND r3.poids > 0 AND type(r1) > 0 AND type(r2) > 0 AND type(r3) > 0 return a, b, c LIMIT 300;"
 else :
-    req = "MATCH p=(a:Mot)-[r1]->(b:Mot)-[r2]->(c:Mot)<-[r3]-(a:Mot) WHERE  r1.poids > 0 AND r2.poids > 0  AND r3.poids > 0 AND type(r1) <> '0' AND type(r2) <> '0' AND type(r3) <> '0' return p, a, b, c, type(r1), type(r2), type(r3)  LIMIT 1000;"
-#req = "MATCH p=(a:Mot)-[:isA]->(b:Mot)-[:isA]->(c:Mot)<-[:isA]-(a:Mot)  return a, b, c SKIP " + str(random.randint(1,100)) + " LIMIT 300;"
-#req = "MATCH p=(a:Mot)-[:isA]->(b:Mot)-[:isA]->(c:Mot)<-[:isA]-(a:Mot) return a, b, c SKIP 100 LIMIT 1;"
+    req = "MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE r1.poids > 0 AND r2.poids > 0  AND r3.poids > 0 return p, a, b, c, type(r1), type(r2), type(r3)  LIMIT 1000;"
+
 results = graph.run(req).data()
 
 myRes = ""
@@ -57,7 +55,7 @@ for i in range (0, len(results)) :
     f.write(myRes+"\n")#ecrire dans le fichier
     
 #gestion du temps
-time_end = datetime.now().strftime("%H:%M:%S")
+#time_end = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 
-print("Début : " + time_start)
-print("Fin : " + time_end)
+#print("Début : " + time_start)
+#print("Fin : " + time_end)

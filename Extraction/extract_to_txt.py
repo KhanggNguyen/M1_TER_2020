@@ -7,7 +7,7 @@ if( len(sys.argv) != 2) :
     exit()
 
 fichier = open('Data/' + sys.argv[1] + ".txt", encoding="latin1")
-f_relation = open('NewData/' + sys.argv[1] + ".txt", "w", encoding="latin1")
+f_relation = open('NewData/' + sys.argv[1] + ".txt", "w", encoding="UTF-8")
 f_mots = open('NewData/NEW_terme_by_domain.txt', encoding="latin1")
 
 #on ne prend pas les relations qui contiennent un sous-relation. par ex : manger>123456

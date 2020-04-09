@@ -26,7 +26,7 @@ id_counter = int(results[0]['COUNT(n)'])
 counter = 1
 
 #gestion du temps
-time_start = datetime.now().strftime("%H:%M:%S")
+time_start = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 
 fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
 lines = fichier_relation.readlines()
@@ -56,7 +56,7 @@ for relation in reversed(lines) : #run in reversed
     graph.merge(relation(myNodeA, myNodeB, typeR = int(sys.argv[2]), poids = int(array_of_line[2])), "Mot", "label")
 
 #gestion du temps
-time_end = datetime.now().strftime("%H:%M:%S")
+time_end = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 
 print("Début : " + time_start)
 print("Fin : " + time_end)

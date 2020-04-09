@@ -1,0 +1,456 @@
+étudier,biologie,70
+tromper,éléphant,51
+chasser,éléphant,60
+observer,éléphant,30
+éliminer,calcaire,60
+allumer,lumière,90
+réfléchir,lumière,60
+éteindre,lumière,107
+tamiser,lumière,30
+frotter,lumière,5
+décomposer,lumière,30
+distordre,lumière,5
+allumer,téléphone,55
+sonner,téléphone,52
+brancher,téléphone,56
+appeler,téléphone,57
+recharger,téléphone,60
+emprunter,téléphone,5
+voler,téléphone,30
+tripoter,téléphone,53
+regarder,téléphone,49
+mettre en charge,téléphone,31
+stimuler,recherche,30
+creuser,recherche,30
+poursuivre,recherche,30
+étudier,physique,110
+étudier,chimie,60
+étudier,français,160
+étudier,sciences,90
+étudier,mathématiques,120
+étudier,biologie,70
+étudier,littérature,60
+étudier,matière,60
+étudier,géographie,52
+étudier,histoire,59
+étudier,livre,90
+étudier,cours,80
+étudier,anglais,70
+étudier,langue,58
+étudier,langues,60
+étudier,science,54
+étudier,discipline,60
+étudier,leçon,60
+étudier,problème,52
+étudier,dossier,55
+étudier,ver rond,30
+étudier,explosion radiative,30
+étudier,radiation adaptative,30
+étudier,radiation évolutive,30
+étudier,téléostomien,30
+étudier,téléostome,30
+étudier,chéiroptère,30
+étudier,ostéïchtyen,30
+étudier,micro-organisme,30
+étudier,poisson osseux,30
+étudier,point chaud du globe,30
+étudier,hotspot,30
+étudier,hot spot,30
+étudier,point chaud,30
+étudier,télomère,30
+étudier,troubles des comportements alimentaires,30
+étudier,troubles de comportement alimentaire,30
+étudier,tca,30
+étudier,troubles des conduites alimentaires,30
+étudier,troubles du comportement alimentaire,30
+étudier,trouble alimentaire,30
+étudier,trouble de l'alimentation,30
+étudier,trouble du comportement alimentaire,30
+étudier,virion,30
+étudier,particule virale,30
+étudier,digène,30
+étudier,monopisthocotylea,30
+étudier,polyopisthocotylea,30
+étudier,Cnidaria,30
+étudier,Myrmica rubra,30
+étudier,taenia,30
+étudier,ankylostome,30
+étudier,uniconte,30
+étudier,espèce végétale,30
+étudier,plante verte,30
+étudier,organisme parasite,30
+étudier,animal parasite,30
+étudier,parasitofaune,30
+étudier,poisson,30
+étudier,Yakoutsk,30
+étudier,diplozoon,30
+étudier,Diplozoon,30
+étudier,céphalochordé,30
+étudier,céphalochordés,30
+étudier,Céphalocordés,30
+étudier,Céphalochordés,30
+étudier,céphalocordés,30
+étudier,céphalocordé,30
+étudier,pollinisateur,30
+étudier,crustacés,30
+étudier,Crustacés,30
+étudier,parasite hématophage,30
+étudier,némathelminthes,30
+étudier,Némathelminthes,30
+étudier,nématodes,30
+étudier,vers ronds,30
+étudier,Nématodes,30
+étudier,vers plats,30
+étudier,monogènes,30
+étudier,crustacé décapode,30
+étudier,décapode,30
+étudier,insecte phytophage,30
+étudier,insecte ravageur,30
+étudier,peste bubonique,30
+étudier,peste noire,30
+étudier,écotone,30
+étudier,nématode,30
+étudier,némathelminthe,30
+étudier,Nudibranches,30
+étudier,nudibranche,30
+étudier,Opisthobranchia,30
+étudier,opisthobranches,30
+étudier,Opisthobranches,30
+étudier,opisthobranche,30
+étudier,chat domestique,30
+étudier,procaryote,30
+étudier,monère,30
+étudier,organisme unicellulaire,30
+étudier,ténia,30
+étudier,ver solitaire,30
+étudier,Taenia solium,30
+étudier,Taenia saginata,30
+étudier,symbiose,30
+étudier,relation symbiotique,30
+étudier,trématode,30
+étudier,petite douve du foie,30
+étudier,Dicrocoelium dendriticum,30
+étudier,Fasciola hepatica,30
+étudier,grande douve du foie,30
+étudier,orthoptère,30
+étudier,criquet,30
+étudier,animaux venimeux,30
+étudier,animal venimeux,30
+étudier,mouche verte,30
+étudier,mouche à merde,30
+étudier,calliphoridés,30
+étudier,calliphoridae,30
+étudier,calliphoridé,30
+étudier,Hémiptères,30
+étudier,hémiptères,30
+étudier,hémiptère,30
+étudier,translocation,30
+étudier,asilidés,30
+étudier,Diptères,30
+étudier,diptères,30
+étudier,arachnides,30
+étudier,Arachnides,30
+étudier,chiroptère,30
+étudier,chiroptères,30
+étudier,Chiroptères,30
+étudier,animal,30
+étudier,tique,30
+étudier,polyéthisme,30
+étudier,fourmi,30
+étudier,fourmi rouge,30
+étudier,phalène du bouleau,30
+étudier,Biston betularia,30
+étudier,Cnidaires,30
+étudier,cnidaires,30
+étudier,cnidaire,30
+étudier,mimétisme,30
+étudier,association symbiotique,30
+étudier,système hôte-parasite,30
+étudier,relation hôte-parasite,30
+étudier,interactions durables,30
+étudier,intéractions durables,30
+étudier,interaction durable,30
+étudier,interaction biotique,30
+étudier,intéraction biotique,30
+étudier,interaction biologique,30
+étudier,épibiose,30
+étudier,épibionte,30
+étudier,reptiles,30
+étudier,Reptiles,30
+étudier,homosexualité masculine,30
+étudier,Plathelminthes,30
+étudier,plathelminthes,30
+étudier,prohibition de l'inceste,30
+étudier,interdit de l'inceste,30
+étudier,interdiction de l'inceste,30
+étudier,tabou de l'inceste,30
+étudier,tétrapodes,30
+étudier,émission de téléréalité,30
+étudier,infection parasitaire,30
+étudier,parasitose,30
+étudier,organisme microscopique,30
+étudier,ostéichthyens,30
+étudier,microorganisme,30
+étudier,ostéichtyens,30
+étudier,ostéichthyen,30
+étudier,ostéichtyen,30
+étudier,arthropode,30
+étudier,Arthropodes,30
+étudier,arthropodes,30
+étudier,formation végétale,30
+étudier,brême,30
+étudier,tenthrède,30
+étudier,Glossina palpalis,30
+étudier,design sonore,30
+étudier,Jacques Lacan,30
+étudier,Le Bourgeois gentilhomme,30
+étudier,Chimie,30
+étudier,Mathématiques,30
+étudier,Science,30
+étudier,Géographie,30
+étudier,fonction dérivable,30
+étudier,biocénose,30
+étudier,Iakoutsk,30
+étudier,lépisme,30
+étudier,Lepisma saccharina,30
+étudier,cadavre en décomposition,30
+étudier,mésoparasite,30
+étudier,parasite intestinal,30
+étudier,choanomonade,30
+étudier,le Bourgeois gentilhomme,30
+étudier,brème,30
+étudier,archébactérie,30
+étudier,archée,30
+étudier,chymie,30
+étudier,ancylostome,30
+étudier,épître,30
+étudier,rhétorique,31
+étudier,cadavre,30
+étudier,premier plan,30
+étudier,Chat domestique,30
+étudier,myrmica rubra,30
+étudier,tænia,30
+étudier,carnivore,30
+étudier,ricin,32
+étudier,planaire,30
+étudier,méduses,35
+étudier,discontinuité,30
+étudier,douve,32
+étudier,monogène,30
+étudier,peste,30
+étudier,faisabilité,30
+étudier,tortue,30
+étudier,parasite,32
+étudier,sauterelle,30
+étudier,fond,30
+étudier,moustique,30
+étudier,espèce,30
+étudier,diptère,30
+étudier,fonction,35
+étudier,=plague=,32
+étudier,=microorganism=,30
+étudier,=reptiles=,30
+étudier,reptilia,30
+étudier,=virion=,30
+étudier,=taenia=,30
+étudier,=translocation=,30
+étudier,=calliphoridae=,30
+étudier,=hot spot=,30
+étudier,=science=,30
+étudier,=fasciola hepatica=,30
+étudier,=cnidaria=,30
+étudier,=glossina palpalis=,30
+étudier,=nematoda=,30
+étudier,algorithme,36
+étudier,document légal,46
+étudier,phénomène,41
+étudier,argumentaire,31
+étudier,=taenia solium=,30
+étudier,crustacea,30
+étudier,comportement,31
+étudier,théorie U,30
+étudier,=algorithm=,30
+étudier,ténia armé,30
+étudier,ténia du porc,30
+grapiller,espace,31
+manquer de,espace,30
+grappiller,espace,31
+égrapiller,espace,30
+égrapper,espace,31
+damer,espace,57
+éradiquer,sida,51
+évaluer,chercheur,30
+étudier,chimie,60
+fournir,électricité,51
+éteindre,électricité,70
+consommer,électricité,56
+étudier,géographie,52
+passer à l'oral,géographie,30
+étudier,mathématiques,120
+passer à l'oral,mathématiques,30
+étudier,physique,110
+exporter,technologie,54
+avoir recours à,boussole,30
+orienter,boussole,32
+observer,boussole,32
+se procurer,boussole,30
+emporter,boussole,30
+acheter,boussole,34
+tourner,boussole,30
+utiliser,boussole,30
+allumer,lampe,80
+éteindre,lampe,80
+frotter,lampe,30
+moucher,lampe,70
+réparer,lampe,30
+casser,lampe,30
+collectionner,lampe,51
+regarder,miroir,54
+briser,miroir,30
+maculer,miroir,60
+nettoyer,miroir,64
+démonter,moteur,140
+modifier,moteur,59
+vérifier,moteur,80
+huiler,moteur,70
+démarrer,moteur,60
+réparer,moteur,60
+réviser,moteur,31
+tester,moteur,32
+régler,moteur,49
+inspecter,moteur,30
+réparer,ordinateur,65
+démonter,ordinateur,80
+connecter,ordinateur,150
+brancher,ordinateur,170
+verrouiller,ordinateur,103
+regarder,ordinateur,56
+garantir,ordinateur,60
+ouvrir,ordinateur,58
+installer,ordinateur,60
+immuniser,ordinateur,5
+échanger,ordinateur,-4
+mettre en veille,ordinateur,35
+solder,ordinateur,30
+commander en ligne,ordinateur,30
+voler,ordinateur,30
+formater,ordinateur,30
+vendre,ordinateur,30
+casser,ordinateur,30
+éteindre,ordinateur,31
+allumer,ordinateur,30
+redémarrer,ordinateur,41
+casse,ordinateur,-25
+fermer,réacteur nucléaire,31
+ouvrir,réfrigérateur,58
+remplir,réfrigérateur,2
+consommer,réfrigérateur,30
+désodoriser,réfrigérateur,46
+ranger,réfrigérateur,50
+scanner,dessin à main levée,30
+réaliser,scanner,36
+utiliser,scanner,30
+scanner,patient,30
+regarder,télévision,500
+garantir,télévision,70
+brancher,télévision,160
+régler,télévision,70
+réparer,télévision,52
+éteindre,télévision,-5
+mettre en veille,télévision,30
+acheter à crédit,télévision,30
+acheter à tempérament,télévision,30
+louer,télévision,51
+allumer,télévision,31
+régler,thermostat,60
+stimuler,intelligence,30
+admirer,intelligence,30
+utiliser,intelligence,30
+fêter,fête,52
+souhaiter,fête,120
+organiser,fête,40
+pourrir,fête,30
+pratiquer,médecine,30
+publier,Boris Cyrulnik,30
+lire,Boris Cyrulnik,30
+éditer,Boris Cyrulnik,30
+interviewer,Boris Cyrulnik,30
+écouter,Boris Cyrulnik,30
+garder au frais,vaccin,30
+vaccin,rougeole,30
+relancer,économie,30
+étalonner,hygromètre à cheveu,30
+détruire,bacille,30
+transmettre,bacille,30
+s'injecter,bacille,30
+atténuer,bacille,30
+inactiver,bacille,30
+multiplier,bacille,30
+cultiver,bacille,30
+répandre,bacille,30
+inoculer,bacille,30
+concentrer,bacille,30
+injecter,bacille,30
+modifier,protocole de recherche,30
+amender,protocole de recherche,30
+observer,protocole de recherche,30
+suivre,protocole de recherche,30
+suivre à la lettre,protocole de recherche,30
+ouvrir,frigo,60
+remplir,frigo,2
+ouvrir,frigidaire,30
+consommer,frigidaire,30
+guérir,maladie,140
+choper,maladie,60
+contracter,maladie,140
+vaincre,maladie,57
+juguler,maladie,60
+fuir,maladie,30
+circonscrire,maladie,30
+éradiquer,maladie,55
+prévenir,maladie,30
+attraper,maladie,42
+battre,maladie,30
+soigner,maladie,35
+combattre,maladie,50
+soutenir,science citoyenne,30
+mettre en avant,science citoyenne,30
+développer,science citoyenne,30
+plébisciter,science citoyenne,30
+soutenir,sciences citoyennes,30
+mettre en avant,sciences citoyennes,30
+développer,sciences citoyennes,30
+plébisciter,sciences citoyennes,30
+observer,lune,30
+regarder,lune,30
+photographier,lune,30
+étudier,Chimie,30
+passer à l'oral,Mathématiques,30
+étudier,Mathématiques,30
+passer à l'oral,Géographie,30
+étudier,Géographie,30
+favoriser,progrès scientifique,30
+promouvoir,progrès scientifique,30
+défendre,progrès scientifique,30
+redouter,progrès scientifique,30
+craindre,progrès scientifique,30
+se méfier de,progrès scientifique,30
+constater,progrès scientifique,30
+observer,progrès scientifique,30
+définir,progrès scientifique,30
+valoriser,progrès scientifique,30
+soutenir,progrès scientifique,30
+inactiver,particule virale,30
+étudier,particule virale,30
+détruire,particule virale,30
+éliminer,particule virale,30
+inactiver,virion,30
+étudier,virion,30
+détruire,virion,30
+éliminer,virion,30
+détruire,=virion=,30
+étudier,=virion=,30
+inactiver,=virion=,30
+éliminer,=virion=,30
+favoriser,bonnes pratiques,36
+prévoir,météo,103
