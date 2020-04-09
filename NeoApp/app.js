@@ -3,6 +3,10 @@ var path = require('path');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var neo4j = require('neo4j-driver');
+const requestIp = require('request-ip');//to get client IP
+const fs = require('fs');
+
+var logStream = fs.createWriteStream('user_proposition.csv', {flags: 'a'});
 
 var app = express();
 
@@ -10,7 +14,7 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-
+app.use(requestIp.mw());
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -24,7 +28,7 @@ app.get('/', function(req,res,next){
 });
 
 app.get('/graphe_transition',async function(req,res){
-    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE r2.poids > 0 AND r1.poids > 0 AND r3.poids > 0 AND type(r1) <> \'0\' AND type(r2) <> \'0\' AND type(r3) <> \'0\' return p SKIP '+ Math.floor(Math.random() * 1000) + ' LIMIT 1 ;';
+    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a <> b <> c AND r2.poids > 0 AND r1.poids > 0 AND r3.poids > 0 RETURN p SKIP ' + Math.floor(Math.random() * 1000) + ' LIMIT 1';
     await session.run(query)
             .then(function(result){
                 var titre = "Graphe transition";
@@ -68,6 +72,7 @@ app.get('/graphe_transition',async function(req,res){
 });
 
 app.post('/transition_avec_param', async function(req, res){
+
     var nodeA =  req.body.nodeA;
     var nodeB = req.body.nodeB;
     var nodeC = req.body.nodeC;
@@ -106,7 +111,7 @@ app.post('/transition_avec_param', async function(req, res){
         relation3 = "";
     }
     
-    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeB + nodeC + relation1 + relation2 + relation3 + 'return p SKIP ' +  Math.floor(Math.random() * 50) + ' LIMIT 1 ;';
+    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a.id <> b.id <> c.id AND r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeB + nodeC + relation1 + relation2 + relation3 + 'return p SKIP ' +  Math.floor(Math.random() * 50) + ' LIMIT 1 ;';
     console.log(query);
     await session.run(query)
             .then(function(result){
@@ -157,6 +162,8 @@ app.post('/transition_avec_param', async function(req, res){
 });
 
 app.get('/graphe_deduction',async function(req,res){
+
+
     query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c) WHERE r2.poids > 0 AND r1.poids > 0 AND type(r1) <> \'0\' AND type(r2) <> \'0\'  return p SKIP '+ Math.floor(Math.random() * 500000) + ' LIMIT 1 ;';
     await session.run(query)
             .then(function(result){
@@ -194,6 +201,7 @@ app.get('/graphe_deduction',async function(req,res){
 });
 
 app.get('/graphe_abduction',async function(req,res){
+    
     query = 'MATCH p=(a)-[r1]->(b)<-[r2]-(c) WHERE r2.poids > 0 AND r1.poids > 0 AND type(r1) <> \'0\' AND type(r2) <> \'0\'  return p SKIP '+ Math.floor(Math.random() * 500000) + ' LIMIT 1 ;';
     await session.run(query)
             .then(function(result){
@@ -269,6 +277,23 @@ app.get('/graphe_induction',async function(req,res){
 
 app.get('/up', function(req, res, next){
 
+});
+
+app.get('/down', function(req, res, next){
+    
+});
+
+app.post('/user_input', function(req, res, next){
+    console.log(req.body);
+    var ip = req.clientIp;//on reçoit le ::1 car on est sur localhost + ipv6
+    var node1 = req.body.nodeA;
+    var node2 = req.body.nodeD;
+    var relation = req.body.relation;
+    var page = req.body.page;
+
+    logStream.write(node1 + "," + node2 + "," + relation + "," + ip + "\n");
+    
+    res.redirect('/graphe_'+ page);
 });
 
 app.listen(3000);

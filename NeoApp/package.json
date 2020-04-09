@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "*",
     "body-parser": "*",
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
     "ejs": "^2.4.2",
+    "express": "*",
     "morgan": "*",
-    "neo4j-driver": "*"
+    "neo4j-driver": "*",
+    "request-ip": "^2.1.3"
   }
 }

@@ -20,15 +20,18 @@
                 <td><%= res.nodeD %></td>
                 <td>
                     <p>Veuillez proposer une relation pour le triangle ci-dessous</p>
-                    <p><%= res.nodeA %> --[ <%= res.relation1 %> ]--> <%= res.nodeC %> --[ <%= res.relation2 %> ]--> <%= res.nodeD %></p>
+                    <p><%= res.nodeA %> --[ <%= res.relation1 %> ]--> <%= res.nodeC %></p>
+                    <p><%= res.nodeC %> --[ <%= res.relation2 %> ]--> <%= res.nodeD %></p>
                     <p><%= res.nodeA %> --[____]--> <%= res.nodeD %> </p>
                 </td>
                 <td>
-                    <form>
-                        <input type="text"></input>
-                        <input type="submit"  value="Ajouter"></input>
+                    <form  action="user_input" id="user_input" method="POST">
+                        <input type="hidden" name="page" value="deduction">
+                        <input type="hidden" name="nodeA" value= <%= res.nodeA %> >
+                        <input type="hidden" name="nodeD" value= <%= res.nodeD %> >
+                        <input type="number" name="relation" placeholder="Relation à proposer" min="-1">
+                        <button type="submit">Envoyer</button>
                     </form>
-                    
                 </td>
             </tr>
         <% }) %>
