@@ -1,0 +1,38 @@
+<table id="relation">
+    <tr>
+      <th class="id">ID</th>
+      <th class="node">Term 1</th>
+      <th class="relation">Relation</th>
+      <th class="node">Term 2</th>
+      <th class="relation">Relation</th>
+      <th class="node">Term 3</th>
+      <th class="deduction">Deduction</th>
+      <th class="action">Action</th>
+    </tr>
+    <%if (myResArray.length > 0) { %>
+        <% myResArray.forEach((res) => { %> 
+            <tr>
+                <td><%= res.id %></td>
+                <td><%= res.nodeA %></td>
+                <td><%= res.relation1 %></td>
+                <td><%= res.nodeB %></td>
+                <td><%= res.relation2 %></td>
+                <td><%= res.nodeC %></td>
+                <td>
+                    <p><em>Please propose a relation for the following triangle</em></p>
+                    <p><%= res.nodeA %> --[ <%= res.relation1 %> ]--> <%= res.nodeB %> --[ <%= res.relation2 %> ]--> <%= res.nodeC %></p>
+                    <p><%= res.nodeC %> --[____]--> <%= res.nodeA %> </p>
+                </td>
+                <td>
+                    <form  action="user_input" id="user_input" method="POST">
+                        <input type="hidden" name="page" value="induction">
+                        <input type="hidden" name="nodeA" value= <%= res.nodeA %> >
+                        <input type="hidden" name="nodeC" value= <%= res.nodeC %> >
+                        <input type="number" name="relation" placeholder="Relation" min="-1">
+                        <button type="submit">Save</button>
+                    </form>
+                </td>
+            </tr>
+        <% }) %>
+    <% } %>
+</table>
