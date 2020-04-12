@@ -128,7 +128,6 @@ app.post('/transition_avec_param', async function(req, res){
                     var nodeE = record._fields[0].segments[2].start.properties.label;
                     var r3 = record._fields[0].segments[2].relationship.type;
                     var nodeF = record._fields[0].segments[2].end.properties.label;
-                    console.log(record)
                     resArray.push({
                         id : id, 
                         nodeA: nodeA,
