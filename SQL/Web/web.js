@@ -7,8 +7,8 @@ const fs = require("fs");
 const app = express();
 
 //write user's response to csv file
-var logStream = fs.createWriteStream("user_proposition.csv", {flags: "a"});
-var logStream2 = fs.createWriteStream("transition.csv", { flags: "a"});
+var logStream = fs.createWriteStream("user_proposition.csv", { flags: "a" });
+var logStream2 = fs.createWriteStream("transition.csv", { flags: "a", emitClose: true });
 
 const config = {
   host: "localhost",
@@ -46,8 +46,7 @@ app.get("/", (req, res, next) => {
 app.get("/transition", (req, res) => {
   let query =
     "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC, " +
-    "a3.relation_type" +
-    " as r3 " +
+    "a3.relation_type as r3 " +
     "from relation as a1, relation_2 as a2, relation_3 as a3 " +
     "where a2.term_1 = a1.term_2 and a1.term_1 = a3.term_1 and a2.term_2 = a3.term_2" +
     " and a1.relation_type = " +
@@ -55,7 +54,7 @@ app.get("/transition", (req, res) => {
     " and a2.relation_type = " +
     items[~~(Math.random() * items.length)] +
     " and a3.relation_type != 0" +
-    " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 limit 150000;";
+    " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 order by rand() limit 150000;";
 
   db.query(query, (err, results) => {
     if (err) {
@@ -76,48 +75,23 @@ app.get("/transition", (req, res) => {
       let relation3 = row["r3"];
 
       //if items in array and variables to be assigned have the same name, eg: nodeA of resArray = variable 'nodeA'
-      resArray.push({
-        id,
-        nodeA,
-        nodeB,
-        nodeC,
-        relation1,
-        relation2,
-        relation3,
-      });
+      resArray.push({id, nodeA, nodeB, nodeC, relation1, relation2, relation3});
       id++;
-
-      logStream2.write(
-        nodeA +
-          "," +
-          relation1 +
-          "," +
-          nodeB +
-          "," +
-          relation2 +
-          "," +
-          nodeC +
-          "," +
-          "then" +
-          "," +
-          nodeA +
-          "," +
-          relation3 +
-          "," +
-          nodeC +
-          "\n"
-      );
-      console.log(resArray);
+     
+      logStream2.write(nodeA + "," + relation1 + "," + nodeB + "," + relation2 +
+          "," + nodeC + "," + nodeA + "," + relation3 + "," + nodeC + "\n");
+      console.log(nodeA + "," + relation1 + "," + nodeB + "," + relation2 +
+      "," + nodeC + "," + nodeA + "," + relation3 + "," + nodeC);
     }
 
-    //render UI - ejs
-    res.render("index", {
-      url: "transition",
-      page: "Transition",
-      menuId: "transition",
-      title: title,
-      myResArray: resArray,
-    });
+    // render UI - ejs
+    // res.render("index", {
+    //   url: "transition",
+    //   page: "Transition",
+    //   menuId: "transition",
+    //   title: title,
+    //   myResArray: resArray,
+    // });
   });
 });
 
