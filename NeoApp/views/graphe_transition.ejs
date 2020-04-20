@@ -1,3 +1,11 @@
+<form  action="graphe_explication" id="graphe_explication" method="post">
+    <td><input type="text" name="nodeA" placeholder="Node A"></td>
+    <td><input type="number" name="relation3" placeholder="3ème Relation"></td>
+    <td><input type="text" name="nodeC" placeholder="Node C"></td>
+    
+    <td><button type="submit">Envoyer</button></td>
+    
+</form>
 <table id="relation">
     <tr >
       <th class="id">ID</th>
@@ -18,10 +26,21 @@
                 <td><%= res.nodeC %></td>
                 <td><%= res.relation2 %></td>
                 <td><%= res.nodeE %></td>
-                <td><%= res.nodeF %> --[ <%= res.relation3 %> ]--> <%= res.nodeE %></td>
                 <td>
-                    <button onclick="up()"><i  class="fa fa-thumbs-up"></i></button>
-                    <button onclick="down()"><i  class="fa fa-thumbs-down"></i></button>
+                    <p><%= res.nodeF %> --[ <%= res.relation3 %> ]--> <%= res.nodeE %></p></td>
+                <td>
+                    <form  action="up" id="up" method="POST">
+                        <input type="hidden" name="nodeA" value=<%= res.nodeA %> >
+                        <input type="hidden" name="nodeC" value=<%= res.nodeC %> >
+                        <input type="hidden" name="relation3" value=<%= res.relation3 %> >
+                        <button type="submit"><i class="fa fa-thumbs-up"></i></button>
+                    </form>
+                    <form  action="down" id="down" method="POST">
+                        <input type="hidden" name="nodeA" value=<%= res.nodeA %> >
+                        <input type="hidden" name="nodeC" value=<%= res.nodeC %> >
+                        <input type="hidden" name="relation3" value=<%= res.relation3 %> >
+                        <button type="submit"><i class="fa fa-thumbs-down"></i></button>
+                    </form>
                     <button><a href="/graphe_transition"><i class="fa fa-refresh"></i></a></button>
                 </td>
             </tr>

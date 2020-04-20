@@ -45,6 +45,9 @@
         <td>causatif</td>
     </tr>
 </table>
+<% if (url == "relations") { %> 
+    <% include relations %>
+<% } %>
 <% if (url == "transition") { %> 
     <% include graphe_transition %>
 <% } %>

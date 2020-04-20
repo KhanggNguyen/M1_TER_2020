@@ -1,0 +1,55 @@
+<link rel="stylesheet" href="../../stylesheets/style.css">
+
+<table id="relation">
+    <tr>
+        <th class="id">ID</th>
+        <th class="node">Node 1</th>
+        <th class="relation">vers</th>
+        <th class="node">Node 2</th>
+    </tr>
+
+    <%if (myResArray.length > 0) { %>
+        <% myResArray.forEach(function(res){ %> 
+            <tr>
+                <td><%= res.id %></td>
+                <td><%= res.nodeA %></td>
+                <td><%= res.relation1 %></td>
+                <td><%= res.nodeB %></td>
+            </tr>
+        <% }) %>
+    <% } %> 
+</table>
+<!-- SEARCH RESULTS | START -->  
+<!-- PAGINATION -->
+<div>
+    <div>
+        <% if (currentPage == 1 && pages > 1) { %>
+            <a href="/relations/<%= parseInt(currentPage) + 1 %>" 
+                <span>
+                    Page <%=  parseInt(currentPage) + 1 %>
+                    <i class="fa fa-arrow-right"></i>
+                </span>
+            </a>
+        <% } else if (currentPage < pages) { %>
+            <a href="/relations/<%= parseInt(currentPage) - 1 %>">
+                <span>
+                    <i class="fa fa-arrow-back"></i>
+                    Page <%= parseInt(currentPage) - 1 %>
+                </span>
+            </a>
+            <a href="/relations/<%= parseInt(currentPage) + 1 %>">
+                <span>
+                    Page <%= parseInt(currentPage) + 1 %>
+                    <i class="fa fa-arrow-forward"></i>
+                </span>
+            </a>
+        <% } else if (currentPage == pages && pages > 1) { %>
+                <a href="/relations/<%= parseInt(currentPage) - 1 %>">
+                    <span>
+                        <i class="fa fa-arrow-back"></i>Page 
+                        <%=parseInt(currentPage) - 1 %>
+                    </span>
+                </a>
+        <% } %>
+    </div>
+</div>
