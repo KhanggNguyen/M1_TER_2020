@@ -2,11 +2,13 @@ const express = require("express");
 const path = require("path");
 const bodyParser = require("body-parser");
 const mysql = require("mysql");
-const requestIp = require('request-ip');//to get client IP
-const fs = require('fs');
+const requestIp = require("request-ip"); //client IP
+const fs = require("fs");
 const app = express();
 
-var logStream = fs.createWriteStream('user_proposition.csv', {flags: 'a'});
+//write user's response to csv file
+var logStream = fs.createWriteStream("user_proposition.csv", { flags: "a" });
+var logStream2 = fs.createWriteStream("transition.csv", { flags: "a", emitClose: true });
 
 const config = {
   host: "localhost",
@@ -34,7 +36,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "/public/")));
 
-const items = Array(0, 6, 9, 13, 14, 15, 17, 41, 42);
+//this array will be used to pick a random number for relation_type
+const items = Array(6, 9, 13, 14, 15, 17, 41, 42);
 
 app.get("/", (req, res, next) => {
   res.render("index", { page: "Home", menuId: "home", url: "home" });
@@ -43,8 +46,59 @@ app.get("/", (req, res, next) => {
 app.get("/transition", (req, res) => {
   let query =
     "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC, " +
-    "a1.relation_type as r " +
-    "from relation as a1, relation_temp as a2 " +
+    "a3.relation_type as r3 " +
+    "from relation as a1, relation_2 as a2, relation_3 as a3 " +
+    "where a2.term_1 = a1.term_2 and a1.term_1 = a3.term_1 and a2.term_2 = a3.term_2" +
+    " and a1.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a2.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a3.relation_type != 0" +
+    " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 order by rand() limit 150000;";
+
+  db.query(query, (err, results) => {
+    if (err) {
+      throw err;
+    }
+    const title = "Transition Graph";
+    let resArray = [];
+    let id = 1;
+
+    for (let index = 0; index < results.length; index++) {
+      //get each element of a json object named row which is in the 1st position of result and bind them to resArray
+      const row = results[index];
+      let nodeA = row["nodeA"];
+      let relation1 = row["r1"];
+      let nodeB = row["nodeB"];
+      let relation2 = row["r2"];
+      let nodeC = row["nodeC"];
+      let relation3 = row["r3"];
+
+      //if items in array and variables to be assigned have the same name, eg: nodeA of resArray = variable 'nodeA'
+      resArray.push({id, nodeA, nodeB, nodeC, relation1, relation2, relation3});
+      id++;
+     
+      logStream2.write(nodeA + "," + relation1 + "," + nodeB + "," + relation2 +
+          "," + nodeC + "," + nodeA + "," + relation3 + "," + nodeC + "\n");
+      console.log(nodeA + "," + relation1 + "," + nodeB + "," + relation2 +
+      "," + nodeC + "," + nodeA + "," + relation3 + "," + nodeC);
+    }
+
+    // render UI - ejs
+    // res.render("index", {
+    //   url: "transition",
+    //   page: "Transition",
+    //   menuId: "transition",
+    //   title: title,
+    //   myResArray: resArray,
+    // });
+  });
+});
+
+app.get("/deduction", (req, res) => {
+  let query =
+    "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC " +
+    "from relation as a1, relation_2 as a2 " +
     "where a2.term_1 = a1.term_2 " +
     "and a1.relation_type = " +
     items[~~(Math.random() * items.length)] +
@@ -53,70 +107,18 @@ app.get("/transition", (req, res) => {
     " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
   db.query(query, (err, results) => {
     if (err) throw err;
-
-    const title = "Transition Graph";
-    let resArray = [];
-    let id = 1;
-
-    const row = results[0];
-    let nodeA = row["nodeA"];
-    let r1 = row["r1"];
-    let nodeB = row["nodeB"];
-    let r2 = row["r2"];
-    let nodeC = row["nodeC"];
-    let r3 = row["r"];
-
-    resArray.push({
-      id: id,
-      nodeA: nodeA,
-      nodeB: nodeB,
-      nodeC: nodeC,
-      relation1: r1,
-      relation2: r2,
-      relation3: r3,
-    });
-    id++;
-
-    res.render("index", {
-      url: "transition",
-      page: "Transition",
-      menuId: "transition",
-      title: title,
-      myResArray: resArray,
-    });
-  });
-});
-
-app.get("/deduction", (req, res) => {
-  let query = "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC " +
-  "from relation as a1, relation_temp as a2 " +
-  "where a2.term_1 = a1.term_2 " +
-  "and a1.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a2.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
-  db.query(query, (err, results) => {
-    if (err) throw err;
     const title = "Deduction Graph ";
     let resArray = [];
     let id = 1;
 
     const row = results[0];
     let nodeA = row["nodeA"];
-    let r1 = row["r1"];
+    let relation1 = row["r1"];
     let nodeB = row["nodeB"];
-    let r2 = row["r2"];
+    let relation2 = row["r2"];
     let nodeC = row["nodeC"];
 
-    resArray.push({
-      id: id,
-      nodeA: nodeA,
-      nodeB: nodeB,
-      nodeC: nodeC,
-      relation1: r1,
-      relation2: r2,
-    });
+    resArray.push({ id, nodeA, nodeB, nodeC, relation1, relation2 });
 
     console.log(resArray);
     id++;
@@ -131,15 +133,16 @@ app.get("/deduction", (req, res) => {
 });
 
 app.get("/induction", (req, res) => {
-  let query = "select a1.term_2 as nodeA, a1.relation_type as r1, a1.term_1 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC " +
-  "from relation as a1, relation_temp as a2 " +
-  "where a1.term_2 != a2.term_2 " +
-  "and a1.term_1 = a2.term_1 " +
-  "and a1.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a2.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
+  let query =
+    "select a1.term_2 as nodeA, a1.relation_type as r1, a1.term_1 as nodeB, a2.relation_type as r2, a2.term_2 as nodeC " +
+    "from relation as a1, relation_2 as a2 " +
+    "where a1.term_2 != a2.term_2 " +
+    "and a1.term_1 = a2.term_1 " +
+    "and a1.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a2.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
   db.query(query, (err, results) => {
     if (err) throw err;
     const title = "Induction Graph ";
@@ -148,21 +151,16 @@ app.get("/induction", (req, res) => {
 
     const row = results[0];
     let nodeA = row["nodeA"];
-    let r1 = row["r1"];
+    let relation1 = row["r1"];
     let nodeB = row["nodeB"];
-    let r2 = row["r2"];
+    let relation2 = row["r2"];
     let nodeC = row["nodeC"];
 
-    resArray.push({
-      id: id,
-      nodeA: nodeA,
-      nodeB: nodeB,
-      nodeC: nodeC,
-      relation1: r1,
-      relation2: r2,
-    });
+    resArray.push({ id, nodeA, nodeB, nodeC, relation1, relation2 });
 
-    console.log(results);
+    // console.log(results);
+    // console.log(resArray);
+
     id++;
     res.render("index", {
       url: "induction",
@@ -175,15 +173,16 @@ app.get("/induction", (req, res) => {
 });
 
 app.get("/abduction", (req, res) => {
-  let query = "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_1 as nodeC " +
-  "from relation as a1, relation_temp as a2 " +
-  "where a1.term_1 != a2.term_1 " +
-  "and a1.term_2 = a2.term_2 " +
-  "and a1.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a2.relation_type = " +
-  items[~~(Math.random() * items.length)] +
-  " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
+  let query =
+    "select a1.term_1 as nodeA, a1.relation_type as r1, a1.term_2 as nodeB, a2.relation_type as r2, a2.term_1 as nodeC " +
+    "from relation as a1, relation_2 as a2 " +
+    "where a1.term_1 != a2.term_1 " +
+    "and a1.term_2 = a2.term_2 " +
+    "and a1.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a2.relation_type = " +
+    items[~~(Math.random() * items.length)] +
+    " and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;";
   db.query(query, (err, results) => {
     if (err) throw err;
     const title = "Induction Graph ";
@@ -192,21 +191,15 @@ app.get("/abduction", (req, res) => {
 
     const row = results[0];
     let nodeA = row["nodeA"];
-    let r1 = row["r1"];
+    let relation1 = row["r1"];
     let nodeB = row["nodeB"];
-    let r2 = row["r2"];
+    let relation2 = row["r2"];
     let nodeC = row["nodeC"];
 
-    resArray.push({
-      id: id,
-      nodeA: nodeA,
-      nodeB: nodeB,
-      nodeC: nodeC,
-      relation1: r1,
-      relation2: r2,
-    });
+    resArray.push({ id, nodeA, nodeB, nodeC, relation1, relation2 });
 
-    console.log(results);
+    // console.log(results);
+    // console.log(resArray);
     id++;
     res.render("index", {
       url: "abduction",
@@ -218,26 +211,23 @@ app.get("/abduction", (req, res) => {
   });
 });
 
-app.post('/user_input', (req, res, next) => {
-    console.log(req.body);
-    var ip = req.clientIp;  //receive ::1 for localhost + ipv6
-    var node1 = req.body.nodeA;
-    var node2 = req.body.nodeC;
-    var relation = req.body.relation;
-    var page = req.body.page;
+app.post("/user_input", (req, res) => {
+  //this ip will receive ::1 for localhost + ipv6
+  var ip = req.clientIp;
+  var node1 = req.body.nodeA;
+  var node2 = req.body.nodeC;
+  var relation = req.body.relation;
+  var page = req.body.page;
 
-    logStream.write(node1 + "," + node2 + "," + relation + "," + ip + "\n");
-    
-    res.redirect('/'+ page);
+  //write to file
+  logStream.write(node1 + "," + node2 + "," + relation + "," + ip + "\n");
+
+  res.redirect("/" + page);
 });
 
-app.get('/up', (req, res, next)=> {
+app.get("/up", (req, res, next) => {});
 
-});
-
-app.get('/down', (req, res, next) => {
-    
-});
+app.get("/down", (req, res, next) => {});
 
 app.post("/custom_transition", (req, res) => {
   var nodeA = req.body.nodeA;
@@ -288,22 +278,12 @@ app.post("/custom_transition", (req, res) => {
     //bind query to resArray
 
     console.log(record);
-    resArray.push({
-      id: id,
-      nodeA: nodeA,
-      nodeB: nodeB,
-      nodeC: nodeC,
-      nodeD: nodeD,
-      nodeE: nodeE,
-      relation1: r1,
-      relation2: r2,
-      relation3: r3,
-    });
+    resArray.push({ id, nodeA, nodeB, nodeC, relation1, relation2, relation3 });
     //console.log(resArray);
     id++;
     let message = "";
     if (resArray.length == 0) {
-      message = "Aucuns couples de relations ont été trouvé !";
+      message = "Relation not found!";
     }
     res.render("index", {
       url: "transition",
