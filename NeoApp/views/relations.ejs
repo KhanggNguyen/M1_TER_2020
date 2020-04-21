@@ -1,11 +1,32 @@
 <link rel="stylesheet" href="../../stylesheets/style.css">
 
+
 <table id="relation">
     <tr>
-        <th class="id">ID</th>
-        <th class="node">Node 1</th>
-        <th class="relation">vers</th>
-        <th class="node">Node 2</th>
+        <th class="id">
+            ID 
+        </th>
+        <th class="node">
+            Node 1
+            <form action="/relations/1/">
+                <input type="text" name="nodeA" placeholder="Rechercher" required>
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+        </th>
+        <th class="relation">
+            vers
+            <form action="/relations/1/">
+                <input type="text" name="rel" placeholder="Rechercher" required>
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+        </th>
+        <th class="node">
+            Node 2
+            <form action="/relations/1/">
+                <input type="text" name="nodeB" placeholder="Rechercher" required>
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+        </th>
     </tr>
 
     <%if (myResArray.length > 0) { %>
@@ -19,6 +40,9 @@
         <% }) %>
     <% } %> 
 </table>
+
+<!-- SEARCH BAR -->
+
 <!-- SEARCH RESULTS | START -->  
 <!-- PAGINATION -->
 <div>

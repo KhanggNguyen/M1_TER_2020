@@ -35,7 +35,24 @@ app.get('/relations/:page', async function(req, res, next){
     const resPerPage = 100;
     const page = req.params.page || 1 ;
     const skipValue = (resPerPage * page) - resPerPage;
-    query = 'MATCH p = (a)-[r]->(b) RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+    var searchNodeA = null;
+    var searchNodeB = null;
+    var searchRel = null;
+    if(req.query.nodeA){
+        searchNodeA = req.query.nodeA;
+        query = 'MATCH p = (a)-[r]->(b) WHERE a.label = \'' + searchNodeA + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+    }
+    else if(req.query.nodeB){
+        searchNodeB = req.query.nodeB;
+        query = 'MATCH p = (a)-[r]->(b) WHERE b.label = \'' + searchNodeB + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+    }
+    else if(req.query.rel){
+        searchRel = req.query.rel;
+        query = 'MATCH p = (a)-[r]->(b) WHERE type(r) = \'' + searchRel + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+    }
+    else{
+        query = 'MATCH p = (a)-[r]->(b) RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+    }
     totalRelations = 0;
     await session.run("MATCH p = ()-[]->() RETURN COUNT(p);")
     .then(function(result){
