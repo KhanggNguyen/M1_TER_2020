@@ -16,7 +16,7 @@
         <th class="relation">
             vers
             <form action="/relations/1/">
-                <input type="text" name="rel" placeholder="Rechercher" required>
+                <input type="number" name="rel" placeholder="Rechercher" min=0 required>
                 <button type="submit"><i class="fa fa-search"></i></button>
             </form>
         </th>
@@ -48,27 +48,27 @@
 <div>
     <div>
         <% if (currentPage == 1 && pages > 1) { %>
-            <a href="/relations/<%= parseInt(currentPage) + 1 %>" 
+            <a href="/relations/<%= parseInt(currentPage) + 1 %>/?<%=searchMotif%>=<%=searchVal%>">
                 <span>
                     Page <%=  parseInt(currentPage) + 1 %>
                     <i class="fa fa-arrow-right"></i>
                 </span>
             </a>
         <% } else if (currentPage < pages) { %>
-            <a href="/relations/<%= parseInt(currentPage) - 1 %>">
+            <a href="/relations/<%= parseInt(currentPage) - 1 %>/?<%=searchMotif%>=<%=searchVal%>">
                 <span>
                     <i class="fa fa-arrow-back"></i>
                     Page <%= parseInt(currentPage) - 1 %>
                 </span>
             </a>
-            <a href="/relations/<%= parseInt(currentPage) + 1 %>">
+            <a href="/relations/<%= parseInt(currentPage) + 1 %>/?<%=searchMotif%>=<%=searchVal%>">
                 <span>
                     Page <%= parseInt(currentPage) + 1 %>
                     <i class="fa fa-arrow-forward"></i>
                 </span>
             </a>
         <% } else if (currentPage == pages && pages > 1) { %>
-                <a href="/relations/<%= parseInt(currentPage) - 1 %>">
+                <a href="/relations/<%= parseInt(currentPage) - 1 %>/?<%=searchMotif%>=<%=searchVal%>">
                     <span>
                         <i class="fa fa-arrow-back"></i>Page 
                         <%=parseInt(currentPage) - 1 %>

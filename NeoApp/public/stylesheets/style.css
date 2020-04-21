@@ -67,3 +67,7 @@ body{
 #relation th.action {
     width: 10%;
 }
+
+input{
+    color:black;
+}

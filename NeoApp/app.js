@@ -38,35 +38,64 @@ app.get('/relations/:page', async function(req, res, next){
     var searchNodeA = null;
     var searchNodeB = null;
     var searchRel = null;
+    var totalRelations = 0;
+    var searchMotif = null;
     if(req.query.nodeA){
+        searchMotif = "nodeA";
+        searchVal = req.query.nodeA;
         searchNodeA = req.query.nodeA;
         query = 'MATCH p = (a)-[r]->(b) WHERE a.label = \'' + searchNodeA + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+        await session.run('MATCH p = ()-[]->() WHERE a.label = \'' + searchNodeA + '\' RETURN COUNT(p);')
+        .then(function(result){
+            totalRelations = result.records[0]._fields[0].low;
+        })
+        .catch(function(err){
+            console.log(err);
+        });
     }
     else if(req.query.nodeB){
+        searchMotif = "nodeB";
+        searchVal = req.query.nodeB;
         searchNodeB = req.query.nodeB;
         query = 'MATCH p = (a)-[r]->(b) WHERE b.label = \'' + searchNodeB + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+        await session.run('MATCH p = ()-[]->() WHERE b.label = \'' + searchNodeB + '\' RETURN COUNT(p);')
+            .then(function(result){
+                totalRelations = result.records[0]._fields[0].low;
+            })
+            .catch(function(err){
+                console.log(err);
+            });
     }
     else if(req.query.rel){
+        searchMotif = "rel";
+        searchVal = req.query.rel;
         searchRel = req.query.rel;
         query = 'MATCH p = (a)-[r]->(b) WHERE type(r) = \'' + searchRel + '\' RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+        await session.run('MATCH p = ()-[]->() WHERE type(r) = \'' + searchRel + '\' RETURN COUNT(p);')
+            .then(function(result){
+                totalRelations = result.records[0]._fields[0].low;
+            })
+            .catch(function(err){
+                console.log(err);
+            });
     }
     else{
-        query = 'MATCH p = (a)-[r]->(b) RETURN p SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
-    }
-    totalRelations = 0;
-    await session.run("MATCH p = ()-[]->() RETURN COUNT(p);")
-    .then(function(result){
-        totalRelations = result.records[0]._fields[0].low;
-    })
-    .catch(function(err){
-        console.log(err);
-    });
+        searchVal = ""
+        query = 'MATCH p = (a)-[r]->(b) RETURN p ORDER BY type(r) SKIP ' + skipValue +  ' LIMIT ' + resPerPage;
+        await session.run('MATCH p = ()-[]->() RETURN COUNT(p);')
+            .then(function(result){
+                totalRelations = result.records[0]._fields[0].low;
+            })
+            .catch(function(err){
+                console.log(err);
+            });
+    }    
     
     await session.run(query)
             .then(function(result){
                 var titre = "Relations";
                 var resArray = [];
-                var id = 1;
+                var id = (resPerPage*page)-resPerPage+1;
                 result.records.forEach(function(record){
                     var nodeA = record._fields[0].segments[0].start.properties.label;
                     var r1 = record._fields[0].segments[0].relationship.type;
@@ -90,7 +119,9 @@ app.get('/relations/:page', async function(req, res, next){
                     message: message,
                     currentPage : page,
                     pages : Math.ceil(totalRelations / resPerPage),
-                    myResArray : resArray
+                    myResArray : resArray,
+                    searchMotif : searchMotif,
+                    searchVal : searchVal,
                 });
                 console.log(result.records.length);
             })
