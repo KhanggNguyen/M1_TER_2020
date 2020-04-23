@@ -303,7 +303,7 @@ app.post("/explaination", (req, res) => {
   let nodeA = req.body.nodeA;
   let nodeC = req.body.nodeC;
   let relation3 = req.body.relation3;
-  let relation3rd = nodeA + " --[ " + relation3 + " ]--> " + nodeC || "";
+  let relation3rd = "Explaination of relation: " + nodeA + " --[ " + relation3 + " ]--> " + nodeC || "";
 
   nodeA =
     nodeA != "" || !typeof nodeA === undefined

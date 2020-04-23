@@ -8,6 +8,8 @@ body {
 
 input {
   padding-left: 5px;
+  padding-right: 5px;
+  border: 1.2px solid #4caf50;
 }
 
 p {
@@ -81,3 +83,4 @@ p {
   background-color: #4caf50;
   color: white;
 }
+

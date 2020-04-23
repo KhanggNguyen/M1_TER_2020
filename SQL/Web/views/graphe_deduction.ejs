@@ -19,12 +19,13 @@
                 <td><%= res.relation2 %></td>
                 <td><%= res.nodeC %></td>
                 <td>
-                    <p><em>Please complete the following triangle by proposing a relation</em></p>
+                    <em>Please complete the following triangle by proposing a relation</em>
                     <p><%= res.nodeA %> --[ <%= res.relation1 %> ]--> <%= res.nodeB %> --[ <%= res.relation2 %> ]--> <%= res.nodeC %></p>
+                    <p>then</p>
                     <p><%= res.nodeC %> --[____]--> <%= res.nodeA %> </p>
                 </td>
                 <td>
-                    <form  action="user_input" id="user_input" method="POST">
+                    <form action="user_input" id="user_input" method="POST">
                         <input type="hidden" name="page" value="induction">
                         <input type="hidden" name="nodeA" value= <%= res.nodeA %> >
                         <input type="hidden" name="nodeC" value= <%= res.nodeC %> >

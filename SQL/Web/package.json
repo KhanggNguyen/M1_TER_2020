@@ -5,7 +5,7 @@
   "main": "web.js",
   "scripts": {
     "start": "node web.js"
-},
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
