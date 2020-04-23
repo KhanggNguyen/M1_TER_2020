@@ -20,7 +20,7 @@ const config = {
 
 const db = mysql.createConnection(config);
 
-db.connect(err => {
+db.connect((err) => {
   if (err) throw err;
   console.log("Connected to database " + config.database);
 });
@@ -84,7 +84,7 @@ app.get("/transition", (req, res) => {
       page: "Transition",
       menuId: "transition",
       title: title,
-      myResArray: resArray
+      myResArray: resArray,
     });
   });
 });
@@ -122,7 +122,7 @@ app.get("/deduction", (req, res) => {
       page: "Deduction",
       menuId: "deduction",
       title: title,
-      myResArray: resArray
+      myResArray: resArray,
     });
   });
 });
@@ -159,7 +159,7 @@ app.get("/induction", (req, res) => {
       page: "Induction",
       menuId: "induction",
       title: title,
-      myResArray: resArray
+      myResArray: resArray,
     });
   });
 });
@@ -198,7 +198,7 @@ app.get("/abduction", (req, res) => {
       page: "Abduction",
       menuId: "abduction",
       title: title,
-      myResArray: resArray
+      myResArray: resArray,
     });
   });
 });
@@ -255,7 +255,12 @@ app.post("/custom_transition", (req, res) => {
     "a3.relation_type as r3 " +
     "from relation as a1, relation_2 as a2, relation_3 as a3 " +
     "where a2.term_1 = a1.term_2 and a1.term_1 = a3.term_1 and a2.term_2 = a3.term_2" +
-    nodeA + nodeB + nodeC + relation1 + relation2 + relation3 +
+    nodeA +
+    nodeB +
+    nodeC +
+    relation1 +
+    relation2 +
+    relation3 +
     " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 order by rand() limit 1;";
 
   db.query(query, (err, results) => {
@@ -289,7 +294,7 @@ app.post("/custom_transition", (req, res) => {
       menuId: "transition",
       title: title,
       message: message,
-      myResArray: resArray
+      myResArray: resArray,
     });
   });
 });
@@ -298,9 +303,7 @@ app.post("/explaination", (req, res) => {
   let nodeA = req.body.nodeA;
   let nodeC = req.body.nodeC;
   let relation3 = req.body.relation3;
-  let relation3rd = nodeA + "--[ " + relation3 + " ]--> " + nodeC; 
-
-  console.log(relation3rd);
+  let relation3rd = nodeA + " --[ " + relation3 + " ]--> " + nodeC || "";
 
   nodeA =
     nodeA != "" || !typeof nodeA === undefined
@@ -323,8 +326,6 @@ app.post("/explaination", (req, res) => {
     nodeA + nodeC + relation3 +
     " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 order by rand() limit 10;";
 
-    console.log(relation);
-
   db.query(query, (err, results) => {
     if (err) throw err;
 
@@ -335,15 +336,15 @@ app.post("/explaination", (req, res) => {
     //bind query to resArray
     for (let index = 0; index < results.length; index++) {
       const row = results[index];
-    let nodeA = row["nodeA"];
-    let relation1 = row["r1"];
-    let nodeB = row["nodeB"];
-    let relation2 = row["r2"];
-    let nodeC = row["nodeC"];
-    let relation3 = row["r3"];
-    resArray.push({ id, nodeA, nodeB, nodeC, relation1, relation2, relation3 });
-    id++;
-    } 
+      let nodeA = row["nodeA"];
+      let relation1 = row["r1"];
+      let nodeB = row["nodeB"];
+      let relation2 = row["r2"];
+      let nodeC = row["nodeC"];
+      let relation3 = row["r3"];
+      resArray.push({id, nodeA, nodeB, nodeC, relation1, relation2, relation3});
+      id++;
+    }
 
     let message = "";
     if (resArray.length === 0) {
@@ -355,8 +356,8 @@ app.post("/explaination", (req, res) => {
       menuId: "explication",
       title: title,
       message: message,
-      myResArray: resArray,
-      relation3rd: relation3rd
+      relation3rd: relation3rd,
+      myResArray: resArray
     });
   });
 });
