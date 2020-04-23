@@ -42,7 +42,8 @@ delimiter ;
 
 -- END OF STORED PROCEDURE
 
-call createTable('','relation'); 
+call createTable('','relation');
+
 
 -- insert data from file into main table
 LOAD DATA INFILE 'r_isa.txt' INTO TABLE relation FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\r\n' (term_1, term_2, weight, relation_type);  
@@ -65,8 +66,8 @@ insert relation_3 select * from relation;
 
 -- call createTable('temporary','relation_temp'); 
 
--- drop table relation;
-drop table relation_2;
+drop table relation_new;
+-- drop table relation_2;
 
 -- 0 = associated 
 -- 6 = isA 
@@ -125,11 +126,13 @@ select a1.term_1, '->', a1.term_2, '<-', a2.term_1, 'donc', a1.term_1, '->', a2.
 where a2.term_1 = a1.term_2 and a1.relation_type = 6 and a2.relation_type = 17 and a1.weight > 0 and a2.weight > 0 order by rand() limit 1;
 
 
-select a1.term_1 as nodeA, '->', a1.term_2 as nodeB, '->', a2.term_2 as nodeC, 'donc', a3.term_1 as nodeA, '->', a3.term_2 as nodeC, a3.relation_type as rel
+select a3.term_1 as nodeA, '->', a3.term_2 as nodeC, 'parce que', a1.term_1 as nodeA, '->', a1.term_2 as nodeB, '->', a2.term_2 as nodeC, a1.relation_type as rel1, a2.relation_type as rel2, a3.relation_type as rel3
 	from relation as a1, relation_2 as a2, relation_3 as a3
     where a2.term_1 = a1.term_2 and a1.term_1 = a3.term_1 and a2.term_2 = a3.term_2
-    and a1.relation_type = 9 and a2.relation_type = 13 
-    and a1.weight > 0 and a2.weight > 0 
+	and a3.term_1 = 'lumière' and a3.term_2 = 'chaleur'
+    and a1.relation_type = 9 and a2.relation_type = 9
+    and a1.weight > 0 and a2.weight > 0 and a3.weight > 0
     order by rand() 
-		limit 1000;
-select count(*) from relation_3;
+		limit 10;
+
+select relation_type from relation where term_1 = 'frigo' and term_2 = 'glace';
