@@ -1,7 +1,12 @@
 body{
     text-align: center;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: medium;
+}
+
+input {
+    padding-left: 5px;
 }
 
 .bg-3 { 
@@ -19,7 +24,7 @@ body{
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
@@ -29,7 +34,16 @@ body{
   color: #1abc9c !important;;
 }
 
-/*--------- tableau relation -------------- */
+#like, #dislike {
+    color: #C0C0C0;
+    margin: 3px;
+}
+
+#like:hover, #dislike:hover {
+    color: #4CAF50;
+}
+
+/*--------- table relation -------------- */
 #relation {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;

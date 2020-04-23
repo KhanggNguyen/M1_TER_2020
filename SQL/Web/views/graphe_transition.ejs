@@ -1,3 +1,11 @@
+<form action="explaination" id="explaination" method="post">
+    <td><h3>Explaination</h3></td>
+    <td><input type="text" name="nodeA" placeholder="Term 1"></td>
+    <td><input type="number" name="relation3" placeholder="3rd Relation"></td>
+    <td><input type="text" name="nodeC" placeholder="Term 3"></td>
+    <td><button type="submit" class="btn btn-success">Find</button></td>
+</form>
+
 <table id="relation">
     <tr >
         <th class="id">ID</th>
@@ -20,8 +28,8 @@
                 <td><%= res.nodeC %></td>
                 <td><%= res.nodeA %> --[ <%= res.relation3 %> ]--> <%= res.nodeC %></td>
                 <td>
-                    <a><i onclick="up(this)" class="fa fa-thumbs-up"></i></a>
-                    <a><i onclick="down(this)" class="fa fa-thumbs-down"></i></a>
+                    <a><i id="like" onclick="up(this)" class="fa fa-thumbs-up"></i></a>
+                    <a><i id="dislike" onclick="down(this)" class="fa fa-thumbs-down"></i></a>
                 </td>
             </tr>
         <% }) %>
@@ -35,7 +43,7 @@
             <td><input type="number" name="relation2" placeholder="2nd Relation"></td>
             <td><input type="text" name="nodeC" placeholder="Term 3"></td>
             <td><input type="number" name="relation3" placeholder="3rd Relation"></td>
-            <td><button type="button" class="btn btn-success">Find</button></td>
+            <td><button type="submit" class="btn btn-success">Find</button></td>
         </form>
     </tr>
 </table>
