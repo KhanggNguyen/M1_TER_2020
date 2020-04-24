@@ -324,6 +324,7 @@ app.post("/explaination", (req, res) => {
     "from relation as a1, relation_2 as a2, relation_3 as a3 " +
     "where a2.term_1 = a1.term_2 and a1.term_1 = a3.term_1 and a2.term_2 = a3.term_2" +
     nodeA + nodeC + relation3 +
+    " and a1.relation_type != 0 and a2.relation_type != 0" +
     " and a1.weight > 0 and a2.weight > 0 and a3.weight > 0 order by rand() limit 10;";
 
   db.query(query, (err, results) => {
@@ -353,7 +354,7 @@ app.post("/explaination", (req, res) => {
     res.render("index", {
       url: "transition",
       page: "Explication",
-      menuId: "explication",
+      menuId: "transition",
       title: title,
       message: message,
       relation3rd: relation3rd,
