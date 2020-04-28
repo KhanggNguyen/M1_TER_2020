@@ -154,7 +154,7 @@ app.post('/graphe_explication', async function(req,res){
         relation3 = "";
     }
 
-    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a.id <> b.id <> c.id AND r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeC + relation3 + 'return p  LIMIT 10 ;';
+    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a.id <> b.id <> c.id AND r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeC + relation3 + ' return p  LIMIT 100 ;';
     await session.run(query)
             .then(function(result){
                 var titre = "Graphe explications";
