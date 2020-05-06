@@ -30,15 +30,21 @@
                     <p><%= res.nodeF %> --[ <%= res.relation3 %> ]--> <%= res.nodeE %></p></td>
                 <td>
                     <form  action="up" id="up" method="POST">
-                        <input type="hidden" name="nodeA" value=<%= res.nodeA %> >
-                        <input type="hidden" name="nodeC" value=<%= res.nodeC %> >
-                        <input type="hidden" name="relation3" value=<%= res.relation3 %> >
+                        <input type="hidden" id="UpNodeA" name="nodeA" value='<%= res.nodeA %>' >
+                        <input type="hidden" id="UpNodeC" name="nodeC" value='<%= res.nodeC %>' >
+                        <input type="hidden" id="UpNodeE" name="nodeE" value='<%= res.nodeE %>' >
+                        <input type="hidden" id="UpRelation1" name="relation1" value='<%= res.relation1 %>' >
+                        <input type="hidden" id="UpRelation2" name="relation2" value='<%= res.relation2 %>' >
+                        <input type="hidden" id="UpRelation3" name="relation3" value='<%= res.relation3 %>' >
                         <button type="submit"><i class="fa fa-thumbs-up"></i></button>
                     </form>
                     <form  action="down" id="down" method="POST">
-                        <input type="hidden" name="nodeA" value=<%= res.nodeA %> >
-                        <input type="hidden" name="nodeC" value=<%= res.nodeC %> >
-                        <input type="hidden" name="relation3" value=<%= res.relation3 %> >
+                        <input type="hidden" id="DownNodeA" name="nodeA" value='<%= res.nodeA %>' >
+                        <input type="hidden" id="DownNodeC" name="nodeC" value='<%= res.nodeC %>' >
+                        <input type="hidden" id="DownNodeE" name="nodeE" value='<%= res.nodeE %>' >
+                        <input type="hidden" id="DownRelation1" name="relation1" value='<%= res.relation1 %>' >
+                        <input type="hidden" id="DownRelation2" name="relation2" value='<%= res.relation2 %>' >
+                        <input type="hidden" id="DownRelation3" name="relation3" value='<%= res.relation3 %>' >
                         <button type="submit"><i class="fa fa-thumbs-down"></i></button>
                     </form>
                     <button><a href="/graphe_transition"><i class="fa fa-refresh"></i></a></button>

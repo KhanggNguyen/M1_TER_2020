@@ -21,6 +21,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 var driver = neo4j.driver('bolt://localhost', neo4j.auth.basic('neo4j', '1234567'));
+var driver2 = neo4j.driver('bolt://localhost', neo4j.auth.basic('neo4j', '1234567'));
 
 
 app.get('/', function(req,res,next){
@@ -131,35 +132,42 @@ app.get('/relations/:page', async function(req, res, next){
 });
 
 
-app.post('/graphe_explication', async function(req,res){
-    var session = driver.session();
-    var nodeA =  req.body.nodeA;
-    var nodeC = req.body.nodeC;
-    var relation3 = req.body.relation3;
-    if(nodeA != "" || !typeof nodeA === undefined){
-        nodeA = " AND a.label = \'" + nodeA + "\' ";
+app.post('/graphe_explication',async function(req,res, next){
+    let session = driver.session();
+    const tx = session.beginTransaction();
+    var nodeA_value =  req.body.nodeA;
+    var nodeC_value = req.body.nodeC;
+    var relation3_value = req.body.relation3;
+    let params = {} 
+    if(nodeA_value != "" || !typeof nodeA_value === undefined){
+        nodeA = " AND a.label = $nodeA ";
+        params.nodeA = nodeA_value;
     }else{
         nodeA = "";
     }
 
-    if(nodeC != "" || !typeof nodeC === undefined){
-        nodeC = " AND c.label = \'" + nodeC + "\' ";
+    if(nodeC_value != "" || !typeof nodeC_value === undefined){
+        nodeC = " AND c.label = $nodeC ";
+        params.nodeC = nodeC_value;
     }else{
         nodeC = "";
     }
 
-    if(relation3 != "" || !typeof relation3 === undefined){
-        relation3 = " AND type(r3) = \'" + relation3 + "\' ";
+    if(relation3_value != "" || !typeof relation3_value === undefined){
+        relation3 = " AND type(r3) = $relation3 ";
+        params.relation3 = relation3_value;
     }else{
         relation3 = "";
     }
+    let query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a.id <> b.id <> c.id AND r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeC + relation3 + ' return p ;';
+    let resArray = [];
+    var titre = "Graphe explications";
+    var id = 1;
+    await tx.run(query, params)
+            .then(result => {
 
-    query = 'MATCH p=(a)-[r1]->(b)-[r2]->(c)<-[r3]-(a) WHERE a.id <> b.id <> c.id AND r2.poids > 0 AND r1.poids > 0 ' + nodeA + nodeC + relation3 + ' return p  LIMIT 100 ;';
-    await session.run(query)
-            .then(function(result){
-                var titre = "Graphe explications";
-                var resArray = [];
-                var id = 1;
+                var query2 = 'MATCH (t:TRIANGLE) WHERE t.nodeA = $nodeA AND t.nodeC = $nodeC AND t.nodeE = $nodeE AND t.relation1 = toInteger($relation1) AND t.relation2 = toInteger($relation2) AND t.relation3 = toInteger($relation3) AND t.like < 0 return t';
+                counter = 0;
                 result.records.forEach(function(record){
                     var nodeA = record._fields[0].segments[0].start.properties.label;
                     var r1 = record._fields[0].segments[0].relationship.type;
@@ -170,37 +178,53 @@ app.post('/graphe_explication', async function(req,res){
                     var nodeE = record._fields[0].segments[2].start.properties.label;
                     var r3 = record._fields[0].segments[2].relationship.type;
                     var nodeF = record._fields[0].segments[2].end.properties.label;
-                    resArray.push({
-                        id : id, 
-                        nodeA: nodeA,
-                        nodeB: nodeB,
-                        nodeC : nodeC,
-                        nodeD : nodeD,
-                        nodeE : nodeE,
-                        nodeF : nodeF,
-                        relation1 : r1,
-                        relation2 : r2, 
-                        relation3 : r3,
+                    var params2 = {nodeA : nodeA, nodeC : nodeC, nodeE : nodeE, relation1 : parseInt(r1), relation2 : parseInt(r2), relation3 : parseInt(r3)};
+                    isValid = true;
+                    counter++;
+                    tx.run(query2, params2)
+                        .then(result2 => { 
+                            if(result2.records[0] !== undefined){
+                                isValid = false;
+                            }
+                        })
+                        .catch(function(err){
+                            console.log(err);
+                        });
+
+                        resArray.push({
+                            id : id, 
+                            nodeA: nodeA,
+                            nodeB: nodeB,
+                            nodeC : nodeC,
+                            nodeD : nodeD,
+                            nodeE : nodeE,
+                            nodeF : nodeF,
+                            relation1 : r1,
+                            relation2 : r2, 
+                            relation3 : r3,
+                        });
+                        id++;
+                });
+                    message="";
+                    if(resArray.length == 0){
+                        message = 'Aucuns couples de relations ont été trouvé !'
+                    } 
+                    
+                    res.render('index', {
+                        url : "transition",
+                        page:'Explications', menuId:'explication',
+                        titre : titre,
+                        message: message,
+                        myResArray : resArray
                     });
-                    //console.log(resArray);
-                    id++;
-                });
-                message="";
-                if(resArray.length == 0){
-                    message = 'Aucuns couples de relations ont été trouvé !'
-                }
-                res.render('index', {
-                    url : "transition",
-                    page:'Explications', menuId:'explication',
-                    titre : titre,
-                    message: message,
-                    myResArray : resArray
-                });
+                                 
             })
-            .catch(function(err){
+            .then(() => {
+                session.close();
+            })
+            .catch(err => {
                 console.log(err);
             });
-
 });
 
 app.get('/graphe_transition',async function(req,res){
@@ -240,6 +264,7 @@ app.get('/graphe_transition',async function(req,res){
                     //console.log(resArray);
                     id++;
                 });
+                session.close();
                 res.render('index', {
                     url : "transition",
                     page:'Transition', menuId:'transition',
@@ -328,6 +353,7 @@ app.post('/transition_avec_param', async function(req, res){
                 if(resArray.length == 0){
                     message = 'Aucuns couples de relations ont été trouvé !'
                 }
+                session.close();
                 res.render('index', {
                     url : "transition",
                     page:'Transition', menuId:'transition',
@@ -368,6 +394,7 @@ app.get('/graphe_deduction',async function(req,res){
                     });
                     id++;
                 });
+                session.close();
                 res.render('index', {
                     url : "deduction",
                     page:'Deduction', menuId:'deduction',
@@ -406,6 +433,7 @@ app.get('/graphe_abduction',async function(req,res){
                     });
                     id++;
                 });
+                session.close();
                 res.render('index', {
                     url : "abduction",
                     page:'Abduction', menuId:'abduction',
@@ -444,6 +472,7 @@ app.get('/graphe_induction',async function(req,res){
                     });
                     id++;
                 });
+                session.close();
                 res.render('index', {
                     url : "induction",
                     page:'Induction', menuId:'induction',
@@ -456,12 +485,47 @@ app.get('/graphe_induction',async function(req,res){
             });
 });
 
-app.get('/up', function(req, res, next){
+app.post('/up', async function(req, res, next){
+    var session = driver.session();
+    var nodeA =  req.body.nodeA;
+    var nodeC = req.body.nodeC;
+    var nodeE = req.body.nodeE;
+    var relation1 = req.body.relation1;
+    var relation2 = req.body.relation2;
+    var relation3 = req.body.relation3;
 
+    query = "MERGE (t:TRIANGLE {nodeA : \'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.like = toInteger(1) ON MATCH SET t.like = t.like + 1;";
+
+    await session
+        .run(query)
+        .then(function(result){
+           
+        })
+        .catch(function(err){
+            console.log(err);
+        });
 });
 
-app.get('/down', function(req, res, next){
-    
+app.post('/down', async function(req, res, next){
+    var session = driver.session();
+    var nodeA =  req.body.nodeA;
+    var nodeC = req.body.nodeC;
+    var nodeE = req.body.nodeE;
+    var relation1 = req.body.relation1;
+    var relation2 = req.body.relation2;
+    var relation3 = req.body.relation3;
+
+    query = "MERGE (t:TRIANGLE {nodeA :\'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.like = toInteger(-1) ON MATCH SET t.like = t.like - 1;";
+
+    await session
+        .run(query)
+        .then(function(result){
+        
+        })
+        .catch(function(err){
+            console.log(err);
+        });
+
 });
 
 app.post('/user_input', function(req, res, next){
