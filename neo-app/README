@@ -1,0 +1,8 @@
+Afin de démarrer le serveur, il est nécessaire d'installer NodeJS et les composants nécessaire. Vous retrouverez les instructions dans le lien suivant https://treehouse.github.io/installation-guides/windows/node-windows.html
+
+Suite à l'installation, vous pouvez rediriger le terminal vers ce dossier pour effectuer la mise à jour des packages de nodejs avec la commande "npm update"
+
+Ensuite, Vous devez changer la configuration du serveur neo4J dans le fichier app.js.
+
+Pour faciliter le démarrage, vous pouvez installer nodemon. https://www.npmjs.com/package/nodemon
+
