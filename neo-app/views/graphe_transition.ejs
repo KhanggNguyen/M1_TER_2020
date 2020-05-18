@@ -4,8 +4,8 @@
     <td><input type="text" name="nodeC" placeholder="Node C"></td>
     
     <td><button type="submit">Recherche explications</button></td>
-    
 </form>
+
 <table id="relation">
     <tr >
       <th class="id">ID</th>
@@ -47,14 +47,14 @@
                         <input type="hidden" id="DownRelation3" name="relation3" value='<%= res.relation3 %>' >
                         <button type="submit"><i class="fa fa-thumbs-down"></i></button>
                     </form>
-                    <button><a href="/graphe_transition"><i class="fa fa-refresh"></i></a></button>
+                    
                 </td>
             </tr>
         <% }) %>
     <% } %>
     
     <tr>
-        <td></td>
+        <td><button><a href="/graphe_transition"><i class="fa fa-refresh"></i></a></button></td>
         <form  action="transition_avec_param" id="transition_avec_param" method="POST">
             <td><input type="text" name="nodeA" placeholder="Node A"></td>
             <td><input type="number" name="relation1" placeholder="1ère Relation"></td>

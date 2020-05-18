@@ -31,11 +31,11 @@ time_start = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 fichier_relation = open("NewData/" + sys.argv[1], encoding="utf-8")
 lines = fichier_relation.readlines()
 #lines = fichier_relation.readlines()[250579:]#to skip certain first lines implemented
-for relation in reversed(lines) : #run in reversed
-#for relation in lines:
+#for relation in reversed(lines) : #run in reversed
+for relation in lines:
     counter = counter + 1
     print("line " + str(counter) + " : " + relation)
-    array_of_line = relation.split(';')
+    array_of_line = relation.split(';')#tokenize la ligne de type ['motA','motB','poids','\n']
     
     if len(matcher.match('Mot').where('_.label="' + array_of_line[0] + '"')) == 0:
         myNodeA = Node("Mot", label = array_of_line[0], id=id_counter)
@@ -60,3 +60,4 @@ time_end = datetime.now().strftime("%A %d. %B %Y %H:%M:%S")
 
 print("Début : " + time_start)
 print("Fin : " + time_end)
+

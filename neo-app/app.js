@@ -20,9 +20,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
 
-var driver = neo4j.driver('bolt://localhost', neo4j.auth.basic('neo4j', '1234567'));
-var driver2 = neo4j.driver('bolt://localhost', neo4j.auth.basic('neo4j', '1234567'));
-
+var driver = neo4j.driver('bolt://localhost', neo4j.auth.basic('neo4j', '1234567'));//initialize database
 
 app.get('/', function(req,res,next){
     query = 'MATCH (n) RETURN COUNT(n)';
@@ -132,7 +130,7 @@ app.get('/relations/:page', async function(req, res, next){
 });
 
 
-app.post('/graphe_explication',async function(req,res, next){
+app.post('/graphe_explication', async function(req,res, next){
     let session = driver.session();
     const tx = session.beginTransaction();
     var nodeA_value =  req.body.nodeA;
@@ -168,7 +166,7 @@ app.post('/graphe_explication',async function(req,res, next){
 
                 var query2 = 'MATCH (t:TRIANGLE) WHERE t.nodeA = $nodeA AND t.nodeC = $nodeC AND t.nodeE = $nodeE AND t.relation1 = toInteger($relation1) AND t.relation2 = toInteger($relation2) AND t.relation3 = toInteger($relation3) AND t.like < 0 return t';
                 counter = 0;
-                result.records.forEach(function(record){
+                result.records.forEach(async function(record){
                     var nodeA = record._fields[0].segments[0].start.properties.label;
                     var r1 = record._fields[0].segments[0].relationship.type;
                     var nodeB = record._fields[0].segments[0].end.properties.label;
@@ -179,52 +177,57 @@ app.post('/graphe_explication',async function(req,res, next){
                     var r3 = record._fields[0].segments[2].relationship.type;
                     var nodeF = record._fields[0].segments[2].end.properties.label;
                     var params2 = {nodeA : nodeA, nodeC : nodeC, nodeE : nodeE, relation1 : parseInt(r1), relation2 : parseInt(r2), relation3 : parseInt(r3)};
-                    isValid = true;
-                    counter++;
-                    tx.run(query2, params2)
-                        .then(result2 => { 
-                            if(result2.records[0] !== undefined){
-                                isValid = false;
+                    isDone = false;
+                    //pour attendre tous les lignes soient vérifiés
+                    await tx.run(query2, params2)
+                        .then(result2 => {
+                            counter++;
+                            if(result2.records[0] === undefined){
+                                resArray.push({
+                                    id : id, 
+                                    nodeA: nodeA,
+                                    nodeB: nodeB,
+                                    nodeC : nodeC,
+                                    nodeD : nodeD,
+                                    nodeE : nodeE,
+                                    nodeF : nodeF,
+                                    relation1 : r1,
+                                    relation2 : r2, 
+                                    relation3 : r3,
+                                });
+                                id++;
+                            }
+                            if(counter == result.records.length) isDone = true;
+                        })
+                        .then(() => {
+                            if(isDone){
+                                message="";
+                                if(resArray.length == 0){
+                                    message = 'Aucuns couples de relations ont été trouvé !'
+                                }
+                                if(req.next){
+                                    res.render('index', {
+                                        url : "transition",
+                                        page:'Explications', menuId:'explication',
+                                        titre : titre,
+                                        message: message,
+                                        myResArray : resArray
+                                    });
+                                }
                             }
                         })
                         .catch(function(err){
                             console.log(err);
                         });
-
-                        resArray.push({
-                            id : id, 
-                            nodeA: nodeA,
-                            nodeB: nodeB,
-                            nodeC : nodeC,
-                            nodeD : nodeD,
-                            nodeE : nodeE,
-                            nodeF : nodeF,
-                            relation1 : r1,
-                            relation2 : r2, 
-                            relation3 : r3,
-                        });
-                        id++;
-                });
-                    message="";
-                    if(resArray.length == 0){
-                        message = 'Aucuns couples de relations ont été trouvé !'
-                    } 
-                    
-                    res.render('index', {
-                        url : "transition",
-                        page:'Explications', menuId:'explication',
-                        titre : titre,
-                        message: message,
-                        myResArray : resArray
-                    });
-                                 
+                });      
             })
             .then(() => {
-                session.close();
             })
             .catch(err => {
                 console.log(err);
             });
+            
+            
 });
 
 app.get('/graphe_transition',async function(req,res){
@@ -494,7 +497,7 @@ app.post('/up', async function(req, res, next){
     var relation2 = req.body.relation2;
     var relation3 = req.body.relation3;
 
-    query = "MERGE (t:TRIANGLE {nodeA : \'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.like = toInteger(1) ON MATCH SET t.like = t.like + 1;";
+    query = "MERGE (t:TRIANGLE {nodeA : \'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.like = toInteger(1), t.dislike = toInteger(0) ON MATCH SET t.like = t.like + 1;";
 
     await session
         .run(query)
@@ -515,7 +518,7 @@ app.post('/down', async function(req, res, next){
     var relation2 = req.body.relation2;
     var relation3 = req.body.relation3;
 
-    query = "MERGE (t:TRIANGLE {nodeA :\'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.like = toInteger(-1) ON MATCH SET t.like = t.like - 1;";
+    query = "MERGE (t:TRIANGLE {nodeA :\'" + nodeA + "\', nodeC :\'" + nodeC + "\', nodeE :\'" + nodeE + "\', relation1 : toInteger(" + relation1 + "), relation2 : toInteger(" + relation2 + "), relation3 : toInteger(" + relation3 + ")}) ON CREATE SET t.dislike = toInteger(-1), t.like = toInteger(0) ON MATCH SET t.dislike = t.dislike + 1;";
 
     await session
         .run(query)
