@@ -1,0 +1,51 @@
+<form action="explaination" id="explaination" method="post">
+    <td><h3>Explaination</h3></td>
+    <td><input type="text" name="nodeA" placeholder="Term 1"></td>
+    <td><input type="number" name="relation3" placeholder="3rd Relation"></td>
+    <td><input type="text" name="nodeC" placeholder="Term 3"></td>
+    <td><button type="submit" class="btn btn-success">Find</button></td>
+</form>
+
+<p><%= locals.relation3rd %></p>
+
+<table id="relation">
+    <tr >
+        <th class="id">ID</th>
+        <th class="node">Term 1</th>
+        <th class="relation">Relation</th>
+        <th class="node">Term 2</th>
+        <th class="relation">Relation</th>
+        <th class="node">Term 3</th>
+        <th class="transition">Transition</th>
+        <th class="action">Action</th>
+      </tr>
+    <%if (myResArray.length > 0) { %>
+        <% myResArray.forEach((res) => { %> 
+            <tr>
+                <td><%= res.id %></td>
+                <td><%= res.nodeA %></td>
+                <td><%= res.relation1 %></td>
+                <td><%= res.nodeB %></td>
+                <td><%= res.relation2 %></td>
+                <td><%= res.nodeC %></td>
+                <td><%= res.nodeA %> --[ <%= res.relation3 %> ]--> <%= res.nodeC %></td>
+                <td>
+                    <a><i id="like" onclick="up(this)" class="fa fa-thumbs-up"></i></a>
+                    <a><i id="dislike" onclick="down(this)" class="fa fa-thumbs-down"></i></a>
+                </td>
+            </tr>
+        <% }) %>
+    <% } %>
+    <tr>
+        <td></td>
+        <form  action="custom_transition" id="custom_transition" method="POST">
+            <td><input type="text" name="nodeA" placeholder="Term 1"></td>
+            <td><input type="number" name="relation1" placeholder="1st Relation"></td>
+            <td><input type="text" name="nodeB" placeholder="Term 2"></td>
+            <td><input type="number" name="relation2" placeholder="2nd Relation"></td>
+            <td><input type="text" name="nodeC" placeholder="Term 3"></td>
+            <td><input type="number" name="relation3" placeholder="3rd Relation"></td>
+            <td><button type="submit" class="btn btn-success">Find</button></td>
+        </form>
+    </tr>
+</table>

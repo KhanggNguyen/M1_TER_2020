@@ -1,8 +1,0 @@
-term_1,relation_type,term_2,relation_type,term_2,donc,term_1,relation_type,term_2
-r?aliser,14,scanner,14,"dessin ? main lev?e",donc,r?aliser,14,"dessin ? main lev?e"
-r?aliser,14,scanner,14,patient>10595,donc,r?aliser,14,patient>10595
-r?aliser,14,scanner,14,patient,donc,r?aliser,14,patient
-utiliser,14,scanner,14,"dessin ? main lev?e",donc,utiliser,14,"dessin ? main lev?e"
-utiliser,14,scanner,14,patient>10595,donc,utiliser,14,patient>10595
-utiliser,14,scanner,14,patient,donc,utiliser,14,patient
-"garder au frais",14,vaccin,14,rougeole,donc,"garder au frais",14,rougeole
